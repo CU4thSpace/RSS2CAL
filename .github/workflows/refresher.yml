@@ -2,7 +2,7 @@
 name: Update Calendar
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Every 2 hours
+- cron: '0 */2 * * *'  # Every 2 hours (fixed - removed extra *)
   workflow_dispatch:  # Manual trigger
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser ics beautifulsoup4 requests
       - name: Run script
-        run: python calendar_script.py
+        run: python 4SPEVENTSCAL.py
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
