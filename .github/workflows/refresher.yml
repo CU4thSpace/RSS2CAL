@@ -1,0 +1,27 @@
+# .github/workflows/update-calendar.yml
+name: Update Calendar
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Every 2 hours
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install feedparser ics beautifulsoup4 requests
+      - name: Run script
+        run: python calendar_script.py
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add *.ics
+          git commit -m "Update calendar" || exit 0
+          git push
