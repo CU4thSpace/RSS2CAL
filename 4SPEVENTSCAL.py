@@ -15,8 +15,8 @@ import os
 import logging
 from pathlib import Path
 
-# Configuration
-RSS_URL = 'https://www.concordia.ca/content/concordia/en/next-gen/4th-space/programming/RSSCAL/_jcr_content/content-main/grid_container_671899525/grid-container-parsys/events_list.xml'
+# Configuration for RSS - this is the RSS from AEM (Changed to 30 Events Calendar)
+RSS_URL = 'https://www.concordia.ca/content/concordia/en/next-gen/4th-space/programming/RSSCAL/_jcr_content/content-main/grid_container_671899525/grid-container-parsys/events_list_88801239.xml'
 OUTPUT_FILE = '4SP_CAL_RSS_Events.ics'
 LOG_FILE = 'calendar_update.log'
 
