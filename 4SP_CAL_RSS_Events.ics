@@ -2,43 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\nJuly 9\, 2025\, 1 p.m. - 1:30 p.m.
-DTEND:20250709T173000Z
-DTSTART:20250709T170000Z
-SUMMARY:A Closer Look: The Sacher Lab
-UID:9dff0f86-c08e-435f-88a8-e0fe8794a06a@9dff.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/02/a-closer-look.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Voices of English-Speaking Quebec \n\nJune 18\, 2025\, 2 p.m. - 5 p.m.
 DTEND:20250618T210000Z
 DTSTART:20250618T180000Z
 SUMMARY:Film Screening: Regional Realities - Outaouais and Rouyn-Noranda / in Montreal\, QC
-UID:d8d55877-613d-4501-877f-cee4c1c41fe2@d8d5.org
+UID:b73ddaa6-04fd-4e3f-8022-e857ab9d74b7@b73d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/18/regional-realities.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
-DTEND:20250722T213000Z
-DTSTART:20250722T143000Z
-SUMMARY:Arts for Laughs
-UID:f4d8a940-c7b5-491d-a849-4f1228e98de4@f4d8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Possibilities and Practices in Comprehensive Sexuality Education \n\nJune 19\, 2025\, 4 p.m. - 6 p.m.
-DTEND:20250619T220000Z
-DTSTART:20250619T200000Z
-SUMMARY:Who’s Afraid of Sex Ed?
-UID:b17c5c03-478e-4f1b-b694-75e055667f43@b17c.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/19/whos-afraid-of-sex-ed.html
+DESCRIPTION:\nJuly 9\, 2025\, 1 p.m. - 1:30 p.m.
+DTEND:20250709T173000Z
+DTSTART:20250709T170000Z
+SUMMARY:A Closer Look: The Sacher Lab
+UID:86ef2a9c-a3e5-4ad8-b9bf-6c710d2f67a8@86ef.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/02/a-closer-look.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJune 17\, 2025\, 2 p.m. - 4 p.m.
 DTEND:20250617T200000Z
 DTSTART:20250617T180000Z
 SUMMARY:Rest-Oration
-UID:43b5a6f0-f1cc-4482-9c1b-c91542db01b6@43b5.org
+UID:43a17433-3c1a-4af6-83ff-a8cc792712c2@43a1.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/17/rest-oration.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Possibilities and Practices in Comprehensive Sexuality Education \n\nJune 19\, 2025\, 4 p.m. - 6 p.m.
+DTEND:20250619T220000Z
+DTSTART:20250619T200000Z
+SUMMARY:Who’s Afraid of Sex Ed?
+UID:16a6fee4-11b0-47fa-9eca-6c41eef5c16f@16a6.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/19/whos-afraid-of-sex-ed.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
+DTEND:20250722T213000Z
+DTSTART:20250722T143000Z
+SUMMARY:Arts for Laughs
+UID:f88d1e40-84b9-4f4a-b3a0-d62f218f5f14@f88d.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
 END:VEVENT
 END:VCALENDAR
