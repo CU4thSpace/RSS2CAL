@@ -2,19 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Possibilities and Practices in Comprehensive Sexuality Education \n\nJune 19\, 2025\, 4 p.m. - 6 p.m.
-DTEND:20250619T220000Z
-DTSTART:20250619T200000Z
-SUMMARY:Who’s Afraid of Sex Ed?
-UID:4aa087b3-39f0-4841-b1b0-2c797f4d59b2@4aa0.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/19/whos-afraid-of-sex-ed.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nJune 17\, 2025\, 2 p.m. - 4 p.m.
 DTEND:20250617T200000Z
 DTSTART:20250617T180000Z
 SUMMARY:Rest-Oration
-UID:1dc1cbbb-1d72-4806-9f2d-89dce50bc4b7@1dc1.org
+UID:8f4b943a-450d-40fd-b23e-b4bcbdeca7c2@8f4b.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/17/rest-oration.html
 END:VEVENT
 BEGIN:VEVENT
@@ -22,23 +14,31 @@ DESCRIPTION:\nJuly 9\, 2025\, 1 p.m. - 1:30 p.m.
 DTEND:20250709T173000Z
 DTSTART:20250709T170000Z
 SUMMARY:A Closer Look: The Sacher Lab
-UID:97d69d53-8bee-4d85-87f0-4714d460c377@97d6.org
+UID:3e7e0666-ba2e-4eb4-be28-fd2b25c8bd53@3e7e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/02/a-closer-look.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
-DTEND:20250722T213000Z
-DTSTART:20250722T143000Z
-SUMMARY:Arts for Laughs
-UID:dfb3c08f-1c70-49aa-a10a-cc6dc8f148b2@dfb3.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
+DESCRIPTION:Possibilities and Practices in Comprehensive Sexuality Education \n\nJune 19\, 2025\, 4 p.m. - 6 p.m.
+DTEND:20250619T220000Z
+DTSTART:20250619T200000Z
+SUMMARY:Who’s Afraid of Sex Ed?
+UID:3f44e1ed-1f11-4f38-9045-0b4ed8bc6bc5@3f44.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/19/whos-afraid-of-sex-ed.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Voices of English-Speaking Quebec \n\nJune 18\, 2025\, 2 p.m. - 5 p.m.
 DTEND:20250618T210000Z
 DTSTART:20250618T180000Z
 SUMMARY:Film Screening: Regional Realities - Outaouais and Rouyn-Noranda / in Montreal\, QC
-UID:db646daf-54b0-40af-a1cc-879007b5c27c@db64.org
+UID:19421cf2-0378-4fee-aa87-ededb3d5c279@1942.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/18/regional-realities.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
+DTEND:20250722T213000Z
+DTSTART:20250722T143000Z
+SUMMARY:Arts for Laughs
+UID:48f3b724-ae88-4007-84b1-f57848137ea4@48f3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
 END:VEVENT
 END:VCALENDAR
