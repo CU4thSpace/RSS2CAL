@@ -2,27 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\nJuly 9\, 2025\, 1 p.m. - 1:30 p.m.
-DTEND:20250709T173000Z
-DTSTART:20250709T170000Z
-SUMMARY:A Closer L👀k: The Sacher Lab
-UID:b0eed9bf-ea88-40cc-865e-947b8df047b3@b0ee.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/02/a-closer-look.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJune 25\, 2025 - June 26\, 2025\, 10 a.m. - 6 p.m.
-DTEND:20250626T220000Z
-DTSTART:20250626T140000Z
-SUMMARY:this space is for you 2.0
-UID:0122b68e-d9eb-4cff-8494-75a87ddcbf65@0122.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/23/pulse-residency.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
 DTEND:20250722T213000Z
 DTSTART:20250722T143000Z
 SUMMARY:Arts for Laughs
-UID:634b2448-ad08-410f-8648-e481b346abb3@634b.org
+UID:1cdf0bbe-e78d-41c0-ba78-ee45bb1a6ffe@1cdf.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,7 +14,23 @@ DESCRIPTION:Possibilities and Practices in Comprehensive Sexuality Education \n\
 DTEND:20250619T220000Z
 DTSTART:20250619T200000Z
 SUMMARY:Who’s Afraid of Sex Ed?
-UID:cf3d0012-8004-4cc8-b6e6-4203cd5affb7@cf3d.org
+UID:6532d20d-25e7-42e3-b4ec-f3da173be9d2@6532.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/19/whos-afraid-of-sex-ed.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 9\, 2025\, 1 p.m. - 1:30 p.m.
+DTEND:20250709T173000Z
+DTSTART:20250709T170000Z
+SUMMARY:A Closer L👀k: The Sacher Lab
+UID:e511040b-d882-4fd0-ba2f-ef6fc9a8bc98@e511.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/02/a-closer-look.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJune 25\, 2025 - June 26\, 2025\, 10 a.m. - 6 p.m.
+DTEND:20250626T220000Z
+DTSTART:20250626T140000Z
+SUMMARY:this space is for you 2.0
+UID:7ef0009d-65ad-48ae-88a1-00b1f915e355@7ef0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/23/pulse-residency.html
 END:VEVENT
 END:VCALENDAR
