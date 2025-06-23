@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\nJuly 9\, 2025\, 1 p.m. - 1:30 p.m.
-DTEND:20250709T173000Z
-DTSTART:20250709T170000Z
-SUMMARY:A Closer L👀k: The Sacher Lab
-UID:dfb18c04-311d-428c-a538-59568d9609b1@dfb1.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/02/a-closer-look.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nJune 25\, 2025 - June 26\, 2025\, 10 a.m. - 6 p.m.
 DTEND:20250626T220000Z
 DTSTART:20250626T140000Z
 SUMMARY:this space is for you 2.0
-UID:d29c018c-370f-48a8-91e0-515250abc143@d29c.org
+UID:ebe05825-dbc3-4e21-8acb-aab80afa5540@ebe0.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/23/pulse-residency.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 9\, 2025\, 1 p.m. - 1:30 p.m.
+DTEND:20250709T173000Z
+DTSTART:20250709T170000Z
+SUMMARY:A Closer L👀k: The Sacher Lab
+UID:7d9fe569-0fac-4ae5-bf5f-398828896db5@7d9f.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/02/a-closer-look.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
 DTEND:20250722T213000Z
 DTSTART:20250722T143000Z
 SUMMARY:Arts for Laughs
-UID:57585c3d-bed8-4613-a9ad-88c52467d4b1@5758.org
+UID:401537ab-fe48-405b-bbbc-0364dcba43fe@4015.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
 END:VEVENT
 END:VCALENDAR
