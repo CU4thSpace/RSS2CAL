@@ -2,11 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
+DTEND:20251008T210000Z
+DTSTART:20251008T190000Z
+SUMMARY:Knowledge Politics
+UID:76325691-bd00-46bc-9c3c-31beed914fcb@7632.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Transformations\n\nJuly 16\, 2025\, 1:30 p.m. - 3:30 p.m.
+DTEND:20250716T193000Z
+DTSTART:20250716T173000Z
+SUMMARY:On Intersex Joy
+UID:d58117f5-5d93-430f-be08-c8ab08c70f8b@d581.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/16/on-intersex-joy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 9\, 2025\, 1 p.m. - 1:30 p.m.
+DTEND:20250709T173000Z
+DTSTART:20250709T170000Z
+SUMMARY:A Closer L👀k: The Sacher Lab
+UID:e483ec62-8e3b-47bb-b757-bbd3e28c62f1@e483.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/02/a-closer-look.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\nJune 25\, 2025 - June 26\, 2025\, 10 a.m. - 6 p.m.
 DTEND:20250626T220000Z
 DTSTART:20250626T140000Z
 SUMMARY:this space is for you 2.0
-UID:e57e9c9e-2ebb-41c3-80f1-d1de75a79434@e57e.org
+UID:efdd910e-f754-42fe-b4a9-a131bd2e3b05@efdd.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/23/pulse-residency.html
 END:VEVENT
 BEGIN:VEVENT
@@ -14,23 +38,15 @@ DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
 DTEND:20250722T213000Z
 DTSTART:20250722T143000Z
 SUMMARY:Arts for Laughs
-UID:b570db9f-fffc-43f2-9c7d-adb76432d23d@b570.org
+UID:9abbee20-7ddd-4d5b-8e3e-721e24e97b67@9abb.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Transformations\n\nJuly 16\, 2025\, 1:30 p.m. - 3:30 p.m.
-DTEND:20250716T193000Z
-DTSTART:20250716T173000Z
-SUMMARY:On Intersex Joy
-UID:be961aed-bdfa-4b33-aedd-4916e6f04ea0@be96.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/16/on-intersex-joy.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:8c6babe2-5a4e-40dc-989e-50aa6d8f6156@8c6b.org
+UID:b274ce4e-751a-4daf-989b-f5e8df1011e7@b274.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
@@ -38,23 +54,7 @@ DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\,
 DTEND:20260210T220000Z
 DTSTART:20260210T200000Z
 SUMMARY:Civil Discourse on Campus
-UID:edb27ad5-046d-4ce8-b489-6fba04d30362@edb2.org
+UID:41fef8cd-e177-4575-8233-c1dd3acdbf02@41fe.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJuly 9\, 2025\, 1 p.m. - 1:30 p.m.
-DTEND:20250709T173000Z
-DTSTART:20250709T170000Z
-SUMMARY:A Closer L👀k: The Sacher Lab
-UID:d22b1afb-afe0-4efd-a339-a8b457789d3b@d22b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/02/a-closer-look.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
-DTEND:20251008T210000Z
-DTSTART:20251008T190000Z
-SUMMARY:Knowledge Politics
-UID:b7e3ef45-09d5-4812-9b2a-cd32c2d1b71b@b7e3.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
 END:VEVENT
 END:VCALENDAR
