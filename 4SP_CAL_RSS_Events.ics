@@ -2,27 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\nJune 25\, 2025 - June 26\, 2025\, 10 a.m. - 6 p.m.
-DTEND:20250626T220000Z
-DTSTART:20250626T140000Z
-SUMMARY:this space is for you 2.0
-UID:ec43937a-8a31-434d-8fb4-1da8761e5e86@ec43.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/23/pulse-residency.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
-DTEND:20251008T210000Z
-DTSTART:20251008T190000Z
-SUMMARY:Knowledge Politics
-UID:0cb1f319-f603-4632-bdc8-6d161537f9b0@0cb1.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
+DESCRIPTION:\nJuly 9\, 2025\, 1 p.m. - 1:30 p.m.
+DTEND:20250709T173000Z
+DTSTART:20250709T170000Z
+SUMMARY:A Closer L👀k: The Sacher Lab
+UID:8d251678-e66a-4a86-a2b0-d14a3584da88@8d25.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/02/a-closer-look.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260210T220000Z
 DTSTART:20260210T200000Z
 SUMMARY:Civil Discourse on Campus
-UID:47f01af8-96bd-4a35-9978-8b2d8889df27@47f0.org
+UID:97aa9cf7-63ff-486e-b8e0-fd4c2a2def38@97aa.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,7 +22,7 @@ DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
 DTEND:20250722T213000Z
 DTSTART:20250722T143000Z
 SUMMARY:Arts for Laughs
-UID:0a88642c-eab8-4da6-a8a7-d4f21962b329@0a88.org
+UID:18fc6f97-a1cb-4343-94ff-369e9275ea0b@18fc.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
 END:VEVENT
 BEGIN:VEVENT
@@ -38,31 +30,39 @@ DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:0fef602f-5b2f-4228-ae2f-b53649ae7935@0fef.org
+UID:6322cce0-04ae-4bc6-8c3d-01077621afd5@6322.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nJuly 9\, 2025\, 1 p.m. - 1:30 p.m.
-DTEND:20250709T173000Z
-DTSTART:20250709T170000Z
-SUMMARY:A Closer L👀k: The Sacher Lab
-UID:5c2f14a6-9042-42fc-b2f9-84f66658045d@5c2f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/02/a-closer-look.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJuly 28\, 2025\, 3:30 p.m. - 6 p.m.
-DTEND:20250728T220000Z
-DTSTART:20250728T193000Z
-SUMMARY:AACE 3+1MT Construction Elevator Pitch Competition
-UID:c8c73760-dc26-4235-a65e-f00571e9beab@c8c7.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/28/construction-elevator-pitch.html
+DESCRIPTION:\nJune 25\, 2025 - June 26\, 2025\, 10 a.m. - 6 p.m.
+DTEND:20250626T220000Z
+DTSTART:20250626T140000Z
+SUMMARY:this space is for you 2.0
+UID:fc09a989-468d-44e6-afdf-7794e9f307cb@fc09.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/06/23/pulse-residency.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Transformations\n\nJuly 16\, 2025\, 1:30 p.m. - 3:30 p.m.
 DTEND:20250716T193000Z
 DTSTART:20250716T173000Z
 SUMMARY:On Intersex Joy
-UID:9ebb9ee2-7044-4fa6-a088-0827cd4c8242@9ebb.org
+UID:fdc5d89c-ae3e-485b-b845-a05fe65a04f4@fdc5.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/16/on-intersex-joy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 28\, 2025\, 3:30 p.m. - 6 p.m.
+DTEND:20250728T220000Z
+DTSTART:20250728T193000Z
+SUMMARY:AACE 3+1MT Construction Elevator Pitch Competition
+UID:4c0c174f-beb3-4076-8575-bc69e12c25b2@4c0c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/28/construction-elevator-pitch.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
+DTEND:20251008T210000Z
+DTSTART:20251008T190000Z
+SUMMARY:Knowledge Politics
+UID:6ca07e7f-e4f1-4703-b47e-1e1ea2ce1ba0@6ca0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
 END:VEVENT
 END:VCALENDAR
