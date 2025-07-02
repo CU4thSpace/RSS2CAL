@@ -2,35 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
-DTEND:20251008T210000Z
-DTSTART:20251008T190000Z
-SUMMARY:Knowledge Politics
-UID:f2ae31b9-ae03-4165-bcf2-7075aafb3dce@f2ae.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJuly 28\, 2025\, 3:30 p.m. - 6 p.m.
-DTEND:20250728T220000Z
-DTSTART:20250728T193000Z
-SUMMARY:AACE 3+1MT Construction Elevator Pitch Competition
-UID:a568a298-5d25-468c-841c-63721b032a3e@a568.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/28/construction-elevator-pitch.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:8ab61574-005e-4c44-abc5-6ad23ed66bd9@8ab6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Transformations\n\nJuly 16\, 2025\, 1:30 p.m. - 3:30 p.m.
 DTEND:20250716T193000Z
 DTSTART:20250716T173000Z
 SUMMARY:On Intersex Joy
-UID:bacfa105-1645-4890-9f50-67ed6e9bb5de@bacf.org
+UID:5ba42e4c-193a-47c6-9443-c3d700994c0b@5ba4.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/16/on-intersex-joy.html
 END:VEVENT
 BEGIN:VEVENT
@@ -38,31 +14,55 @@ DESCRIPTION:\nJuly 9\, 2025\, 1 p.m. - 1:30 p.m.
 DTEND:20250709T173000Z
 DTSTART:20250709T170000Z
 SUMMARY:A Closer L👀k: The Sacher Lab
-UID:a60969c6-6405-49ff-a465-c4ebbb1b1bae@a609.org
+UID:41e27f37-a30b-44a5-b69d-f3af9854780b@41e2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/02/a-closer-look.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
-DTEND:20250722T213000Z
-DTSTART:20250722T143000Z
-SUMMARY:Arts for Laughs
-UID:f5a4b534-49a7-4508-ab1e-a4a383773d49@f5a4.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJuly 10\, 2025\, 1 p.m. - 1:30 p.m.
 DTEND:20250710T173000Z
 DTSTART:20250710T170000Z
 SUMMARY:A Closer L👀k: The Turak Functional Nanomaterials Laboratory
-UID:37dcba74-86c5-4b3c-a95e-d20d51e83582@37dc.org
+UID:00d19675-345d-4c20-95e2-b0b857f06a1a@00d1.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/10/a-closer-look.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:11ca2cd9-f9ef-4251-8764-f1e1ad74e1dc@11ca.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 28\, 2025\, 3:30 p.m. - 6 p.m.
+DTEND:20250728T220000Z
+DTSTART:20250728T193000Z
+SUMMARY:AACE 3+1MT Construction Elevator Pitch Competition
+UID:41acd188-9878-40ac-a3ca-6e3bd772f4e6@41ac.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/28/construction-elevator-pitch.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
+DTEND:20250722T213000Z
+DTSTART:20250722T143000Z
+SUMMARY:Arts for Laughs
+UID:137e02d5-5800-48d6-913e-87f28f9f6904@137e.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
+DTEND:20251008T210000Z
+DTSTART:20251008T190000Z
+SUMMARY:Knowledge Politics
+UID:a6465b8d-217f-4568-afeb-e205d3087b64@a646.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:c7e0347d-cda5-4255-a6e6-c9dd83623c15@c7e0.org
+UID:840efb1f-afef-41c9-b8f3-211d5ee3954a@840e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 END:VCALENDAR
