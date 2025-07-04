@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
-DTEND:20251008T210000Z
-DTSTART:20251008T190000Z
-SUMMARY:Knowledge Politics
-UID:cf2e599d-bb9b-4301-805e-3f4232b4f4ff@cf2e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:d3a87ca2-0ab4-4b90-b572-a99c5321bf39@d3a8.org
+UID:5b2f937c-0b13-4b08-a9b9-bac352450818@5b2f.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Year Later - Tree Planting Project with Jackie Martin\n\nJuly 8\, 2025\, 3 p.m. - 4 p.m.
+DTEND:20250708T200000Z
+DTSTART:20250708T190000Z
+SUMMARY:A Closer L👀k: Loyola Tree Project
+UID:376118b6-c84f-49ab-b32e-cf02ea25cdde@3761.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/08/a-closer-look.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
 DTEND:20250722T213000Z
 DTSTART:20250722T143000Z
 SUMMARY:Arts for Laughs
-UID:fbb30b41-5f16-4746-9e08-ef0db8df7b02@fbb3.org
+UID:483e6e7d-791a-4f63-a7c1-2b860e032d47@483e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,39 +30,31 @@ DESCRIPTION:\nJuly 9\, 2025\, 1 p.m. - 1:30 p.m.
 DTEND:20250709T173000Z
 DTSTART:20250709T170000Z
 SUMMARY:A Closer L👀k: The Sacher Lab
-UID:d2ca57cd-5689-43b2-a68e-dbaa5182bbd0@d2ca.org
+UID:1544a446-3308-46ed-9be6-d4ca5dd2e14d@1544.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/02/a-closer-look.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:A Year Later - Tree Planting Project with Jackie Martin\n\nJuly 8\, 2025\, 3 p.m. - 4 p.m.
-DTEND:20250708T200000Z
-DTSTART:20250708T190000Z
-SUMMARY:A Closer L👀k: Loyola Tree Project
-UID:b58144ed-1445-4c53-8a67-fdbe8e440281@b581.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/08/a-closer-look.html
+DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
+DTEND:20251008T210000Z
+DTSTART:20251008T190000Z
+SUMMARY:Knowledge Politics
+UID:7f1ed0d9-2acf-4ce1-b2d9-faa1e1f8608c@7f1e.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJuly 28\, 2025\, 3:30 p.m. - 6 p.m.
 DTEND:20250728T220000Z
 DTSTART:20250728T193000Z
 SUMMARY:AACE 3+1MT Construction Elevator Pitch Competition
-UID:402b623a-08cd-4b38-9c3d-3de8cb1cd2ba@402b.org
+UID:b9a8c7e3-7aed-453e-b361-2875f5780dba@b9a8.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/28/construction-elevator-pitch.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJuly 10\, 2025\, 1 p.m. - 1:30 p.m.
-DTEND:20250710T173000Z
-DTSTART:20250710T170000Z
-SUMMARY:A Closer L👀k: The Turak Functional Nanomaterials Laboratory
-UID:b9017ccd-e4db-4328-b5a7-75f65a611ea2@b901.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/10/a-closer-look.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Transformations\n\nJuly 16\, 2025\, 1:30 p.m. - 3:30 p.m.
 DTEND:20250716T193000Z
 DTSTART:20250716T173000Z
 SUMMARY:On Intersex Joy
-UID:1640176a-cf1d-435f-88c1-ed3656302288@1640.org
+UID:67059ac5-e7c9-4246-b2b0-4d2a7d42fadf@6705.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/16/on-intersex-joy.html
 END:VEVENT
 BEGIN:VEVENT
@@ -70,7 +62,15 @@ DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\,
 DTEND:20260210T220000Z
 DTSTART:20260210T200000Z
 SUMMARY:Civil Discourse on Campus
-UID:cab02031-411e-419e-a296-12a349762f16@cab0.org
+UID:c54e1e71-1715-4427-88b9-0892ecb6b6bf@c54e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 10\, 2025\, 1 p.m. - 1:30 p.m.
+DTEND:20250710T173000Z
+DTSTART:20250710T170000Z
+SUMMARY:A Closer L👀k: The Turak Functional Nanomaterials Laboratory
+UID:b4c6dfd9-ef73-46ac-b151-ec0f4fe01a4b@b4c6.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/10/a-closer-look.html
 END:VEVENT
 END:VCALENDAR
