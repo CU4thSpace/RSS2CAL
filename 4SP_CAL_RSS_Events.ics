@@ -2,19 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Transformations\n\nJuly 16\, 2025\, 1:30 p.m. - 3:30 p.m.
-DTEND:20250716T193000Z
-DTSTART:20250716T173000Z
-SUMMARY:On Intersex Joy
-UID:b6f3e37d-e196-4fd7-8570-30438847648c@b6f3.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/16/on-intersex-joy.html
+DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
+DTEND:20250930T163000Z
+DTSTART:20250930T143000Z
+SUMMARY:What is Response-Based Practice?
+UID:0bddc445-2011-42d8-a0a7-8d2625cf7d05@0bdd.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260331T210000Z
+DTSTART:20260331T190000Z
+SUMMARY:A Crisis of Empathy?
+UID:8d3594bf-932c-4e7f-a68f-599cf4d3b8b7@8d35.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
 DTEND:20251008T210000Z
 DTSTART:20251008T190000Z
 SUMMARY:Knowledge Politics
-UID:e9046f02-5155-4930-b5b9-a877a495679e@e904.org
+UID:6b9426cd-71aa-43ab-b4b3-c5f2f9b39e32@6b94.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
 END:VEVENT
 BEGIN:VEVENT
@@ -22,71 +30,63 @@ DESCRIPTION:\nJuly 24\, 2025\, 4 p.m. - 6 p.m.
 DTEND:20250724T220000Z
 DTSTART:20250724T200000Z
 SUMMARY:2025 Alan Shepard Summer Residency Vernissage
-UID:0afdbcd1-cd25-436e-84da-e50f1e653dca@0afd.org
+UID:a74b91f7-5479-415c-a0c9-3eb4f0237aa4@a74b.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/24/shepard-residency-vernissage.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
-DTEND:20250930T163000Z
-DTSTART:20250930T143000Z
-SUMMARY:What is Response-Based Practice?
-UID:631b9797-7357-4dfb-b7c6-8d7c3482e226@631b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Interdisciplinary groups taking on real-world challenges\n\nJuly 14\, 2025\, 11 a.m. - 3 p.m.
-DTEND:20250714T190000Z
-DTSTART:20250714T150000Z
-SUMMARY:Working Sessions: Alan Shephard Residency
-UID:a7616721-52d7-481e-bf97-62db0527f333@a761.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/14/allan-shephard-working.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
-DTEND:20250722T213000Z
-DTSTART:20250722T143000Z
-SUMMARY:Arts for Laughs
-UID:cb6f8b16-6ab5-477e-a8c4-413115125641@cb6f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A Year Later - Gardens in Grey Nuns with Mitchell McLarnon\n\nAugust 7\, 2025\, 1 p.m. - 1:30 p.m.
 DTEND:20250807T173000Z
 DTSTART:20250807T170000Z
 SUMMARY:A Closer L👀k: Urban Gardens
-UID:797afaf1-985c-4da7-88a3-50c360951c80@797a.org
+UID:00f9e42c-864d-4f9c-9f5d-4dfdd66f97e2@00f9.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/07/a-closer-look.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260331T210000Z
-DTSTART:20260331T190000Z
-SUMMARY:A Crisis of Empathy?
-UID:78cd89f7-7674-4694-abcb-f25ba5aec55a@78cd.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260210T220000Z
 DTSTART:20260210T200000Z
 SUMMARY:Civil Discourse on Campus
-UID:cb88d8c8-31b4-4008-b151-2e465681024c@cb88.org
+UID:32a326d7-23b9-4a2a-8675-f9959e06876e@32a3.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:for Mitacs Globalink Research Interns at Concordia University \n\nJuly 23\, 2025\, 1 p.m. - 3 p.m.
-DTEND:20250723T190000Z
-DTSTART:20250723T170000Z
-SUMMARY:The Research Rendez-Vous
-UID:d7692a0b-b27c-4ef0-ad51-a67c42903b0f@d769.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/23/research-rendez-vous.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJuly 28\, 2025\, 3:30 p.m. - 6 p.m.
 DTEND:20250728T220000Z
 DTSTART:20250728T193000Z
 SUMMARY:AACE 3+1MT Construction Elevator Pitch Competition
-UID:3a126905-d510-45d7-bcdf-193a4325e91c@3a12.org
+UID:95be22b8-803e-49c1-9679-5fde890fd7b8@95be.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/28/construction-elevator-pitch.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
+DTEND:20250722T213000Z
+DTSTART:20250722T143000Z
+SUMMARY:Arts for Laughs
+UID:3b6d9b15-f32f-467d-8c94-12e75d7874e6@3b6d.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Interdisciplinary groups taking on real-world challenges\n\nJuly 14\, 2025\, 11 a.m. - 3 p.m.
+DTEND:20250714T190000Z
+DTSTART:20250714T150000Z
+SUMMARY:Working Sessions: Alan Shephard Residency
+UID:80ecb563-c5cc-4c90-9440-cc1ed00471eb@80ec.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/14/allan-shephard-working.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:for Mitacs Globalink Research Interns at Concordia University \n\nJuly 23\, 2025\, 1 p.m. - 3 p.m.
+DTEND:20250723T190000Z
+DTSTART:20250723T170000Z
+SUMMARY:The Research Rendez-Vous
+UID:426dc7e2-de82-43ca-841b-d9cffb0bf57f@426d.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/23/research-rendez-vous.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Transformations\n\nJuly 16\, 2025\, 1:30 p.m. - 3:30 p.m.
+DTEND:20250716T193000Z
+DTSTART:20250716T173000Z
+SUMMARY:On Intersex Joy
+UID:a3e0b995-5437-4a8a-a825-527248a59f7a@a3e0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/16/on-intersex-joy.html
 END:VEVENT
 END:VCALENDAR
