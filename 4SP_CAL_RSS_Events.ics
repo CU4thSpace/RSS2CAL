@@ -2,43 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
-DTEND:20250722T213000Z
-DTSTART:20250722T143000Z
-SUMMARY:Arts for Laughs
-UID:e2945c7e-97f3-474c-a478-32709d706eef@e294.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
 DTEND:20251008T210000Z
 DTSTART:20251008T190000Z
 SUMMARY:Knowledge Politics
-UID:a26f1f61-b5ef-4b8e-bc91-9eafaee96151@a26f.org
+UID:b74c265b-f650-4336-a0c3-c5f979411c1a@b74c.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJuly 24\, 2025\, 4 p.m. - 6 p.m.
-DTEND:20250724T220000Z
-DTSTART:20250724T200000Z
-SUMMARY:2025 Alan Shepard Summer Residency Vernissage
-UID:5b7344f6-c9a0-45d1-8270-96fe8c9d4109@5b73.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/24/shepard-residency-vernissage.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:for Mitacs Globalink Research Interns at Concordia University \n\nJuly 23\, 2025\, 1 p.m. - 3 p.m.
-DTEND:20250723T190000Z
-DTSTART:20250723T170000Z
-SUMMARY:The Research Rendez-Vous
-UID:9f6adafd-4dee-4094-acc5-891f74364d25@9f6a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/23/research-rendez-vous.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
 DTEND:20250930T163000Z
 DTSTART:20250930T143000Z
 SUMMARY:What is Response-Based Practice?
-UID:170a6a0b-37ec-4440-ab48-fb710ce3bccb@170a.org
+UID:f702c5ad-8e8c-4e9d-b0b9-0c279bc2abfd@f702.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,23 +22,31 @@ DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:fdf6bf7d-965d-4698-8e86-fb58a4efc5fd@fdf6.org
+UID:5e3190c5-1da3-4b1c-aa50-245d6b99716e@5e31.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Transformations\n\nJuly 16\, 2025\, 1:30 p.m. - 3:30 p.m.
-DTEND:20250716T193000Z
-DTSTART:20250716T173000Z
-SUMMARY:On Intersex Joy
-UID:b7b8a2d4-9a2a-4348-a04d-3906432820a3@b7b8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/16/on-intersex-joy.html
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:2c228b85-4528-430c-8f51-19c183b8034a@2c22.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 22\, 2025\, 10:30 a.m. - 5:30 p.m.
+DTEND:20250722T213000Z
+DTSTART:20250722T143000Z
+SUMMARY:Arts for Laughs
+UID:5517c643-3fb6-43fa-abbe-6722c3ac57e3@5517.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/22/arts-for-laughs.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJuly 28\, 2025\, 3:30 p.m. - 6 p.m.
 DTEND:20250728T220000Z
 DTSTART:20250728T193000Z
 SUMMARY:AACE 3+1MT Construction Elevator Pitch Competition
-UID:0cc44ced-8be0-4f5e-b73f-ecd8c62f3c5c@0cc4.org
+UID:f8119d4b-1940-4f82-82ab-2f2612e5b219@f811.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/28/construction-elevator-pitch.html
 END:VEVENT
 BEGIN:VEVENT
@@ -70,23 +54,39 @@ DESCRIPTION:A Year Later - Gardens in Grey Nuns with Mitchell McLarnon\n\nAugust
 DTEND:20250807T173000Z
 DTSTART:20250807T170000Z
 SUMMARY:A Closer L👀k: Urban Gardens
-UID:3a3d9ed2-f620-4a6f-ba77-22b8e6f0a64b@3a3d.org
+UID:7ae39f80-165f-48d3-b161-b617f7e5de85@7ae3.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/07/a-closer-look.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Transformations\n\nJuly 16\, 2025\, 1:30 p.m. - 3:30 p.m.
+DTEND:20250716T193000Z
+DTSTART:20250716T173000Z
+SUMMARY:On Intersex Joy
+UID:efbe870d-d4c3-4d09-b6bd-ca75c13134db@efbe.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/16/on-intersex-joy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:for Mitacs Globalink Research Interns at Concordia University \n\nJuly 23\, 2025\, 1 p.m. - 3 p.m.
+DTEND:20250723T190000Z
+DTSTART:20250723T170000Z
+SUMMARY:The Research Rendez-Vous
+UID:d3a9f135-86cd-40de-9865-801e1feef126@d3a9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/23/research-rendez-vous.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Interdisciplinary groups taking on real-world challenges\n\nJuly 14\, 2025\, 11 a.m. - 3 p.m.
 DTEND:20250714T190000Z
 DTSTART:20250714T150000Z
 SUMMARY:Working Sessions: Alan Shephard Residency
-UID:4b05cccb-93f8-4781-9911-d7d8e6fef911@4b05.org
+UID:62f5b04f-283a-4906-b691-2313b5c884a3@62f5.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/14/allan-shephard-working.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:fa5cef5f-41a4-4905-8c3b-2988a3ba28d0@fa5c.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+DESCRIPTION:\nJuly 24\, 2025\, 4 p.m. - 6 p.m.
+DTEND:20250724T220000Z
+DTSTART:20250724T200000Z
+SUMMARY:2025 Alan Shepard Summer Residency Vernissage
+UID:9c087430-1d32-4900-bc83-143dfdabe3f1@9c08.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/24/shepard-residency-vernissage.html
 END:VEVENT
 END:VCALENDAR
