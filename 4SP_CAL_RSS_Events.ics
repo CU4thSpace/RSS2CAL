@@ -2,11 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:\nJuly 24\, 2025\, 4 p.m. - 6 p.m.
+DTEND:20250724T220000Z
+DTSTART:20250724T200000Z
+SUMMARY:2025 Alan Shepard Summer Residency Vernissage
+UID:5b87608d-4339-4338-b02a-11ef2a10ad9b@5b87.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/24/shepard-residency-vernissage.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
+DTEND:20251008T210000Z
+DTSTART:20251008T190000Z
+SUMMARY:Knowledge Politics
+UID:b7218d03-62f2-4dc7-9c70-64448e3d248d@b721.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260210T220000Z
 DTSTART:20260210T200000Z
 SUMMARY:Civil Discourse on Campus
-UID:65c06ca9-7417-4ca0-a87a-eabe47c83a26@65c0.org
+UID:c82568bd-48be-405d-a567-2abebc8e4c36@c825.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 BEGIN:VEVENT
@@ -14,7 +30,7 @@ DESCRIPTION:\nJuly 28\, 2025\, 3:30 p.m. - 6 p.m.
 DTEND:20250728T220000Z
 DTSTART:20250728T193000Z
 SUMMARY:AACE 3+1MT Construction Elevator Pitch Competition
-UID:6a765723-bdfd-401a-98a6-644237dc556a@6a76.org
+UID:5f06f002-ee31-4702-8c7a-8b84b38ffed6@5f06.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/28/construction-elevator-pitch.html
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +38,7 @@ DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:67e2a678-76e8-42f1-a8e9-baedf4aca275@67e2.org
+UID:fc5893e6-12ca-4510-acb5-0b8c36aaaed1@fc58.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,39 +46,23 @@ DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. 
 DTEND:20250930T163000Z
 DTSTART:20250930T143000Z
 SUMMARY:What is Response-Based Practice?
-UID:4e5775b1-a6f0-45b4-b78a-fa42bc9eabc6@4e57.org
+UID:ad6635e5-c643-4e44-bd30-5d3f47e33ffc@ad66.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJuly 24\, 2025\, 4 p.m. - 6 p.m.
-DTEND:20250724T220000Z
-DTSTART:20250724T200000Z
-SUMMARY:2025 Alan Shepard Summer Residency Vernissage
-UID:161c8107-ba65-4c35-8fc4-05809b2ba60d@161c.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/24/shepard-residency-vernissage.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Year Later - Gardens in Grey Nuns with Mitchell McLarnon\n\nAugust 7\, 2025\, 1 p.m. - 1:30 p.m.
-DTEND:20250807T173000Z
-DTSTART:20250807T170000Z
-SUMMARY:A Closer L👀k: Urban Gardens
-UID:6f8ecee7-d543-4cef-8362-742a924820bd@6f8e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/07/a-closer-look.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
-DTEND:20251008T210000Z
-DTSTART:20251008T190000Z
-SUMMARY:Knowledge Politics
-UID:8db8e76e-2a8a-4063-aefb-c33352122980@8db8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:for Mitacs Globalink Research Interns at Concordia University \n\nJuly 23\, 2025\, 1 p.m. - 3 p.m.
 DTEND:20250723T190000Z
 DTSTART:20250723T170000Z
 SUMMARY:The Research Rendez-Vous
-UID:2cf56332-079f-41cc-8917-df6bcecef006@2cf5.org
+UID:9207ba31-e5ed-49af-b298-01c83da0c030@9207.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/07/23/research-rendez-vous.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Year Later - Gardens in Grey Nuns with Mitchell McLarnon\n\nAugust 7\, 2025\, 1 p.m. - 1:30 p.m.
+DTEND:20250807T173000Z
+DTSTART:20250807T170000Z
+SUMMARY:A Closer L👀k: Urban Gardens
+UID:1b5ae12c-39ab-44ab-92c7-3fb2b30fb646@1b5a.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/07/a-closer-look.html
 END:VEVENT
 END:VCALENDAR
