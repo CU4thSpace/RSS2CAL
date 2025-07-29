@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
+DTEND:20251008T210000Z
+DTSTART:20251008T190000Z
+SUMMARY:Knowledge Politics
+UID:6730d7da-8f3d-43a1-8eb0-281e76414476@6730.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:A Year Later - Gardens in Grey Nuns with Mitchell McLarnon\n\nAugust 7\, 2025\, 1 p.m. - 1:30 p.m.
 DTEND:20250807T173000Z
 DTSTART:20250807T170000Z
 SUMMARY:A Closer L👀k: Urban Gardens
-UID:6649c797-6af4-450b-81ca-e565d09a6329@6649.org
+UID:35f8debf-8f78-402f-8201-e415ddcf7a79@35f8.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/07/a-closer-look.html
 END:VEVENT
 BEGIN:VEVENT
@@ -14,7 +22,7 @@ DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. 
 DTEND:20250930T163000Z
 DTSTART:20250930T143000Z
 SUMMARY:What is Response-Based Practice?
-UID:4a653d01-dad2-4b15-a66f-242b6fd3a11a@4a65.org
+UID:0d0090bf-4d8f-4118-9fb7-a3a6ebe43a18@0d00.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
 END:VEVENT
 BEGIN:VEVENT
@@ -22,23 +30,15 @@ DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:de7c1f58-8011-423c-90b3-adabc9fb09e4@de7c.org
+UID:92c70b26-8a96-4597-bde9-0db1ab5fd5bc@92c7.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
-DTEND:20251008T210000Z
-DTSTART:20251008T190000Z
-SUMMARY:Knowledge Politics
-UID:3d4d3ab9-db53-42f4-9494-553477f690f7@3d4d.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Part of Music Week à MTL\n\nAugust 6\, 2025\, 1 p.m. - 5:30 p.m.
 DTEND:20250806T213000Z
 DTSTART:20250806T170000Z
 SUMMARY:ElectroCon: A Music Talk and Pop-Up Show
-UID:c5a142b5-5bae-4f32-9d6e-6f354eaf12e6@c5a1.org
+UID:14d26323-2156-4025-8841-fbdc84dc3514@14d2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/06/music-talk.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +46,7 @@ DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\,
 DTEND:20260210T220000Z
 DTSTART:20260210T200000Z
 SUMMARY:Civil Discourse on Campus
-UID:aa079d4f-72f6-47a3-a0e1-bf1f8027cda4@aa07.org
+UID:0cdf539e-4c06-423a-9834-3931be0aa4f1@0cdf.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 END:VCALENDAR
