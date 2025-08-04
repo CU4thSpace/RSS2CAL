@@ -2,11 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:A Year Later - Gardens in Grey Nuns with Mitchell McLarnon\n\nAugust 7\, 2025\, 1 p.m. - 1:30 p.m.
+DTEND:20250807T173000Z
+DTSTART:20250807T170000Z
+SUMMARY:A Closer L👀k: Urban Gardens
+UID:1c826b3e-d873-40f6-87c9-fa25dbb8f40c@1c82.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/07/a-closer-look.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Confronting Emergent Dystopia Working Group\n\nSeptember 17\, 2025\, 1:30 p.m. - 3:30 p.m.
+DTEND:20250917T193000Z
+DTSTART:20250917T173000Z
+SUMMARY:Insidious Environmentalisms: The Art of Greenwashing
+UID:d48b69c7-196d-44d1-83ca-1488cd921570@d48b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/17/insidious-environmentalism.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260331T210000Z
+DTSTART:20260331T190000Z
+SUMMARY:A Crisis of Empathy?
+UID:ef13cdc2-db9e-4478-b53a-34179b880d4b@ef13.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
+DTEND:20250930T163000Z
+DTSTART:20250930T143000Z
+SUMMARY:What is Response-Based Practice?
+UID:b6292cbf-29e8-4457-98f0-1ee679cfee1e@b629.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
 DTEND:20251008T210000Z
 DTSTART:20251008T190000Z
 SUMMARY:Knowledge Politics
-UID:391be083-f560-4294-93b2-7dfb1aa34ecf@391b.org
+UID:e1c1feb3-506e-44e4-b3b2-ad78e3d7442a@e1c1.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
 END:VEVENT
 BEGIN:VEVENT
@@ -14,39 +46,15 @@ DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\,
 DTEND:20260210T220000Z
 DTSTART:20260210T200000Z
 SUMMARY:Civil Discourse on Campus
-UID:03544a1e-1636-4f32-9601-85c141c4e407@0354.org
+UID:181a82d7-f1d0-41fe-ae3c-4fadf4313282@181a.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Year Later - Gardens in Grey Nuns with Mitchell McLarnon\n\nAugust 7\, 2025\, 1 p.m. - 1:30 p.m.
-DTEND:20250807T173000Z
-DTSTART:20250807T170000Z
-SUMMARY:A Closer L👀k: Urban Gardens
-UID:0e007d06-ca1d-4131-86a7-b6e3a2d35186@0e00.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/07/a-closer-look.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
-DTEND:20250930T163000Z
-DTSTART:20250930T143000Z
-SUMMARY:What is Response-Based Practice?
-UID:9b9f06a2-5622-42ab-9512-92164cae5534@9b9f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260331T210000Z
-DTSTART:20260331T190000Z
-SUMMARY:A Crisis of Empathy?
-UID:31b1c1c8-21d2-44fd-a805-f3668ec0835d@31b1.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Part of Music Week à MTL with ElectroCon\n\nAugust 6\, 2025\, 1 p.m. - 5:30 p.m.
 DTEND:20250806T213000Z
 DTSTART:20250806T170000Z
 SUMMARY:Class Is In Session
-UID:9604f275-53d0-45ea-849b-8fbc9bcbfb91@9604.org
+UID:ec1cdf93-147e-4d67-b689-9ca9f1eb06d0@ec1c.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/06/music-talk.html
 END:VEVENT
 END:VCALENDAR
