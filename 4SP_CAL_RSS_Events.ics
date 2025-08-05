@@ -2,19 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:A Year Later - Gardens in Grey Nuns with Mitchell McLarnon\n\nAugust 7\, 2025\, 1 p.m. - 1:30 p.m.
-DTEND:20250807T173000Z
-DTSTART:20250807T170000Z
-SUMMARY:A Closer L👀k: Urban Gardens
-UID:3bedc3ef-ff03-4a8a-b533-991c2ed7a483@3bed.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/07/a-closer-look.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
 DTEND:20251008T210000Z
 DTSTART:20251008T190000Z
 SUMMARY:Knowledge Politics
-UID:0eaf8076-bf41-471c-b980-9900292df4c3@0eaf.org
+UID:7686fee8-4424-4faf-b6b1-d5fd6594a049@7686.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
 END:VEVENT
 BEGIN:VEVENT
@@ -22,39 +14,47 @@ DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\,
 DTEND:20260210T220000Z
 DTSTART:20260210T200000Z
 SUMMARY:Civil Discourse on Campus
-UID:3d0450a8-f5d3-4bc9-9514-099210d021e2@3d04.org
+UID:d9bcf119-9aaf-48ce-89fe-21e95420df7b@d9bc.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Part of Music Week à MTL with ElectroCon and Purple Tea Records\n\nAugust 6\, 2025\, 1 p.m. - 5:30 p.m.
-DTEND:20250806T213000Z
-DTSTART:20250806T170000Z
-SUMMARY:MWM-Conference: Class in session
-UID:90f641af-5825-429a-bb9b-7431c5d263d4@90f6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/06/music-talk.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
-DTEND:20250930T163000Z
-DTSTART:20250930T143000Z
-SUMMARY:What is Response-Based Practice?
-UID:4c5389e7-5b08-4890-8a45-0502529480b6@4c53.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A Confronting Emergent Dystopia Working Group\n\nSeptember 17\, 2025\, 1:30 p.m. - 3:30 p.m.
 DTEND:20250917T193000Z
 DTSTART:20250917T173000Z
 SUMMARY:Insidious Environmentalisms: The Art of Greenwashing
-UID:3485c225-350f-4f9c-9624-3abb70c379f8@3485.org
+UID:59997b45-525a-4710-abeb-17d9eebe8ce7@5999.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/17/insidious-environmentalism.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Year Later - Gardens in Grey Nuns with Mitchell McLarnon\n\nAugust 7\, 2025\, 1 p.m. - 1:30 p.m.
+DTEND:20250807T173000Z
+DTSTART:20250807T170000Z
+SUMMARY:A Closer L👀k: Urban Gardens
+UID:81aad900-4122-4175-a327-638b45c54fd7@81aa.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/07/a-closer-look.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
+DTEND:20250930T163000Z
+DTSTART:20250930T143000Z
+SUMMARY:What is Response-Based Practice?
+UID:a43a2dd8-37c5-45db-81f5-3384d57a1936@a43a.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Part of Music Week à MTL with ElectroCon and Purple Tea Records\n\nAugust 6\, 2025\, 1 p.m. - 5:30 p.m.
+DTEND:20250806T213000Z
+DTSTART:20250806T170000Z
+SUMMARY:MWM-Conference: Class in session
+UID:d313afdb-e17e-4456-9c62-4ca8c4c4b089@d313.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/06/music-talk.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:9245a5b9-924d-420c-b969-477a37971478@9245.org
+UID:c9e69a72-aa48-4054-bacd-0f044004a0de@c9e6.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 END:VCALENDAR
