@@ -2,19 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:A Confronting Emergent Dystopia Working Group\n\nSeptember 17\, 2025\, 1:30 p.m. - 3:30 p.m.
-DTEND:20250917T193000Z
-DTSTART:20250917T173000Z
-SUMMARY:Insidious Environmentalisms: The Art of Greenwashing
-UID:3cfd5449-12da-4290-8912-1fb09771c512@3cfd.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/17/insidious-environmentalism.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
 DTEND:20250930T163000Z
 DTSTART:20250930T143000Z
 SUMMARY:What is Response-Based Practice?
-UID:fafe268a-07ae-4b39-a44d-fe892259ba87@fafe.org
+UID:4c64fdd2-8ac7-404c-a45d-4b4ebff97736@4c64.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
 END:VEVENT
 BEGIN:VEVENT
@@ -22,31 +14,39 @@ DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\,
 DTEND:20251008T210000Z
 DTSTART:20251008T190000Z
 SUMMARY:Knowledge Politics
-UID:0efe5a88-b34f-414e-801d-e601e6e10a03@0efe.org
+UID:8854260c-b40d-42b6-ab12-b0847587e505@8854.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Year Later - Gardens in Grey Nuns with Mitchell McLarnon\n\nAugust 7\, 2025\, 1 p.m. - 1:30 p.m.
-DTEND:20250807T173000Z
-DTSTART:20250807T170000Z
-SUMMARY:A Closer L👀k: Urban Gardens
-UID:fd8888ad-2733-460c-b6ad-36bea6082f5e@fd88.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/07/a-closer-look.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:8960b691-d745-4de0-b055-54074009d2fd@8960.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:17f18ec9-e1f9-4035-a2b0-c368cb1f5cd1@17f1.org
+UID:958f846a-7c42-499e-a707-d98f66fc66cc@958f.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Year Later - Gardens in Grey Nuns with Mitchell McLarnon\n\nAugust 7\, 2025\, 1 p.m. - 1:30 p.m.
+DTEND:20250807T173000Z
+DTSTART:20250807T170000Z
+SUMMARY:A Closer L👀k: Urban Gardens
+UID:8a9bb798-b999-4799-b252-18b9f93a86f4@8a9b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/07/a-closer-look.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Confronting Emergent Dystopia Working Group\n\nSeptember 17\, 2025\, 1:30 p.m. - 3:30 p.m.
+DTEND:20250917T193000Z
+DTSTART:20250917T173000Z
+SUMMARY:Insidious Environmentalisms: The Art of Greenwashing
+UID:b5b10b55-cee0-41c2-848f-e48a562cd16a@b5b1.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/17/insidious-environmentalism.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:75ec070b-7f72-41a3-a287-cf76ae0ec2ab@75ec.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 END:VCALENDAR
