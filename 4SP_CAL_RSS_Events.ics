@@ -2,43 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:A Confronting Emergent Dystopia Working Group\n\nSeptember 17\, 2025\, 1:30 p.m. - 3:30 p.m.
-DTEND:20250917T193000Z
-DTSTART:20250917T173000Z
-SUMMARY:Insidious Environmentalisms: The Art of Greenwashing
-UID:cd0508a1-8155-44e7-96cc-27d8e1dcf869@cd05.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/17/insidious-environmentalism.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
 DTEND:20251008T210000Z
 DTSTART:20251008T190000Z
 SUMMARY:Knowledge Politics
-UID:61456db4-670c-413b-a06f-b049a587bb90@6145.org
+UID:cb5fcc86-bda8-4396-b4f5-88fabc1f5254@cb5f.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nOctober 6\, 2025\, 11 a.m. - 2 p.m.
-DTEND:20251006T180000Z
-DTSTART:20251006T150000Z
-SUMMARY:LEADS Mini-Symposium 2025
-UID:5542bcdd-9f16-4421-b890-bb79a66e4ac6@5542.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/06/leads-mini-symposium.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:0871e7b3-1d9a-4611-ac36-7d1dd32fd12b@0871.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
 DTEND:20250930T163000Z
 DTSTART:20250930T143000Z
 SUMMARY:What is Response-Based Practice?
-UID:10bf9229-cb50-478e-b70e-95b5f164cd95@10bf.org
+UID:444fd6de-ae34-41aa-8f20-c9e13497d270@444f.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +22,31 @@ DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:955f226a-0499-4b9b-9cbb-8162847f0027@955f.org
+UID:f2ecd64a-086d-494c-8c16-dfd7259af896@f2ec.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:1dd8063c-3166-4ddb-a071-358767b7837e@1dd8.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nOctober 6\, 2025\, 11 a.m. - 2 p.m.
+DTEND:20251006T180000Z
+DTSTART:20251006T150000Z
+SUMMARY:LEADS Mini-Symposium 2025
+UID:4f4d49ee-813a-4867-b49b-68c8d09d40a9@4f4d.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/06/leads-mini-symposium.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Confronting Emergent Dystopia Working Group\n\nSeptember 17\, 2025\, 1:30 p.m. - 3:30 p.m.
+DTEND:20250917T193000Z
+DTSTART:20250917T173000Z
+SUMMARY:Insidious Environmentalisms: The Art of Greenwashing
+UID:44899c6a-f692-4a9f-95a0-abdcb44073e8@4489.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/17/insidious-environmentalism.html
 END:VEVENT
 END:VCALENDAR
