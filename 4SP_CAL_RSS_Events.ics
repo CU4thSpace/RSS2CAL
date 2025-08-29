@@ -2,19 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:The Decision That Shapes Your Future\n\nOctober 25\, 2025\, 11 a.m. - 12 p.m.
-DTEND:20251025T160000Z
-DTSTART:20251025T150000Z
-SUMMARY:Master&apos\;s vs PhD
-UID:1445449c-24d5-4a31-a851-bc376f9e2ab4@1445.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/25/masters-or-phd.html
+DESCRIPTION:Explore Space Concordia's Divisions and Exciting Projects \n\nSeptember 2\, 2025\, 11 a.m. - 5 p.m.
+DTEND:20250902T210000Z
+DTSTART:20250902T150000Z
+SUMMARY:Space Day
+UID:e1f116e8-71f5-411c-8c54-a66d28119e40@e1f1.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/02/space-day.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
+DTEND:20250930T163000Z
+DTSTART:20250930T143000Z
+SUMMARY:What is Response-Based Practice?
+UID:1c72b3a7-0c7f-46aa-961b-1da53eb049a1@1c72.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover the Fee Levy & Campus Food Groups Advocating for Student Interests!\n\nSeptember 3\, 2025\, 11 a.m. - 2 p.m.
 DTEND:20250903T180000Z
 DTSTART:20250903T150000Z
 SUMMARY:Campus Community Groups Fair
-UID:45e336fe-d2d2-4747-ab8f-93b5cb1a6081@45e3.org
+UID:a372ba26-0adc-4b80-b009-6b85736c319d@a372.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/03/food-groups-fair.html
 END:VEVENT
 BEGIN:VEVENT
@@ -22,95 +30,95 @@ DESCRIPTION:Meet the Masthead!\n\nAugust 29\, 2025\, 1 p.m. - 4 p.m.
 DTEND:20250829T200000Z
 DTSTART:20250829T170000Z
 SUMMARY:Headlight Anthology
-UID:f6d9fdd5-0f1a-4991-90af-f50446ff2cf0@f6d9.org
+UID:6b254042-9f53-468b-92d9-9494d819acfa@6b25.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/29/headlight-anthology.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nOctober 6\, 2025\, 11 a.m. - 2 p.m.
-DTEND:20251006T180000Z
-DTSTART:20251006T150000Z
-SUMMARY:LEADS Mini-Symposium 2025
-UID:0607267d-ec17-4a80-8a81-0018beff54a1@0607.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/06/leads-mini-symposium.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:First in a series of workshops under the banner of Confronting Emergent Dystopia (CISSC Working Group)\n\nSeptember 17\, 2025\, 1:30 p.m. - 3:30 p.m.
-DTEND:20250917T193000Z
-DTSTART:20250917T173000Z
-SUMMARY:Insidious Environmentalisms: The Art of Greenwashing
-UID:bd078656-6cf1-47d4-afc8-38942c05c855@bd07.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/17/insidious-environmentalism.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
-DTEND:20251008T210000Z
-DTSTART:20251008T190000Z
-SUMMARY:Knowledge Politics
-UID:d4303fe3-a1d8-4703-b489-aac6fd0f001a@d430.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:0b5f53fa-0c7b-4fc9-b186-849f5fe97b51@0b5f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nSeptember 23\, 2025\, 1 p.m. - 4 p.m.
-DTEND:20250923T200000Z
-DTSTART:20250923T170000Z
-SUMMARY:Becoming a Public Scholar
-UID:36d82b81-5b50-443d-9652-a2cc6cf270c3@36d8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/23/public-scholar-intro.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:An Intro to Lab Equipment\n\nSeptember 5\, 2025\, 2:30 p.m. - 5:30 p.m.
-DTEND:20250905T213000Z
-DTSTART:20250905T183000Z
-SUMMARY:Workshop with IEEE Concordia
-UID:d45ab067-ef4c-4fc4-a1e5-d00b95d9bea6@d45a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/05/intro-lab-equipment.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sundus Abdul Hadi and Yassin "NARCY" Alsalman present a multimedia retrospective\n\nSeptember 10\, 2025 - September 12\, 2025\, 10 a.m. - 6 p.m.
-DTEND:20250912T220000Z
-DTSTART:20250912T140000Z
-SUMMARY:The Message is the Medium
-UID:5c4afa61-4d50-4f15-94c9-86563dd04a0c@5c4a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/10/we-are-the-medium.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A Day of Learning\n\nSeptember 16\, 2025\, 10:30 a.m. - 2:30 p.m.
 DTEND:20250916T183000Z
 DTSTART:20250916T143000Z
 SUMMARY:Honouring Truth\, Reflecting on Impact
-UID:98ae2e56-ec29-4d44-999a-07518dfdc498@98ae.org
+UID:d6cf555d-4a29-4ff9-89f1-e93a6b364d9d@d6cf.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/16/honouring-truth-reflecting-impact.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
-DTEND:20250930T163000Z
-DTSTART:20250930T143000Z
-SUMMARY:What is Response-Based Practice?
-UID:7b0efaf2-d12b-4880-883c-aeeb0d37274a@7b0e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Explore Space Concordia's Divisions and Exciting Projects \n\nSeptember 2\, 2025\, 11 a.m. - 5 p.m.
-DTEND:20250902T210000Z
-DTSTART:20250902T150000Z
-SUMMARY:Space Day
-UID:293ce555-579c-4da9-a90c-60b844f7bc8d@293c.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/02/space-day.html
+DESCRIPTION:The Decision That Shapes Your Future\n\nOctober 25\, 2025\, 11 a.m. - 12 p.m.
+DTEND:20251025T160000Z
+DTSTART:20251025T150000Z
+SUMMARY:Master&apos\;s vs PhD
+UID:cd73dea2-90e6-4350-abd1-fcf722640c7c@cd73.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/25/masters-or-phd.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:e096dce7-1854-4693-8c03-b7e4169f91d9@e096.org
+UID:2ff1b309-1178-4783-9fb9-a19fb4d532b7@2ff1.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sundus Abdul Hadi and Yassin "NARCY" Alsalman present a multimedia retrospective\n\nSeptember 10\, 2025 - September 12\, 2025\, 10 a.m. - 6 p.m.
+DTEND:20250912T220000Z
+DTSTART:20250912T140000Z
+SUMMARY:The Message is the Medium
+UID:af7e5b77-8731-437d-b819-d980af8a369f@af7e.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/10/we-are-the-medium.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:An Intro to Lab Equipment\n\nSeptember 5\, 2025\, 2:30 p.m. - 5:30 p.m.
+DTEND:20250905T213000Z
+DTSTART:20250905T183000Z
+SUMMARY:Workshop with IEEE Concordia
+UID:6916f5ba-140d-4b43-a19d-a72abb70bd12@6916.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/05/intro-lab-equipment.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
+DTEND:20251008T210000Z
+DTSTART:20251008T190000Z
+SUMMARY:Knowledge Politics
+UID:0d458325-3c8b-4731-aa66-e228063eb2d1@0d45.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:First in a series of workshops under the banner of Confronting Emergent Dystopia (CISSC Working Group)\n\nSeptember 17\, 2025\, 1:30 p.m. - 3:30 p.m.
+DTEND:20250917T193000Z
+DTSTART:20250917T173000Z
+SUMMARY:Insidious Environmentalisms: The Art of Greenwashing
+UID:8663f592-be48-49ea-b848-141b837086a7@8663.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/17/insidious-environmentalism.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Skye Maule-O'Brien in Residence at 4thSpace\n\nAugust 28\, 2025\, 1 p.m. - 3 p.m.
+DTEND:20250828T190000Z
+DTSTART:20250828T170000Z
+SUMMARY:Office Hours!
+UID:7affa136-31c2-464b-94e5-cccd2e68dc98@7aff.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/08/28/office-hours-skye.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nOctober 6\, 2025\, 11 a.m. - 2 p.m.
+DTEND:20251006T180000Z
+DTSTART:20251006T150000Z
+SUMMARY:LEADS Mini-Symposium 2025
+UID:e93f44de-ff53-436c-8fda-28bcb49f609d@e93f.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/06/leads-mini-symposium.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nSeptember 23\, 2025\, 1 p.m. - 4 p.m.
+DTEND:20250923T200000Z
+DTSTART:20250923T170000Z
+SUMMARY:Becoming a Public Scholar
+UID:69a79fdc-1884-4baa-acc1-53295981bbcf@69a7.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/23/public-scholar-intro.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:6d044205-3e8c-4ed6-97c7-b7f5ca6103e5@6d04.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 END:VCALENDAR
