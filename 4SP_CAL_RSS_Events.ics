@@ -2,43 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:\nSeptember 18\, 2025\, 1 p.m. - 3 p.m.
+DTEND:20250918T190000Z
+DTSTART:20250918T170000Z
+SUMMARY:Working Sessions: Caribbean Studies Working Group
+UID:21da882b-ceef-44b1-89b5-cb41fb8157ce@21da.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/18/caribbean-studies-working-group.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:The Decision That Shapes Your Future\n\nOctober 25\, 2025\, 11 a.m. - 12 p.m.
 DTEND:20251025T160000Z
 DTSTART:20251025T150000Z
 SUMMARY:Master&apos\;s vs PhD
-UID:fa46d5da-276e-41ed-a00c-ad180b9e85a0@fa46.org
+UID:03f476ec-43b4-4c45-bc5a-20edd89daac0@03f4.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/25/masters-or-phd.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nSeptember 19\, 2025\, 1 p.m. - 3:30 p.m.
-DTEND:20250919T193000Z
-DTSTART:20250919T170000Z
-SUMMARY:Mobilizing Mackay
-UID:b13f46df-886d-42ad-b7c8-22c11af9d20b@b13f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/19/mobilizing-mackay.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
-DTEND:20250930T163000Z
-DTSTART:20250930T143000Z
-SUMMARY:What is Response-Based Practice?
-UID:b40523ed-0da6-45bd-b409-50d0e0818d11@b405.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
+DESCRIPTION:Stories from past and present\n\nSeptember 23\, 2025\, 1 p.m. - 4 p.m.
+DTEND:20250923T200000Z
+DTSTART:20250923T170000Z
+SUMMARY:The Path of a Public Scholar
+UID:82072b47-3904-49c9-b1a7-bc0693cf9926@8207.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/23/public-scholar-intro.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:First in a series of workshops under the banner of Confronting Emergent Dystopia (CISSC Working Group)\n\nSeptember 17\, 2025\, 1:30 p.m. - 3:30 p.m.
 DTEND:20250917T193000Z
 DTSTART:20250917T173000Z
 SUMMARY:Insidious Environmentalisms: The Art of Greenwashing
-UID:c34637b5-854f-423f-a2a7-23e4bb90568b@c346.org
+UID:cac229c9-4ae0-4f1d-a40c-bb76e788e5c8@cac2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/17/insidious-environmentalism.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
+DTEND:20250930T163000Z
+DTSTART:20250930T143000Z
+SUMMARY:What is Response-Based Practice?
+UID:4fdb6158-0f01-40e7-a11e-60562ea5ca12@4fdb.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:September 25\, 2025\, 2 p.m. - 4 p.m.
+DTEND:20250925T200000Z
+DTSTART:20250925T180000Z
+SUMMARY:Arts Pessimism and the Role of Dance in Times of Crisis
+UID:a23254a9-9173-447d-9bcb-cb1d718732d0@a232.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/25/arts-pessimism.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:with Barcelona Women International Film Festival\n\nSeptember 30\, 2025\, 2 p.m. - 4 p.m.
 DTEND:20250930T200000Z
 DTSTART:20250930T180000Z
 SUMMARY:Rethinking Feminist Film Cartographies
-UID:ff71a816-3023-4412-8676-fe448ac30369@ff71.org
+UID:06e10c0e-1fe4-4b23-a193-9838ed47d94e@06e1.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/feminist-film-cartographies.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,55 +62,39 @@ DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:fb836ac5-e293-48f3-88ef-391fc882f0d0@fb83.org
+UID:fc2c232e-2044-446f-a2c5-bc0c6da6166d@fc2c.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Stories from past and present\n\nSeptember 23\, 2025\, 1 p.m. - 4 p.m.
-DTEND:20250923T200000Z
-DTSTART:20250923T170000Z
-SUMMARY:The Path of a Public Scholar
-UID:890e3d4d-cc96-484a-b8ee-0426ca0d0564@890e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/23/public-scholar-intro.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nSeptember 18\, 2025\, 1 p.m. - 3 p.m.
-DTEND:20250918T190000Z
-DTSTART:20250918T170000Z
-SUMMARY:Working Sessions: Caribbean Studies Working Group
-UID:56bcf978-dc53-4993-9121-17d7b07c61dc@56bc.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/18/caribbean-studies-working-group.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:How can a literary masterpiece be reimagined for today’s global streaming platforms?\n\nSeptember 26\, 2025\, 4 p.m. - 5:30 p.m.
-DTEND:20250926T213000Z
-DTSTART:20250926T200000Z
-SUMMARY:Voices of the Dead: Adapting the Unadaptable Pedro Páramo
-UID:6bac11e7-8239-4b0d-9d1d-7b73e529956f@6bac.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/26/paramo-discussion.html
+DESCRIPTION:Sundus Abdul Hadi and Yassin "NARCY" Alsalman present a multimedia retrospective\n\nSeptember 12\, 2025\, 10 a.m. - 6 p.m.
+DTEND:20250912T220000Z
+DTSTART:20250912T140000Z
+SUMMARY:The Message is the Medium
+UID:89775ac9-3cd8-4b1a-9450-80f6839b0dd9@8977.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/10/we-are-the-medium.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nOctober 1\, 2025\, 10 a.m. - 2 p.m.
 DTEND:20251001T180000Z
 DTSTART:20251001T140000Z
 SUMMARY:Global Learning Day
-UID:f3241ed0-f66c-4405-b9ea-96aa779cbe94@f324.org
+UID:e7b07a2f-cf8c-4dc5-801b-58bf7ae13d8b@e7b0.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/01/global-learning-day.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nOctober 6\, 2025\, 11 a.m. - 2 p.m.
-DTEND:20251006T180000Z
-DTSTART:20251006T150000Z
-SUMMARY:LEADS Mini-Symposium 2025
-UID:a84edaed-c312-4faf-83fc-f9146c612c89@a84e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/06/leads-mini-symposium.html
+DESCRIPTION:\nSeptember 19\, 2025\, 1 p.m. - 3:30 p.m.
+DTEND:20250919T193000Z
+DTSTART:20250919T170000Z
+SUMMARY:Mobilizing Mackay
+UID:4281c1ba-c344-4191-bae2-a04dbb49477e@4281.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/19/mobilizing-mackay.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nOctober 8\, 2025\, 3 p.m. - 5 p.m.
 DTEND:20251008T210000Z
 DTSTART:20251008T190000Z
 SUMMARY:Knowledge Politics
-UID:bea63c26-b78a-483d-9153-ea1127f32461@bea6.org
+UID:255277fc-be4f-4d6b-9152-233faae5b4af@2552.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/knowledge-politics.html
 END:VEVENT
 BEGIN:VEVENT
@@ -102,31 +102,31 @@ DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\,
 DTEND:20260210T220000Z
 DTSTART:20260210T200000Z
 SUMMARY:Civil Discourse on Campus
-UID:4c086d50-8d68-4c39-91cd-bebf6bc024b1@4c08.org
+UID:2d0b74b2-eec2-4a1d-9199-e411865147b7@2d0b.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:September 25\, 2025\, 2 p.m. - 4 p.m.
-DTEND:20250925T200000Z
-DTSTART:20250925T180000Z
-SUMMARY:Arts Pessimism and the Role of Dance in Times of Crisis
-UID:57d57c2b-9d1a-44e5-8c79-32263ade7b65@57d5.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/25/arts-pessimism.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A Day of Learning\n\nSeptember 16\, 2025\, 10:30 a.m. - 4:15 p.m.
 DTEND:20250916T201500Z
 DTSTART:20250916T143000Z
 SUMMARY:Honouring Truth\, Reflecting on Impact
-UID:e21dd1fd-37b9-42d2-b64d-854ab86902d9@e21d.org
+UID:7f3a57d9-5534-4ea9-ab0c-c8a4f5b14eb4@7f3a.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/16/honouring-truth-reflecting-impact.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sundus Abdul Hadi and Yassin "NARCY" Alsalman present a multimedia retrospective\n\nSeptember 12\, 2025\, 10 a.m. - 6 p.m.
-DTEND:20250912T220000Z
-DTSTART:20250912T140000Z
-SUMMARY:The Message is the Medium
-UID:93d62b65-46a6-4d3a-8dd7-d6cdd4cf5ffc@93d6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/10/we-are-the-medium.html
+DESCRIPTION:\nOctober 6\, 2025\, 11 a.m. - 2 p.m.
+DTEND:20251006T180000Z
+DTSTART:20251006T150000Z
+SUMMARY:LEADS Mini-Symposium 2025
+UID:7a6843ba-258a-47d0-873c-70974ce22dcb@7a68.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/06/leads-mini-symposium.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:How can a literary masterpiece be reimagined for today’s global streaming platforms?\n\nSeptember 26\, 2025\, 4 p.m. - 5:30 p.m.
+DTEND:20250926T213000Z
+DTSTART:20250926T200000Z
+SUMMARY:Voices of the Dead: Adapting the Unadaptable Pedro Páramo
+UID:1ef09943-6dbb-4e06-bcc8-9a2da824cfbf@1ef0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/26/paramo-discussion.html
 END:VEVENT
 END:VCALENDAR
