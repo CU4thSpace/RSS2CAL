@@ -2,19 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\nOctober 25\, 2025\, 1 p.m. - 3 p.m.
-DTEND:20251025T190000Z
-DTSTART:20251025T170000Z
-SUMMARY:Creative Writing Showcase
-UID:c3c1377f-f6e5-486f-aaf3-4af7fddf5272@c3c1.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/25/creative-writing-showcase.html
+DESCRIPTION:\nOctober 1\, 2025\, 10 a.m. - 2 p.m.
+DTEND:20251001T180000Z
+DTSTART:20251001T140000Z
+SUMMARY:Global Learning Day
+UID:e456a338-77db-4ff9-9fa5-13aba21bcb34@e456.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/01/global-learning-day.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nOctober 6\, 2025\, 11 a.m. - 2 p.m.
+DTEND:20251006T180000Z
+DTSTART:20251006T150000Z
+SUMMARY:LEADS Mini-Symposium 2025
+UID:9ed66ed0-c52d-46de-b7b1-3053d72be107@9ed6.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/06/leads-mini-symposium.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nSeptember 25\, 2025\, 2 p.m. - 4 p.m.
 DTEND:20250925T200000Z
 DTSTART:20250925T180000Z
 SUMMARY:Arts Pessimism and the Role of Dance in Times of Crisis
-UID:be53cb5b-6540-4ece-ba8a-b0bceba1502d@be53.org
+UID:34146c38-27aa-4412-8ffe-dc0d6cf8ad2e@3414.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/25/arts-pessimism.html
 END:VEVENT
 BEGIN:VEVENT
@@ -22,111 +30,103 @@ DESCRIPTION:The Decision That Shapes Your Future\n\nOctober 25\, 2025\, 11 a.m. 
 DTEND:20251025T160000Z
 DTSTART:20251025T150000Z
 SUMMARY:Master&apos\;s vs PhD
-UID:4cc8d084-f240-4d0e-8a06-46d82c161682@4cc8.org
+UID:ff008a94-45cf-4219-9ee0-3d560c20ff7e@ff00.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/25/masters-or-phd.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Part of Volume MTL Book Fair\n\nOctober 2\, 2025\, 1 p.m. - 2 p.m.
-DTEND:20251002T180000Z
-DTSTART:20251002T170000Z
-SUMMARY:Threat of Publishing
-UID:2aacfbce-d77f-48a9-81b6-242f9a0a4ceb@2aac.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/02/threat-of-publishing.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Part of Volume MTL Book Fair\n\nOctober 2\, 2025\, 2 p.m. - 3 p.m.
-DTEND:20251002T190000Z
-DTSTART:20251002T180000Z
-SUMMARY:Ecologies of Becoming
-UID:8fef3a8b-565b-4c8b-b0b9-9b85dc55c157@8fef.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/02/ecologies-of-becoming.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nOctober 1\, 2025\, 10 a.m. - 2 p.m.
-DTEND:20251001T180000Z
-DTSTART:20251001T140000Z
-SUMMARY:Global Learning Day
-UID:56f30be8-c3e3-4ec6-b34b-9081787db8fb@56f3.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/01/global-learning-day.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
-DTEND:20250930T163000Z
-DTSTART:20250930T143000Z
-SUMMARY:What is Response-Based Practice?
-UID:a8c6c911-7d07-4ac4-905f-3d08ad3143b6@a8c6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Stories from past and present\n\nSeptember 23\, 2025\, 1 p.m. - 4 p.m.
-DTEND:20250923T200000Z
-DTSTART:20250923T170000Z
-SUMMARY:The Path of a Public Scholar
-UID:afeb551d-1bb9-48c1-9a76-3d2543f55a05@afeb.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/23/public-scholar-intro.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nOctober 6\, 2025\, 11 a.m. - 2 p.m.
-DTEND:20251006T180000Z
-DTSTART:20251006T150000Z
-SUMMARY:LEADS Mini-Symposium 2025
-UID:1524c7a9-0a2b-413d-bea1-fa5a90f84a44@1524.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/06/leads-mini-symposium.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:An Experiment\n\nOctober 8\, 2025\, 2 p.m. - 4 p.m.
-DTEND:20251008T200000Z
-DTSTART:20251008T180000Z
-SUMMARY:A Smile Split by the Stars
-UID:79562ad3-9877-48f0-b4dc-581139db2922@7956.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/smile-split-by-stars.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Research in Action\n\nOctober 10\, 2025\, 4 p.m. - 6 p.m.
-DTEND:20251010T220000Z
-DTSTART:20251010T200000Z
-SUMMARY:Adult Allies &amp\; Youth Leadership
-UID:ccb8b134-2e0a-4ea3-8732-96d64c00f03c@ccb8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/10/adult-allies-youth-leadership.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:f98b4ff0-da1c-46d1-9488-cb59b443e8fd@f98b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:How can a literary masterpiece be reimagined for today’s global streaming platforms?\n\nSeptember 26\, 2025\, 4 p.m. - 5:30 p.m.
-DTEND:20250926T213000Z
-DTSTART:20250926T200000Z
-SUMMARY:Voices of the Dead: Adapting the Unadaptable Pedro Páramo
-UID:0664d88b-9b6e-4ca8-8600-5680bdbe879c@0664.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/26/paramo-discussion.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PERFORM Centre Platform Lab\n\nSeptember 24\, 2025\, 1 p.m. - 1:30 p.m.
-DTEND:20250924T173000Z
-DTSTART:20250924T170000Z
-SUMMARY:A Closer L👀k: Sleep Lab
-UID:96cd36e4-3e13-439a-a26c-6ef86bb06fc6@96cd.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/24/a-closer-look.html
+DESCRIPTION:\nOctober 25\, 2025\, 1 p.m. - 3 p.m.
+DTEND:20251025T190000Z
+DTSTART:20251025T170000Z
+SUMMARY:Creative Writing Showcase
+UID:a536cc05-46e6-43b0-a5e8-8d1bab8efd5d@a536.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/25/creative-writing-showcase.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:with the Barcelona International Women's Film Festival\n\nSeptember 30\, 2025\, 2 p.m. - 4 p.m.
 DTEND:20250930T200000Z
 DTSTART:20250930T180000Z
 SUMMARY:Rethinking Feminist Film Cartographies
-UID:627235bf-d456-47db-a401-da21fd71a0c4@6272.org
+UID:62db7c1d-c24d-4d01-80fd-5e7f2987b4d0@62db.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/feminist-film-cartographies.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Research in Action\n\nOctober 10\, 2025\, 4 p.m. - 6 p.m.
+DTEND:20251010T220000Z
+DTSTART:20251010T200000Z
+SUMMARY:Adult Allies &amp\; Youth Leadership
+UID:29495706-5f98-434b-b6d5-01ad1b6478b6@2949.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/10/adult-allies-youth-leadership.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:How can a literary masterpiece be reimagined for today’s global streaming platforms?\n\nSeptember 26\, 2025\, 4 p.m. - 5:30 p.m.
+DTEND:20250926T213000Z
+DTSTART:20250926T200000Z
+SUMMARY:Voices of the Dead: Adapting the Unadaptable Pedro Páramo
+UID:a39b3356-243c-4708-a351-9894e563f032@a39b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/26/paramo-discussion.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Part of Volume MTL Book Fair\n\nOctober 2\, 2025\, 2 p.m. - 3 p.m.
+DTEND:20251002T190000Z
+DTSTART:20251002T180000Z
+SUMMARY:Ecologies of Becoming
+UID:c3890d58-8633-4bdb-8e86-436f1d01d165@c389.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/02/ecologies-of-becoming.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PERFORM Centre Platform Lab\n\nSeptember 24\, 2025\, 1 p.m. - 1:30 p.m.
+DTEND:20250924T173000Z
+DTSTART:20250924T170000Z
+SUMMARY:A Closer L👀k: Sleep Lab
+UID:059bdbc4-6bac-4552-804e-ee8b1f5e3136@059b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/24/a-closer-look.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Part of Volume MTL Book Fair\n\nOctober 2\, 2025\, 1 p.m. - 2 p.m.
+DTEND:20251002T180000Z
+DTSTART:20251002T170000Z
+SUMMARY:Threat of Publishing
+UID:53d2ffa9-f2ef-44d3-afdf-9ae3f51e49ab@53d2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/02/threat-of-publishing.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:8ae27683-666b-4368-be9f-af6b30c5b0f8@8ae2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Dignity Centered Conversation\n\nSeptember 30\, 2025\, 10:30 a.m. - 12:30 p.m.
+DTEND:20250930T163000Z
+DTSTART:20250930T143000Z
+SUMMARY:What is Response-Based Practice?
+UID:9745cde9-c91a-45ef-a897-21cd5bcc3f45@9745.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/30/response-based-practice.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:7fbbd3a6-0247-4f12-9444-07c9086af6e1@7fbb.org
+UID:3d49285e-3457-483f-ae13-fd834b4594b5@3d49.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:An Experiment\n\nOctober 8\, 2025\, 2 p.m. - 4 p.m.
+DTEND:20251008T200000Z
+DTSTART:20251008T180000Z
+SUMMARY:A Smile Split by the Stars
+UID:ef667496-4644-4cda-b9c4-86feba6872d4@ef66.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/08/smile-split-by-stars.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Stories from past and present\n\nSeptember 23\, 2025\, 1 p.m. - 4 p.m.
+DTEND:20250923T200000Z
+DTSTART:20250923T170000Z
+SUMMARY:The Path of a Public Scholar
+UID:b84a143c-53c7-46d4-bd74-4c94fffdabbe@b84a.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/09/23/public-scholar-intro.html
 END:VEVENT
 END:VCALENDAR
