@@ -2,27 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\nOctober 31\, 2025\, 12 p.m. - 12:30 p.m.
-DTEND:20251031T163000Z
-DTSTART:20251031T160000Z
-SUMMARY:(Re)envisioning Mackay: The Tour
-UID:54487d72-a603-4196-9501-9a905d4248e7@5448.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/22/reenvisioning-mackay.html
+DESCRIPTION:A Talk by Samia Henni | Nazar Theme \n\nOctober 30\, 2025\, 4 p.m. - 6 p.m.
+DTEND:20251030T220000Z
+DTSTART:20251030T200000Z
+SUMMARY:Rehearsing Colonial Toxicity
+UID:079bc28f-f367-40b7-b272-426aed1e0bfe@079b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/30/theory-of-evil-eye.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nDecember 12\, 2025\, 10:30 a.m. - 5:30 p.m.
 DTEND:20251212T223000Z
 DTSTART:20251212T153000Z
 SUMMARY:Arts for Laughs
-UID:f145b291-acfd-4199-9b52-e2f5b23be188@f145.org
+UID:57e3b860-2be2-41bd-a539-7b4999abca40@57e3.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/12/arts-for-laughs.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nOctober 25\, 2025\, 1 p.m. - 3 p.m.
+DTEND:20251025T190000Z
+DTSTART:20251025T170000Z
+SUMMARY:Creative Writing Showcase
+UID:5ae82ef8-5cd1-489a-bae8-0a76f5018cb7@5ae8.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/25/creative-writing-showcase.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nOctober 29\, 2025\, 12 p.m. - 2 p.m.
+DTEND:20251029T180000Z
+DTSTART:20251029T160000Z
+SUMMARY:Building a Common AI Lexicon
+UID:8af632b4-ddcf-4fd7-9099-705c5a3a54db@8af6.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/29/building-a-common-ai-lexicon.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260331T210000Z
+DTSTART:20260331T190000Z
+SUMMARY:A Crisis of Empathy?
+UID:960c0444-42e4-468f-a188-cc62f32e185a@960c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nNovember 11\, 2025\, 11 a.m. - 12:30 p.m.
+DTEND:20251111T173000Z
+DTSTART:20251111T160000Z
+SUMMARY:Safety and the Ethics of Vulnerability
+UID:06bebc9f-3b96-43ce-b4fa-f3b9c5970f9a@06be.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/11/safety-ethics-vulnerability.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:How to become a Concordia Stinger \n\nOctober 25\, 2025\, 12:15 p.m. - 1 p.m.
+DTEND:20251025T170000Z
+DTSTART:20251025T161500Z
+SUMMARY:Varsity Athletics 101
+UID:ecc631bb-c075-4eff-b2c1-879d77c57f98@ecc6.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/25/varsity-athletics-101.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nOctober 28\, 2025\, 11 a.m. - 12 p.m.
 DTEND:20251028T160000Z
 DTSTART:20251028T150000Z
 SUMMARY:The Iron Ring with Iana Belitchka
-UID:1e12ccdb-b527-480f-acf1-d613f5932bc4@1e12.org
+UID:96baea4d-43c0-44f5-971d-1adc53846fee@96ba.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/28/the-iron-ring.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,127 +70,87 @@ DESCRIPTION:Research Institutes in Discussion and Pop-Up Stations\n\nNovember 12
 DTEND:20251112T190000Z
 DTSTART:20251112T180000Z
 SUMMARY:Collaboration that Shapes Research: Research Institute Day
-UID:901c0b2e-c5cf-471f-b14c-bacd30227cf4@901c.org
+UID:b62f3891-fcca-448a-b928-41442c31e107@b62f.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/12/research-institute-day.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nOctober 25\, 2025\, 1 p.m. - 3 p.m.
-DTEND:20251025T190000Z
-DTSTART:20251025T170000Z
-SUMMARY:Creative Writing Showcase
-UID:2bf5e02a-54b4-4aab-9b10-6363c44c772c@2bf5.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/25/creative-writing-showcase.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Collegial Workshop on Open Scholarship and Education Practices\n\nOctober 24\, 2025\, 1 p.m. - 2:30 p.m.
-DTEND:20251024T183000Z
-DTSTART:20251024T170000Z
-SUMMARY:Behind the Scenes: Open Scholarship
-UID:80024c84-3c38-486e-bd72-af7fd9e2aa0a@8002.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/24/behind-the-scenes.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Vermicomposting with the Concordia Farmer's Market and ABCompost\n\nOctober 29\, 2025\, 4 p.m. - 5 p.m.
-DTEND:20251029T210000Z
-DTSTART:20251029T200000Z
-SUMMARY:Pumpkin Afterlife
-UID:18553367-93b3-4320-b74e-6528605e2f25@1855.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/29/pumpkin-afterlife.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:How to become a Concordia Stinger \n\nOctober 25\, 2025\, 12:15 p.m. - 1 p.m.
-DTEND:20251025T170000Z
-DTSTART:20251025T161500Z
-SUMMARY:Varsity Athletics 101
-UID:d1ca134d-1766-48bd-bfae-e0edb9c09528@d1ca.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/25/varsity-athletics-101.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nOctober 30\, 2025\, 1 p.m. - 2 p.m.
-DTEND:20251030T180000Z
-DTSTART:20251030T170000Z
-SUMMARY:Writers Read Presents Lynn Kozak
-UID:d621e8ab-143f-4104-bc14-d6392d111364@d621.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/30/writers-read-presents.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker Series - Concordia's Minor in Black and African Diaspora Studies in the Canadian Context \n\nNovember 7\, 2025\, 2:30 p.m. - 4:30 p.m.
-DTEND:20251107T213000Z
-DTSTART:20251107T193000Z
-SUMMARY:Black Studies @Concordia Session II
-UID:67eb7be4-ab3b-49a6-89e1-1eb3cdd6d224@67eb.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/07/black-studies-at-concordia.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Student ambassadors share how to navigate this critical choice.\n\nOctober 25\, 2025\, 11 a.m. - 12 p.m.
-DTEND:20251025T160000Z
-DTSTART:20251025T150000Z
-SUMMARY:Master&apos\;s vs PhD?: The Decision That Shapes Your Future
-UID:e536f6c3-f7c9-46ce-8ee1-311b8b7e654b@e536.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/25/masters-or-phd.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:a9e3804c-5f24-429b-8e09-0c6ae46ad68d@a9e3.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nOctober 29\, 2025\, 12 p.m. - 2 p.m.
-DTEND:20251029T180000Z
-DTSTART:20251029T160000Z
-SUMMARY:Building a Common AI Lexicon
-UID:0b8a8269-c0c6-4255-acb4-0cea62be1d99@0b8a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/29/building-a-common-ai-lexicon.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Challenges and Access Perspectives\n\nOctober 27\, 2025\, 3 p.m. - 5 p.m.
-DTEND:20251027T210000Z
-DTSTART:20251027T190000Z
-SUMMARY:Ensuring the Preservation of Film and Video Collections
-UID:2cd5cb86-569d-4484-af7f-2ddaa03b31f6@2cd5.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/27/ensuring-the-preservation-of-film.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260331T210000Z
-DTSTART:20260331T190000Z
-SUMMARY:A Crisis of Empathy?
-UID:b713a5c0-48cc-4a35-8e9e-b83bec073281@b713.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Talk by Samia Henni | Nazar Theme \n\nOctober 30\, 2025\, 4 p.m. - 6 p.m.
-DTEND:20251030T220000Z
-DTSTART:20251030T200000Z
-SUMMARY:Rehearsing Colonial Toxicity
-UID:90390d7e-5079-40f7-bcb4-6750cee37844@9039.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/30/theory-of-evil-eye.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nDecember 8\, 2025\, 3 p.m. - 5 p.m.
 DTEND:20251208T220000Z
 DTSTART:20251208T200000Z
 SUMMARY:Knowledge Politics
-UID:0f2f39cb-7c25-4551-8967-41c309ce4604@0f2f.org
+UID:9532473b-e774-4fed-ac49-a15f0e1358bd@9532.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/08/knowledge-politics.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nNovember 11\, 2025\, 11 a.m. - 12:30 p.m.
-DTEND:20251111T173000Z
-DTSTART:20251111T160000Z
-SUMMARY:Safety and the Ethics of Vulnerability
-UID:4677f1a6-734f-4c07-96c4-1c4ea2f97184@4677.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/11/safety-ethics-vulnerability.html
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:bc03a206-66a8-4ce3-802e-1ef79fdf1052@bc03.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nOctober 30\, 2025\, 1 p.m. - 2 p.m.
+DTEND:20251030T180000Z
+DTSTART:20251030T170000Z
+SUMMARY:Writers Read Presents Lynn Kozak
+UID:90350066-e8b5-4bd6-a186-6e837a64ec82@9035.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/30/writers-read-presents.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Student ambassadors share how to navigate this critical choice.\n\nOctober 25\, 2025\, 11 a.m. - 12 p.m.
+DTEND:20251025T160000Z
+DTSTART:20251025T150000Z
+SUMMARY:Master&apos\;s vs PhD?: The Decision That Shapes Your Future
+UID:c5b807da-e479-4aaf-a08c-a6ca5e1c4c5c@c5b8.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/25/masters-or-phd.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Collegial Workshop on Open Scholarship and Education Practices\n\nOctober 24\, 2025\, 1 p.m. - 2:30 p.m.
+DTEND:20251024T183000Z
+DTSTART:20251024T170000Z
+SUMMARY:Behind the Scenes: Open Scholarship
+UID:d5091364-625b-42d0-8e15-8831d6f542f6@d509.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/24/behind-the-scenes.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nOctober 31\, 2025\, 12 p.m. - 12:30 p.m.
+DTEND:20251031T163000Z
+DTSTART:20251031T160000Z
+SUMMARY:(Re)envisioning Mackay: The Tour
+UID:00c97bcf-330a-4186-8557-c1e2316c5af4@00c9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/22/reenvisioning-mackay.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Vermicomposting with the Concordia Farmer's Market and ABCompost\n\nOctober 29\, 2025\, 4 p.m. - 5 p.m.
+DTEND:20251029T210000Z
+DTSTART:20251029T200000Z
+SUMMARY:Pumpkin Afterlife
+UID:e5e90e86-8530-4335-97f5-51f52da4ecf7@e5e9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/29/pumpkin-afterlife.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Presented by The Words and Music Show\n\nNovember 5\, 2025\, 2 p.m. - 3:30 p.m.
 DTEND:20251105T203000Z
 DTSTART:20251105T190000Z
 SUMMARY:QWF Ian Ferrier Spoken Word Prize Finalists
-UID:d1161b05-6e11-4094-8849-4332be83fed2@d116.org
+UID:ea49b868-0337-40e9-acc4-52803c67c3a3@ea49.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/05/qwf-spoken-word.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker Series - Concordia's Minor in Black and African Diaspora Studies in the Canadian Context \n\nNovember 7\, 2025\, 2:30 p.m. - 4:30 p.m.
+DTEND:20251107T213000Z
+DTSTART:20251107T193000Z
+SUMMARY:Black Studies @Concordia Session II
+UID:70fe2105-e1d0-40d8-9d22-9da998674443@70fe.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/07/black-studies-at-concordia.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Challenges and Access Perspectives\n\nOctober 27\, 2025\, 3 p.m. - 5 p.m.
+DTEND:20251027T210000Z
+DTSTART:20251027T190000Z
+SUMMARY:Ensuring the Preservation of Film and Video Collections
+UID:0aaf4ddd-37a8-40dc-8ac8-7a4513da6553@0aaf.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/10/27/ensuring-the-preservation-of-film.html
 END:VEVENT
 END:VCALENDAR
