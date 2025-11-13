@@ -2,27 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:A Conversation with Dr. Lucas F.W. Wilson\n\nNovember 28\, 2025\, 3 p.m. - 5 p.m.
+DTEND:20251128T220000Z
+DTSTART:20251128T200000Z
+SUMMARY:Shame Sex Attraction
+UID:f3017e9f-5703-4b87-ab44-70d54ca24ce5@f301.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/28/shame-sex-attraction.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:f9e7a197-806e-42f0-ad76-db6e1935d187@f9e7.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nNovember 25\, 2025\, 2 p.m. - 6 p.m.
+DTEND:20251125T230000Z
+DTSTART:20251125T190000Z
+SUMMARY:Parti-Sci-Party
+UID:6da8efd6-1f4b-44fb-8b8d-cbd6bf78cb00@6da8.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/25/parti-sci-party.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Launch of the Critical Craft Studies Series\n\nNovember 19\, 2025\, 11 a.m. - 3 p.m.
+DTEND:20251119T200000Z
+DTSTART:20251119T160000Z
+SUMMARY:Where Craft Meets Scholarship
+UID:3bf34c87-41bc-4099-8d56-3987a50457c7@3bf3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/19/where-craft-meets-scholarship.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260331T210000Z
+DTSTART:20260331T190000Z
+SUMMARY:A Crisis of Empathy?
+UID:5755d96f-3d57-4aeb-a470-3452bda49477@5755.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Engineering and Computer Science Association\n\nNovember 18\, 2025\, 11 a.m. - 5 p.m.
 DTEND:20251118T220000Z
 DTSTART:20251118T160000Z
 SUMMARY:ECA Societies Showcase
-UID:3e86c601-920a-4c7d-bc1d-b82e55713d49@3e86.org
+UID:5b719347-fe5f-423f-a461-e29ec4fa945d@5b71.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/18/eca-societies-showcase.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nNovember 28\, 2025\, 11 a.m. - 12:30 p.m.
-DTEND:20251128T173000Z
-DTSTART:20251128T160000Z
-SUMMARY:Fall 2025 Innovation Challenges
-UID:93cdadeb-a114-4c6a-a9f5-526d0f7ae05e@93cd.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/28/fall-innovation-challenges.html
+DESCRIPTION:A Lecture by Jason Millar\n\nNovember 21\, 2025\, 3 p.m. - 5 p.m.
+DTEND:20251121T220000Z
+DTSTART:20251121T200000Z
+SUMMARY:Ethics Modelling: A New Applied Ethics for Tech Design
+UID:c00c7e80-7f8d-49e3-a439-c397ed6143a8@c00c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/21/ethics-modelling.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Academic Freedom in an Age of the Culture Wars\n\nDecember 8\, 2025\, 3 p.m. - 5 p.m.
 DTEND:20251208T220000Z
 DTSTART:20251208T200000Z
 SUMMARY:Knowledge Politics
-UID:5ede08e3-086c-4814-aec9-ebe2be472d75@5ede.org
+UID:52d8ef13-1dd7-4015-aad1-daa465991ec8@52d8.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/08/knowledge-politics.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,95 +70,55 @@ DESCRIPTION:\nDecember 12\, 2025\, 10:30 a.m. - 5:30 p.m.
 DTEND:20251212T223000Z
 DTSTART:20251212T153000Z
 SUMMARY:Arts for Laughs
-UID:4172453c-07b6-4128-941a-5867a4c8b6f4@4172.org
+UID:219ef5b9-e5ae-418b-85f6-5a88f743f738@219e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/12/arts-for-laughs.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
-DTEND:20260209T203000Z
-DTSTART:20260209T190000Z
-SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
-UID:8869f013-d266-49d7-b2b7-941c1c53ab55@8869.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Research Institutes in Discussion and Pop-Up Stations\n\nNovember 12\, 2025\, 1 p.m. - 2 p.m.
 DTEND:20251112T190000Z
 DTSTART:20251112T180000Z
 SUMMARY:Collaboration that Shapes Research
-UID:bd856677-10c8-4574-bcb0-01be52c4bd27@bd85.org
+UID:70648fa2-19b2-4d0b-ab53-bca83955269c@7064.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/12/research-institute-day.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:e24d5d82-2610-4bab-b414-9f345703cf37@e24d.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+DESCRIPTION:\nNovember 28\, 2025\, 11 a.m. - 12:30 p.m.
+DTEND:20251128T173000Z
+DTSTART:20251128T160000Z
+SUMMARY:Fall 2025 Innovation Challenges
+UID:4cd299cb-9980-43f8-9166-94fe17ca7e8d@4cd2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/28/fall-innovation-challenges.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Launch of the Critical Craft Studies Series\n\nNovember 19\, 2025\, 11 a.m. - 3 p.m.
-DTEND:20251119T200000Z
-DTSTART:20251119T160000Z
-SUMMARY:Where Craft Meets Scholarship
-UID:e1df2034-012c-461b-a826-71247f448779@e1df.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/19/where-craft-meets-scholarship.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nNovember 26\, 2025\, 10:30 a.m. - 1:30 p.m.
-DTEND:20251126T183000Z
-DTSTART:20251126T153000Z
-SUMMARY:UNAM-Concordia Research Symposium
-UID:9f8c230b-47f7-4666-bb1a-872a7696d640@9f8c.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/26/unam-concordia.html
+DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
+DTEND:20260209T203000Z
+DTSTART:20260209T190000Z
+SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
+UID:13718066-f40d-43fa-acb5-0dc7c1501cd1@1371.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Models\, Miniatures\, Devices\n\nNovember 13\, 2025\, 3 p.m. - 5 p.m.
 DTEND:20251113T220000Z
 DTSTART:20251113T200000Z
 SUMMARY:Pedagogy of the Small
-UID:393fb893-20e0-4cf2-94de-48085b3b580f@393f.org
+UID:c214aac2-ad80-4487-ac3a-d15163303f61@c214.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/13/pedagogy-of-the-small.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nNovember 26\, 2025\, 10:30 a.m. - 1:30 p.m.
+DTEND:20251126T183000Z
+DTSTART:20251126T153000Z
+SUMMARY:UNAM-Concordia Research Symposium
+UID:5b8876d2-04cc-4543-9820-d48210e9280a@5b88.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/26/unam-concordia.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Insights from Psychology\, Technology\, and Policy\n\nNovember 20\, 2025\, 11 a.m. - 1 p.m.
 DTEND:20251120T180000Z
 DTSTART:20251120T160000Z
 SUMMARY:Digital Well-Being and Social Media Overuse
-UID:53a130a1-5514-42ec-b425-32b489b66ee2@53a1.org
+UID:ffeeae44-7f87-4f90-8395-7c54aaec954f@ffee.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/20/digital-well-being.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nNovember 25\, 2025\, 2 p.m. - 6 p.m.
-DTEND:20251125T230000Z
-DTSTART:20251125T190000Z
-SUMMARY:Parti-Sci-Party
-UID:f5789b29-0b82-432d-9d1e-b10bf93ab84c@f578.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/25/parti-sci-party.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260331T210000Z
-DTSTART:20260331T190000Z
-SUMMARY:A Crisis of Empathy?
-UID:6d5d4fe6-37ba-4748-9217-1702bcd05840@6d5d.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Lecture by Jason Millar\n\nNovember 21\, 2025\, 3 p.m. - 5 p.m.
-DTEND:20251121T220000Z
-DTSTART:20251121T200000Z
-SUMMARY:Ethics Modelling: A New Applied Ethics for Tech Design
-UID:76b8e807-9efb-4348-b568-c23b410211d6@76b8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/21/ethics-modelling.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Conversation with Dr. Lucas F.W. Wilson\n\nNovember 28\, 2025\, 3 p.m. - 5 p.m.
-DTEND:20251128T220000Z
-DTSTART:20251128T200000Z
-SUMMARY:Shame Sex Attraction
-UID:8cf6d14a-cc7b-48a9-b41f-73a407c7a201@8cf6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/28/shame-sex-attraction.html
 END:VEVENT
 END:VCALENDAR
