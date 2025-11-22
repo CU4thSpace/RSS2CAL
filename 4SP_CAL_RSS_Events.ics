@@ -2,35 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\nNovember 25\, 2025\, 2 p.m. - 6 p.m.Public Scholar Nicole Yu\, hosts a fireside chat with current biodiversity researchers!
-DTEND:20251125T230000Z
-DTSTART:20251125T190000Z
-SUMMARY:Parti-Sci-Party
-UID:9e8215ab-0dba-4f54-a489-956f4fb4bf7d@9e82.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/25/parti-sci-party.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Iron Ring Podcast\n\nDecember 9\, 2025\, 3 p.m. - 6 p.m.
-DTEND:20251209T230000Z
-DTSTART:20251209T200000Z
-SUMMARY:Owning your Success with Dr. Gina Cody
-UID:3f907744-5c2a-42dc-8999-4fe230972793@3f90.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/09/the-iron-ring.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nDecember 11\, 2025\, 12:30 p.m. - 5 p.m.
-DTEND:20251211T220000Z
-DTSTART:20251211T173000Z
-SUMMARY:Wild Kin: A Queer Ecologies Symposium
-UID:ae577bac-ddaf-4f85-a759-c95fe0e89c71@ae57.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/11/wild-kin.html
+DESCRIPTION:A Conversation with Dr. Lucas F.W. Wilson\n\nNovember 28\, 2025\, 3 p.m. - 5 p.m.
+DTEND:20251128T220000Z
+DTSTART:20251128T200000Z
+SUMMARY:Shame Sex Attraction
+UID:cf72ffc2-564d-4d88-a2f6-173f1354dd7a@cf72.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/28/shame-sex-attraction.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The culminating event for students in the production stream of Communications Studies\n\nNovember 27\, 2025\, 2 p.m. - 6 p.m.
 DTEND:20251127T230000Z
 DTSTART:20251127T190000Z
 SUMMARY:Decompositions: A Pop-Up Expo
-UID:5223cf01-f66d-4587-82e9-80e866836667@5223.org
+UID:ad3d145c-6583-49a7-be36-f69308216c42@ad3d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/27/decompositions.html
 END:VEVENT
 BEGIN:VEVENT
@@ -38,23 +22,47 @@ DESCRIPTION:\nNovember 26\, 2025\, 10:30 a.m. - 1:30 p.m.
 DTEND:20251126T183000Z
 DTSTART:20251126T153000Z
 SUMMARY:UNAM-Concordia Research Symposium
-UID:4ff5cb00-a76c-4b83-91e5-75e73993861d@4ff5.org
+UID:7b6ca993-fe5b-4b28-ace9-c18d4e332a0b@7b6c.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/26/unam-concordia.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nDecember 4\, 2025\, 12 p.m. - 2 p.m.
-DTEND:20251204T190000Z
-DTSTART:20251204T170000Z
-SUMMARY:[Annexes]7 Launch: L’art du Podcast sur L’art
-UID:7f068875-9887-449c-af73-43ebed6b9a68@7f06.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/04/annexes-launch.html
+DESCRIPTION:\nNovember 28\, 2025\, 11 a.m. - 12:30 p.m.
+DTEND:20251128T173000Z
+DTSTART:20251128T160000Z
+SUMMARY:Fall 2025 Innovation Challenges
+UID:352295be-8308-4d3b-806b-7fbf5d1a6aef@3522.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/28/fall-innovation-challenges.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Iron Ring Podcast\n\nDecember 9\, 2025\, 3 p.m. - 6 p.m.
+DTEND:20251209T230000Z
+DTSTART:20251209T200000Z
+SUMMARY:Owning your Success with Dr. Gina Cody
+UID:8d2252f5-b7fc-49d4-a8d4-7776fa3ab6f3@8d22.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/09/the-iron-ring.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nDecember 11\, 2025\, 12:30 p.m. - 5 p.m.
+DTEND:20251211T220000Z
+DTSTART:20251211T173000Z
+SUMMARY:Wild Kin: A Queer Ecologies Symposium
+UID:86c4778f-125e-4f18-9f95-e49fb2a1b63d@86c4.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/11/wild-kin.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nNovember 25\, 2025\, 2 p.m. - 6 p.m.Public Scholar Nicole Yu\, hosts a fireside chat with current biodiversity researchers!
+DTEND:20251125T230000Z
+DTSTART:20251125T190000Z
+SUMMARY:Parti-Sci-Party
+UID:ac383370-8e97-4a3f-86d6-8a376f3261a6@ac38.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/25/parti-sci-party.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nDecember 4\, 2025\, 3 p.m. - 5:30 p.m.
 DTEND:20251204T223000Z
 DTSTART:20251204T200000Z
 SUMMARY:WIE x IISE x Homeroom Iron Ring Podcast
-UID:ac853c31-a923-4ca0-b4ad-e26044071081@ac85.org
+UID:9499c224-e551-4173-b333-d2bf96c64da7@9499.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/04/the-iron-ring.html
 END:VEVENT
 BEGIN:VEVENT
@@ -62,7 +70,7 @@ DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
 DTEND:20260209T203000Z
 DTSTART:20260209T190000Z
 SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
-UID:93d9bd5d-140e-4eb5-bb76-758128b2f403@93d9.org
+UID:3f9e2f5c-e67a-4ac1-9edf-56eed95c9141@3f9e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
 END:VEVENT
 BEGIN:VEVENT
@@ -70,23 +78,23 @@ DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:9be8ec63-1080-4667-bf31-0e3052f5d014@9be8.org
+UID:72a1076b-9a6c-4075-9232-8a4ffc346628@72a1.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nNovember 28\, 2025\, 11 a.m. - 12:30 p.m.
-DTEND:20251128T173000Z
-DTSTART:20251128T160000Z
-SUMMARY:Fall 2025 Innovation Challenges
-UID:aa6b1292-9285-4160-b887-5380a4eae4fa@aa6b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/28/fall-innovation-challenges.html
+DESCRIPTION:\nDecember 4\, 2025\, 12 p.m. - 2 p.m.
+DTEND:20251204T190000Z
+DTSTART:20251204T170000Z
+SUMMARY:[Annexes]7 Launch: L’art du Podcast sur L’art
+UID:b3712788-b36b-4178-83ea-6dd2fed6091b@b371.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/04/annexes-launch.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260210T220000Z
 DTSTART:20260210T200000Z
 SUMMARY:Civil Discourse on Campus
-UID:aae212c7-bc52-4e40-9482-d6466418cbdf@aae2.org
+UID:ef4b926d-e928-43b4-a501-c869402fd5ef@ef4b.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 BEGIN:VEVENT
@@ -94,15 +102,7 @@ DESCRIPTION:\nDecember 12\, 2025\, 10:30 a.m. - 5:30 p.m.
 DTEND:20251212T223000Z
 DTSTART:20251212T153000Z
 SUMMARY:Arts for Laughs
-UID:cb57464e-5826-4ae1-97dc-7a61b5bcb7f1@cb57.org
+UID:ede79d09-ce3f-439a-a085-861dcb51e0ff@ede7.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/12/arts-for-laughs.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Conversation with Dr. Lucas F.W. Wilson\n\nNovember 28\, 2025\, 3 p.m. - 5 p.m.
-DTEND:20251128T220000Z
-DTSTART:20251128T200000Z
-SUMMARY:Shame Sex Attraction
-UID:acc67108-917c-4b59-b8b6-c3f082e258a2@acc6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/28/shame-sex-attraction.html
 END:VEVENT
 END:VCALENDAR
