@@ -2,91 +2,107 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:The Iron Ring Podcast\n\nDecember 9\, 2025\, 3 p.m. - 6 p.m.
-DTEND:20251209T230000Z
-DTSTART:20251209T200000Z
-SUMMARY:Owning your Success with Dr. Gina Cody
-UID:06245013-368d-4ff7-97ec-57aca18bd143@0624.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/09/the-iron-ring.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pop-Up Expo and Roundtables | Critical Materiality Mediation Series \n\nDecember 2\, 2025\, 1 p.m. - 5 p.m.
-DTEND:20251202T220000Z
-DTSTART:20251202T180000Z
-SUMMARY:What&apos\;s the Matter?: Reimagining More Responsive Human-Object Relationships
-UID:bfd99af1-4266-47a5-8178-158e1374d668@bfd9.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/02/whats-the-matter.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nDecember 12\, 2025\, 10:30 a.m. - 5:30 p.m.
-DTEND:20251212T223000Z
-DTSTART:20251212T153000Z
-SUMMARY:Arts for Laughs
-UID:62f07659-2c25-4cf2-8cc6-3479091fde6f@62f0.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/12/arts-for-laughs.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:a38dceb8-f140-4bff-97b7-26eed540e9be@a38d.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
-DTEND:20260209T203000Z
-DTSTART:20260209T190000Z
-SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
-UID:211ec427-2869-464b-ad9e-56b7235beaa6@211e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Pop-Up Expo and Roundtables | Critical Materiality Mediation Series \n\nDecember 3\, 2025\, 1 p.m. - 5 p.m.
 DTEND:20251203T220000Z
 DTSTART:20251203T180000Z
 SUMMARY:Symbiotic Futures
-UID:211c4f32-33a2-4aa3-ac4d-551489dc2efc@211c.org
+UID:aa967507-dd53-487b-a255-7ffb0af36465@aa96.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/03/symbiotic-futures.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260331T210000Z
-DTSTART:20260331T190000Z
-SUMMARY:A Crisis of Empathy?
-UID:50b6a072-e00e-4a95-b9c7-3ddeabc6da7e@50b6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nDecember 11\, 2025\, 12:30 p.m. - 5 p.m.
 DTEND:20251211T220000Z
 DTSTART:20251211T173000Z
 SUMMARY:Wild Kin: A Queer Ecologies Symposium
-UID:f6dc4752-b55f-4e06-b2aa-95c03565ad81@f6dc.org
+UID:fe410087-541f-4839-8eeb-339d059d2b01@fe41.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/11/wild-kin.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pop-Up Expo and Roundtables | Critical Materiality Mediation Series \n\nDecember 2\, 2025\, 1 p.m. - 5 p.m.
+DTEND:20251202T220000Z
+DTSTART:20251202T180000Z
+SUMMARY:What&apos\;s the Matter?: Reimagining More Responsive Human-Object Relationships
+UID:cbcc33e4-47ea-4547-8d11-bb531b08f6f1@cbcc.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/02/whats-the-matter.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Iron Ring Podcast\n\nDecember 9\, 2025\, 3 p.m. - 6 p.m.
+DTEND:20251209T230000Z
+DTSTART:20251209T200000Z
+SUMMARY:Owning your Success with Dr. Gina Cody
+UID:30034d00-f07d-4d45-8775-fdb0c543510d@3003.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/09/the-iron-ring.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260331T210000Z
+DTSTART:20260331T190000Z
+SUMMARY:A Crisis of Empathy?
+UID:149eeeef-5bf6-4ac7-ba21-071aeee045cc@149e.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:cd34fb17-79f3-44d9-80eb-2faae7b6d96f@cd34.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nDecember 4\, 2025\, 3 p.m. - 5:30 p.m.
 DTEND:20251204T223000Z
 DTSTART:20251204T200000Z
 SUMMARY:WIE x IISE x Homeroom Iron Ring Podcast
-UID:bf2f4ae7-95fc-4255-98ac-abf32cc9843d@bf2f.org
+UID:efb2e019-0598-4f90-9580-276a429c8bfa@efb2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/04/the-iron-ring.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Conversation with Dr. Lucas F.W. Wilson\n\nNovember 28\, 2025\, 3 p.m. - 5 p.m.
+DTEND:20251128T220000Z
+DTSTART:20251128T200000Z
+SUMMARY:Shame Sex Attraction
+UID:a51ce556-9642-41e2-ba15-79f4b60ef39f@a51c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/28/shame-sex-attraction.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
+DTEND:20260209T203000Z
+DTSTART:20260209T190000Z
+SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
+UID:681bfcfd-8e23-4bc7-a519-b3c8859daeba@681b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nDecember 12\, 2025\, 10:30 a.m. - 5:30 p.m.
+DTEND:20251212T223000Z
+DTSTART:20251212T153000Z
+SUMMARY:Arts for Laughs
+UID:a36237cf-7490-47f8-89d5-b6ba0c095855@a362.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/12/arts-for-laughs.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Conversations Across PhD Paths\n\nDecember 5\, 2025\, 2 p.m. - 5 p.m.
 DTEND:20251205T220000Z
 DTSTART:20251205T190000Z
 SUMMARY:Research Creation at Concordia
-UID:c5925c30-ad64-4407-b4a5-9d45c463809e@c592.org
+UID:5acbf716-87f9-4555-8a45-1792a1791c20@5acb.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/05/research-creation-at-concordia.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nNovember 28\, 2025\, 11 a.m. - 12:30 p.m.
+DTEND:20251128T173000Z
+DTSTART:20251128T160000Z
+SUMMARY:Innovation Challenges: Fall 2025
+UID:44a35cba-d2ac-40ab-8d72-9a6958569ac5@44a3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/11/28/fall-innovation-challenges.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:L’art du podcast sur l’art\n\nDecember 4\, 2025\, 12 p.m. - 2 p.m.
 DTEND:20251204T190000Z
 DTSTART:20251204T170000Z
 SUMMARY:[Annexes] 7
-UID:8b24258d-69e1-4938-88a8-d32796bbfa2d@8b24.org
+UID:9a24c689-afd3-465d-9e88-23d29bceb648@9a24.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/04/annexes-launch.html
 END:VEVENT
 END:VCALENDAR
