@@ -2,43 +2,75 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
-DTEND:20260209T203000Z
-DTSTART:20260209T190000Z
-SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
-UID:7448749b-b17a-44b3-9dd3-b0d06e344354@7448.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nDecember 4\, 2025\, 3 p.m. - 5:30 p.m.
-DTEND:20251204T223000Z
-DTSTART:20251204T200000Z
-SUMMARY:WIE x IISE x Homeroom Iron Ring Podcast
-UID:64581a0e-a1d4-48cf-b8b2-147d54d95529@6458.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/04/the-iron-ring.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Pop-Up Expo and Roundtables | Critical Materiality Mediation Series \n\nDecember 2\, 2025\, 1 p.m. - 5 p.m.
 DTEND:20251202T220000Z
 DTSTART:20251202T180000Z
 SUMMARY:What&apos\;s the Matter?: Reimagining More Responsive Human-Object Relationships
-UID:78b48c68-855f-459b-9d47-15ebb137b339@78b4.org
+UID:7742e1e2-64f6-415a-b8c4-fbc1a192b8bd@7742.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/02/whats-the-matter.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:L’art du podcast sur l’art\n\nDecember 4\, 2025\, 12 p.m. - 2 p.m.
+DTEND:20251204T190000Z
+DTSTART:20251204T170000Z
+SUMMARY:[Annexes] 7
+UID:f28cc7b0-0952-43a4-88e5-8f60b9b821fd@f28c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/04/annexes-launch.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
+DTEND:20260209T203000Z
+DTSTART:20260209T190000Z
+SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
+UID:4943acc5-d28a-4f9e-8871-c431cb750d1e@4943.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260331T210000Z
+DTSTART:20260331T190000Z
+SUMMARY:A Crisis of Empathy?
+UID:637cda5a-198a-4074-ba76-e2a0e248d7c8@637c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nDecember 11\, 2025\, 12:30 p.m. - 5 p.m.
+DTEND:20251211T220000Z
+DTSTART:20251211T173000Z
+SUMMARY:Wild Kin: A Queer Ecologies Symposium
+UID:28f67a4b-4698-45cf-ac0a-ab6b6ce04c1e@28f6.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/11/wild-kin.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Iron Ring Podcast\n\nDecember 9\, 2025\, 3 p.m. - 6 p.m.
 DTEND:20251209T230000Z
 DTSTART:20251209T200000Z
 SUMMARY:Owning your Success with Dr. Gina Cody
-UID:0bce6351-4ae3-4e82-a859-5526f9f8d173@0bce.org
+UID:61138fac-e60f-4432-bcde-1c0c61708719@6113.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/09/the-iron-ring.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nDecember 4\, 2025\, 3 p.m. - 5:30 p.m.
+DTEND:20251204T223000Z
+DTSTART:20251204T200000Z
+SUMMARY:WIE x IISE x Homeroom Iron Ring Podcast
+UID:7da59b56-03f5-442f-9307-1d3e67cc8bf8@7da5.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/04/the-iron-ring.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Conversations Across PhD Paths\n\nDecember 5\, 2025\, 2 p.m. - 5 p.m.
+DTEND:20251205T220000Z
+DTSTART:20251205T190000Z
+SUMMARY:Research Creation at Concordia
+UID:0fa2a8e9-b34a-4cce-b1a1-9a321989b2b3@0fa2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/05/research-creation-at-concordia.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260210T220000Z
 DTSTART:20260210T200000Z
 SUMMARY:Civil Discourse on Campus
-UID:39382d6f-6687-455f-a05a-277e2896e207@3938.org
+UID:3d076440-dfa4-42a2-a15a-94d114776537@3d07.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +78,7 @@ DESCRIPTION:Pop-Up Expo and Roundtables | Critical Materiality Mediation Series 
 DTEND:20251203T220000Z
 DTSTART:20251203T180000Z
 SUMMARY:Symbiotic Futures
-UID:b4d3ccaf-30b8-4e2f-86e8-3b4e80d58ce1@b4d3.org
+UID:e5f9de40-4a62-4f3b-a160-58ab25cf12df@e5f9.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/03/symbiotic-futures.html
 END:VEVENT
 BEGIN:VEVENT
@@ -54,39 +86,7 @@ DESCRIPTION:\nDecember 12\, 2025\, 10:30 a.m. - 5:30 p.m.
 DTEND:20251212T223000Z
 DTSTART:20251212T153000Z
 SUMMARY:Arts for Laughs
-UID:a04e8bd8-e105-422b-a2cd-e8a1fac0c9c6@a04e.org
+UID:2a45f60e-818b-45ae-8ffb-90ba401f7b9d@2a45.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/12/arts-for-laughs.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260331T210000Z
-DTSTART:20260331T190000Z
-SUMMARY:A Crisis of Empathy?
-UID:ebf077e1-c2fa-4e01-9596-93f4f05ddabc@ebf0.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Conversations Across PhD Paths\n\nDecember 5\, 2025\, 2 p.m. - 5 p.m.
-DTEND:20251205T220000Z
-DTSTART:20251205T190000Z
-SUMMARY:Research Creation at Concordia
-UID:073c7c12-80f3-4ecb-b529-37f6e358bb1d@073c.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/05/research-creation-at-concordia.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:L’art du podcast sur l’art\n\nDecember 4\, 2025\, 12 p.m. - 2 p.m.
-DTEND:20251204T190000Z
-DTSTART:20251204T170000Z
-SUMMARY:[Annexes] 7
-UID:f9264849-b515-4501-8c31-5209c79d456f@f926.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/04/annexes-launch.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nDecember 11\, 2025\, 12:30 p.m. - 5 p.m.
-DTEND:20251211T220000Z
-DTSTART:20251211T173000Z
-SUMMARY:Wild Kin: A Queer Ecologies Symposium
-UID:20ce7e8e-e591-497c-b501-617921afd74f@20ce.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/11/wild-kin.html
 END:VEVENT
 END:VCALENDAR
