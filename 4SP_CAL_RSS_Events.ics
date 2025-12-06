@@ -2,35 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Owning your success\n\nDecember 9\, 2025\, 3 p.m. - 6 p.m.
-DTEND:20251209T230000Z
-DTSTART:20251209T200000Z
-SUMMARY:The Iron Ring Podcast with Dr. Gina Cody
-UID:e8b1fc5e-1788-457e-af40-56f765ba763e@e8b1.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/09/the-iron-ring.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nDecember 12\, 2025\, 10:30 a.m. - 5:30 p.m.
 DTEND:20251212T223000Z
 DTSTART:20251212T153000Z
 SUMMARY:Arts for Laughs
-UID:1d5f55dd-41c7-4a75-b80b-420ec05e443e@1d5f.org
+UID:d4ddbd88-6cf7-41c4-bcc9-606b3b192157@d4dd.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/12/arts-for-laughs.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260331T210000Z
-DTSTART:20260331T190000Z
-SUMMARY:A Crisis of Empathy?
-UID:dd6c1478-a517-438d-80c1-300ce5e6aae1@dd6c.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
 DTEND:20260209T203000Z
 DTSTART:20260209T190000Z
 SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
-UID:5f902e45-2ab1-4936-be4a-2c2fcdf0688c@5f90.org
+UID:ef6c1e86-eeba-4640-b6ff-b41781a3772a@ef6c.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
 END:VEVENT
 BEGIN:VEVENT
@@ -38,15 +22,31 @@ DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\,
 DTEND:20260210T220000Z
 DTSTART:20260210T200000Z
 SUMMARY:Civil Discourse on Campus
-UID:04a998cf-03f2-4294-bbcf-9defb98e54b4@04a9.org
+UID:a1930414-561d-4731-81d1-162cf0b4c3c2@a193.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260331T210000Z
+DTSTART:20260331T190000Z
+SUMMARY:A Crisis of Empathy?
+UID:e7184e09-ad24-4812-9373-6a65850b851d@e718.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Owning your success\n\nDecember 9\, 2025\, 3 p.m. - 6 p.m.
+DTEND:20251209T230000Z
+DTSTART:20251209T200000Z
+SUMMARY:The Iron Ring Podcast with Dr. Gina Cody
+UID:ec3cc83f-9292-4e1f-8cb2-b4adb813adb4@ec3c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/09/the-iron-ring.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nDecember 11\, 2025\, 12:30 p.m. - 5 p.m.
 DTEND:20251211T220000Z
 DTSTART:20251211T173000Z
 SUMMARY:Wild Kin: A Queer Ecologies Symposium
-UID:844456f5-1404-4b51-b9cd-ac1fcb0be344@8444.org
+UID:545f7a26-cf09-4614-8f43-40407b6c93aa@545f.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/11/wild-kin.html
 END:VEVENT
 END:VCALENDAR
