@@ -2,11 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Ecosystem of Indigenous Youth Leadership Gathering Day 2\n\nDecember 17\, 2025\, 11 a.m. - 5 p.m.
+DTEND:20251217T220000Z
+DTSTART:20251217T160000Z
+SUMMARY:Rassemblement de l’écosystème du leadership jeunesse autochtone
+UID:fafbb1c7-122a-4b28-b60d-7c219693aa8a@fafb.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/17/leadership-jeunesse-autochtone.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Book Launch and Discussion: Diffracting the North\n\nJanuary 14\, 2026\, 4 p.m. - 5:30 p.m.
+DTEND:20260114T223000Z
+DTSTART:20260114T210000Z
+SUMMARY:Latinx Canadian Art and Media
+UID:57678366-b6b8-4ce3-bcbc-0dfc3e702a97@5767.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/14/Latinx-canadian-art-media.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Reclaiming Intersex Narratives and Challenging Endosexism\n\nJanuary 15\, 2026\, 12 p.m. - 3 p.m.
+DTEND:20260115T200000Z
+DTSTART:20260115T170000Z
+SUMMARY:Depathologizing and Decolonizing Intersex Lived Experiences in Canada
+UID:7bc9d680-332a-4961-9d8d-5eb55b6d2c64@7bc9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/15/depathologizing-decolonizing-intersex-lived-experience.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJanuary 13\, 2026\, 11 a.m. - 12:30 p.m.
+DTEND:20260113T173000Z
+DTSTART:20260113T160000Z
+SUMMARY:Unveiling Equity: Gaza\, Witnessing\, and the Shifting Compass of Humanity
+UID:dd9cc031-4d9b-40b0-be64-f9b93140e4cd@dd9c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/13/unveiling-equity.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:9f4cb6db-eec2-4a19-b5dc-4e4901b09971@9f4c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ecosystem of Indigenous Youth Leadership Gathering Day 1\n\nDecember 16\, 2025\, 10:30 a.m. - 5 p.m.
+DTEND:20251216T220000Z
+DTSTART:20251216T153000Z
+SUMMARY:Rassemblement de l’écosystème du leadership jeunesse autochtone
+UID:a2811b6e-10ed-4079-8cec-f195b24b81b2@a281.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/16/leadership-jeunesse-autochtone.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
+DTEND:20260209T203000Z
+DTSTART:20260209T190000Z
+SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
+UID:9ae7db00-7d84-4226-ae77-385105b1e49d@9ae7.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:03bcd40f-d8c6-4fde-a812-dffb822e4488@03bc.org
+UID:e8c788ff-e948-49eb-ab12-243c31bf7da7@e8c7.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
@@ -14,71 +70,15 @@ DESCRIPTION:\nDecember 11\, 2025\, 12:30 p.m. - 5 p.m.
 DTEND:20251211T220000Z
 DTSTART:20251211T173000Z
 SUMMARY:Wild Kin: A Queer Ecologies Symposium
-UID:45f91cbd-6d02-4ed9-b840-4517d279ff0d@45f9.org
+UID:bd4cfaf5-adbc-43eb-97b8-6271bbaaf6ee@bd4c.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/11/wild-kin.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:b17e30e3-8f89-4513-87f1-086d9582ee7f@b17e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nDecember 12\, 2025\, 10:30 a.m. - 5:30 p.m.
 DTEND:20251212T223000Z
 DTSTART:20251212T153000Z
 SUMMARY:Arts for Laughs
-UID:bd3c4061-2204-44ef-b486-fcdd8a6c3f0b@bd3c.org
+UID:813c27b7-05f9-4da4-9db1-6fd0373afcf9@813c.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/12/arts-for-laughs.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ecosystem of Indigenous Youth Leadership Gathering Day 2\n\nDecember 17\, 2025\, 11 a.m. - 5 p.m.
-DTEND:20251217T220000Z
-DTSTART:20251217T160000Z
-SUMMARY:Rassemblement de l’écosystème du leadership jeunesse autochtone
-UID:67c0102d-f928-4b01-9e8d-b78648bc6fba@67c0.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/17/leadership-jeunesse-autochtone.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Reclaiming Intersex Narratives and Challenging Endosexism\n\nJanuary 15\, 2026\, 12 p.m. - 3 p.m.
-DTEND:20260115T200000Z
-DTSTART:20260115T170000Z
-SUMMARY:Depathologizing and Decolonizing Intersex Lived Experiences in Canada
-UID:c46514bb-ee1a-4ed2-8582-fc8bcd4af0f0@c465.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/15/depathologizing-decolonizing-intersex-lived-experience.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
-DTEND:20260209T203000Z
-DTSTART:20260209T190000Z
-SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
-UID:686a07f1-8974-42cd-b9c4-eb9973d03250@686a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ecosystem of Indigenous Youth Leadership Gathering Day 1\n\nDecember 16\, 2025\, 10:30 a.m. - 5 p.m.
-DTEND:20251216T220000Z
-DTSTART:20251216T153000Z
-SUMMARY:Rassemblement de l’écosystème du leadership jeunesse autochtone
-UID:b1168fb2-f790-4989-977f-d486f2e0d548@b116.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/16/leadership-jeunesse-autochtone.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Book Launch and Discussion: Diffracting the North\n\nJanuary 14\, 2026\, 4 p.m. - 5:30 p.m.
-DTEND:20260114T223000Z
-DTSTART:20260114T210000Z
-SUMMARY:Latinx Canadian Art and Media
-UID:6ef753ab-ae2b-4aba-abe1-d364066986db@6ef7.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/14/Latinx-canadian-art-media.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJanuary 13\, 2026\, 11 a.m. - 12:30 p.m.
-DTEND:20260113T173000Z
-DTSTART:20260113T160000Z
-SUMMARY:Unveiling Equity: Gaza\, Witnessing\, and the Shifting Compass of Humanity
-UID:7cb531fa-0e9a-4a94-ac34-b845bdb2d7c2@7cb5.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/13/unveiling-equity.html
 END:VEVENT
 END:VCALENDAR
