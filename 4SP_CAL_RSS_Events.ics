@@ -2,43 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
+DTEND:20260209T203000Z
+DTSTART:20260209T190000Z
+SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
+UID:3c66194b-2623-42a6-9cb8-c235debec2cf@3c66.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Latinx Canadian Art and Media: A Book Launch and Discussion\n\nJanuary 14\, 2026\, 4 p.m. - 5:30 p.m.
 DTEND:20260114T223000Z
 DTSTART:20260114T210000Z
 SUMMARY:Diffracting the North
-UID:6dfc8ed5-7312-4e33-beff-4b085466cf5d@6dfc.org
+UID:f5bff518-884d-4f11-96a9-291e013ffc12@f5bf.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/14/Latinx-canadian-art-media.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:What New Students Really Need to Know\n\nFebruary 21\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20260221T170000Z
-DTSTART:20260221T160000Z
-SUMMARY:Inside Graduate Life
-UID:84c94532-9e1c-45df-af67-0ea83a6d882b@84c9.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/inside-grad-life.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Blood flow restriction training to support strength\, flexibility\, and balance in older adults\n\nJanuary 16\, 2026\, 11 a.m. - 2 p.m.
-DTEND:20260116T190000Z
-DTSTART:20260116T160000Z
-SUMMARY:Exercise Made Easier
-UID:1853c912-ea79-4c58-9288-614e64af75fe@1853.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/16/exercise-made-easier.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:03656423-9dfd-4732-9b5c-b201ba8f6d43@0365.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Gaza\, Witnessing\, and the Shifting Compass of Humanity\n\nJanuary 13\, 2026\, 11 a.m. - 12:30 p.m.
 DTEND:20260113T173000Z
 DTSTART:20260113T160000Z
 SUMMARY:Unveiling Equity
-UID:5664386b-83e7-4bd8-891f-877fcbd249ee@5664.org
+UID:7593b3aa-bd33-463c-b129-6b7a4bc36c31@7593.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/13/unveiling-equity.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +30,7 @@ DESCRIPTION:Reclaiming Intersex Narratives and Challenging Endosexism\n\nJanuary
 DTEND:20260115T200000Z
 DTSTART:20260115T170000Z
 SUMMARY:Depathologizing and Decolonizing Intersex Lived Experiences in Canada
-UID:a54b2581-c5d8-44c9-b836-93e9efc1cd4f@a54b.org
+UID:82d6073d-01f3-415c-bd99-393479224a89@82d6.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/15/depathologizing-decolonizing-intersex-lived-experience.html
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +38,7 @@ DESCRIPTION:Ecosystem of Indigenous Youth Leadership Gathering Day 2\n\nDecember
 DTEND:20251217T220000Z
 DTSTART:20251217T154500Z
 SUMMARY:Rassemblement de l’écosystème du leadership jeunesse autochtone
-UID:6cb383da-96a9-46f8-98e9-0f0e5db78c7d@6cb3.org
+UID:2a9a2781-f3e0-4bd8-ae92-a72358558c6b@2a9a.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/17/leadership-jeunesse-autochtone.html
 END:VEVENT
 BEGIN:VEVENT
@@ -62,23 +46,39 @@ DESCRIPTION:Ecosystem of Indigenous Youth Leadership Gathering Day 1\n\nDecember
 DTEND:20251216T220000Z
 DTSTART:20251216T160000Z
 SUMMARY:Rassemblement de l’écosystème du leadership jeunesse autochtone
-UID:d9cb0795-5a28-4290-ba8b-32f16b5da923@d9cb.org
+UID:44021fbc-f8a7-48e4-8102-6bec7e510d47@4402.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2025/12/16/leadership-jeunesse-autochtone.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
-DTEND:20260209T203000Z
-DTSTART:20260209T190000Z
-SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
-UID:33f6b63d-fb3f-453e-a4d5-50c7425c1ef4@33f6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
+DESCRIPTION:Blood flow restriction training to support strength\, flexibility\, and balance in older adults\n\nJanuary 16\, 2026\, 11 a.m. - 2 p.m.
+DTEND:20260116T190000Z
+DTSTART:20260116T160000Z
+SUMMARY:Exercise Made Easier
+UID:9ac37389-492f-4aa4-99ce-b82045ace74e@9ac3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/16/exercise-made-easier.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:1b1082c1-5e44-47e4-aa71-b67f5802194c@1b10.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:What New Students Really Need to Know\n\nFebruary 21\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20260221T170000Z
+DTSTART:20260221T160000Z
+SUMMARY:Inside Graduate Life
+UID:186e06cb-504b-42d2-a736-aee5dc072b4f@186e.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/inside-grad-life.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:ba62c508-1d9e-4ab3-9197-d628223dc2ff@ba62.org
+UID:349ddab0-eb72-43ba-8409-7e0402be3834@349d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 END:VCALENDAR
