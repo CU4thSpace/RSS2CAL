@@ -2,27 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Beginners Workshop with Hexploit Alliance\n\nJanuary 20\, 2026\, 2 p.m. - 4 p.m.
+DTEND:20260120T210000Z
+DTSTART:20260120T190000Z
+SUMMARY:How to Hack!
+UID:4c5c5337-5b4f-41a2-9a26-6bc3d875bc74@4c5c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/20/how-to-hack.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\nJanuary 29\, 2026 - January 30\, 2026\, 10 a.m. - 5 p.m.
 DTEND:20260130T220000Z
 DTSTART:20260130T150000Z
 SUMMARY:2026 IFRC Research Symposium
-UID:7d8441f7-b563-41ea-a3fc-94fba6081ba8@7d84.org
+UID:72745561-7279-4aaf-a9fd-9810cbd28a31@7274.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/29/ifrc-research-symposium.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:571db282-87f3-44dc-93e1-1a58f0307015@571d.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
+DTEND:20260209T203000Z
+DTSTART:20260209T190000Z
+SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
+UID:d3d093a7-6c7d-4069-8432-25df0addf628@d3d0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Gaza\, Witnessing\, and the Shifting Compass of Humanity\n\nJanuary 13\, 2026\, 11 a.m. - 12:30 p.m.
 DTEND:20260113T173000Z
 DTSTART:20260113T160000Z
 SUMMARY:Unveiling Equity
-UID:64734ea0-adb6-4749-935d-ed2808c7e3d3@6473.org
+UID:1439294d-0850-49aa-88de-65c8d632fe69@1439.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/13/unveiling-equity.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,47 +38,47 @@ DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:e2841a2b-7695-4d6b-a61e-4a230d44bcbc@e284.org
+UID:081233f0-3750-495c-8087-25cebc3587dc@0812.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
-DTEND:20260209T203000Z
-DTSTART:20260209T190000Z
-SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
-UID:33053e09-4346-4ca9-a8cd-945da18390e1@3305.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Beginners Workshop with Hexploit Alliance\n\nJanuary 20\, 2026\, 2 p.m. - 4 p.m.
-DTEND:20260120T210000Z
-DTSTART:20260120T190000Z
-SUMMARY:How to Hack!
-UID:46127d63-a3a1-46da-bfaa-2bd78ab22ac8@4612.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/20/how-to-hack.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJanuary 9\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260109T183000Z
 DTSTART:20260109T180000Z
 SUMMARY:A Closer L👀k: Speculative Life Cluster
-UID:ecda405c-967e-43cd-aec6-c12ec352692b@ecda.org
+UID:409498a8-0bc8-4eeb-9599-dc0d98a88a49@4094.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/09/closer-spec.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Latinx Canadian Art and Media: A Book Launch and Discussion\n\nJanuary 14\, 2026\, 4 p.m. - 5:30 p.m.
+DTEND:20260114T223000Z
+DTSTART:20260114T210000Z
+SUMMARY:Diffracting the North
+UID:1af0daaf-1a32-4410-bb6a-66ecfa96fb9d@1af0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/14/Latinx-canadian-art-media.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Reclaiming Intersex Narratives and Challenging Endosexism\n\nJanuary 15\, 2026\, 12 p.m. - 3 p.m.
 DTEND:20260115T200000Z
 DTSTART:20260115T170000Z
 SUMMARY:Depathologizing and Decolonizing Intersex Lived Experiences in Canada
-UID:9dd68c58-9cae-44d9-8dcc-ceddaabdf95c@9dd6.org
+UID:cb94b5df-991c-419c-9c2e-5c850b7e726c@cb94.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/15/depathologizing-decolonizing-intersex-lived-experience.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:756b12d1-9291-4102-a139-105fd04598f8@756b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:What New Students Really Need to Know\n\nFebruary 21\, 2026\, 11 a.m. - 12 p.m.
 DTEND:20260221T170000Z
 DTSTART:20260221T160000Z
 SUMMARY:Inside Graduate Life
-UID:cb290b53-4e84-4945-907b-54e4ad3ac07f@cb29.org
+UID:91719fcc-a7d1-4a11-bb38-603768855db6@9171.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/inside-grad-life.html
 END:VEVENT
 BEGIN:VEVENT
@@ -78,15 +86,7 @@ DESCRIPTION:Blood flow restriction training to support strength\, flexibility\, 
 DTEND:20260116T190000Z
 DTSTART:20260116T160000Z
 SUMMARY:Exercise Made Easier
-UID:9aad2bb4-932b-4a77-86e2-82b6dfc3a1d2@9aad.org
+UID:25dd592e-201c-423a-96a0-2dd519b74202@25dd.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/16/exercise-made-easier.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Latinx Canadian Art and Media: A Book Launch and Discussion\n\nJanuary 14\, 2026\, 4 p.m. - 5:30 p.m.
-DTEND:20260114T223000Z
-DTSTART:20260114T210000Z
-SUMMARY:Diffracting the North
-UID:4540b681-8895-4e5b-9a3b-065a3294e5b4@4540.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/14/Latinx-canadian-art-media.html
 END:VEVENT
 END:VCALENDAR
