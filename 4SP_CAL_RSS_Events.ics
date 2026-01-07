@@ -2,43 +2,83 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
-DTEND:20260209T203000Z
-DTSTART:20260209T190000Z
-SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
-UID:5159f422-24ad-4df2-b86d-61b70f4eff9c@5159.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
+DESCRIPTION:\nJanuary 9\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260109T183000Z
+DTSTART:20260109T180000Z
+SUMMARY:A Closer L👀k: Speculative Life Cluster
+UID:73ba72d0-2437-4c70-9c13-33b3acf991c4@73ba.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/09/closer-spec.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Latinx Canadian Art and Media: A Book Launch and Discussion\n\nJanuary 14\, 2026\, 4 p.m. - 5:30 p.m.
 DTEND:20260114T223000Z
 DTSTART:20260114T210000Z
 SUMMARY:Diffracting the North
-UID:60a873fa-dd07-40d3-b640-2cc000e03862@60a8.org
+UID:07beb0ba-03b8-446a-b4a2-7f2b2edf86e7@07be.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/14/Latinx-canadian-art-media.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Diffracting the North | This House is (Not) a Prison\n\nJanuary 7\, 2026\, 1 p.m. - 2:30 p.m.
+DTEND:20260107T193000Z
+DTSTART:20260107T180000Z
+SUMMARY:Unboxing with Concordia University Press
+UID:03e65614-e26c-4470-a45f-f22d4f9e478d@03e6.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/07/cu-press-unboxing.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:3c4b1625-3866-4d1d-9a83-632242faf16a@3c4b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:What New Students Really Need to Know\n\nFebruary 21\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20260221T170000Z
+DTSTART:20260221T160000Z
+SUMMARY:Inside Graduate Life
+UID:e9e4820c-c485-4e66-bb7f-2754d451714f@e9e4.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/inside-grad-life.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJanuary 23\, 2026\, 2 p.m. - 5 p.m.
+DTEND:20260123T220000Z
+DTSTART:20260123T190000Z
+SUMMARY:Concordia Global Affairs: From Campus to Careers
+UID:b175ff94-3602-4624-98da-2c24d237274a@b175.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/23/concordia-global-affairs.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260331T210000Z
+DTSTART:20260331T190000Z
+SUMMARY:A Crisis of Empathy?
+UID:b2908f63-f03b-422d-b5c5-ee985b7129e0@b290.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJanuary 29\, 2026 - January 30\, 2026\, 10 a.m. - 5 p.m.
 DTEND:20260130T220000Z
 DTSTART:20260130T150000Z
 SUMMARY:2026 IFRC Research Symposium
-UID:28adce2b-6fbd-49e7-ad06-d223e13e198b@28ad.org
+UID:f3b5b165-78e5-4d5c-9e04-581b1df36e2f@f3b5.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/29/ifrc-research-symposium.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Reclaiming Intersex Narratives and Challenging Endosexism\n\nJanuary 15\, 2026\, 12 p.m. - 3 p.m.
-DTEND:20260115T200000Z
-DTSTART:20260115T170000Z
-SUMMARY:Depathologizing and Decolonizing Intersex Lived Experiences in Canada
-UID:59651fa6-74ac-43b2-82db-408b77b4e75a@5965.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/15/depathologizing-decolonizing-intersex-lived-experience.html
+DESCRIPTION:Beginners Workshop with Hexploit Alliance\n\nJanuary 20\, 2026\, 2 p.m. - 4 p.m.
+DTEND:20260120T210000Z
+DTSTART:20260120T190000Z
+SUMMARY:How to Hack!
+UID:94474b8c-2ea7-4bb6-8276-53ddbba92019@9447.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/20/how-to-hack.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Gaza\, Witnessing\, and the Shifting Compass of Humanity\n\nJanuary 13\, 2026\, 11 a.m. - 12:30 p.m.
 DTEND:20260113T173000Z
 DTSTART:20260113T160000Z
 SUMMARY:Unveiling Equity
-UID:0b3b556b-ae8f-4aec-acfa-d4176c44c070@0b3b.org
+UID:5c90d85d-553f-49dd-9cab-5766726f9d97@5c90.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/13/unveiling-equity.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,63 +86,23 @@ DESCRIPTION:Blood flow restriction training to support strength\, flexibility\, 
 DTEND:20260116T190000Z
 DTSTART:20260116T160000Z
 SUMMARY:Exercise Made Easier
-UID:922c0fc2-8c25-4d60-a900-80123d01eac0@922c.org
+UID:eb131208-aad8-468a-9dde-2e3f48184f67@eb13.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/16/exercise-made-easier.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:918463c1-237a-4d7d-b4fa-7db1ddd3511a@9184.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+DESCRIPTION:Reclaiming Intersex Narratives and Challenging Endosexism\n\nJanuary 15\, 2026\, 12 p.m. - 3 p.m.
+DTEND:20260115T200000Z
+DTSTART:20260115T170000Z
+SUMMARY:Depathologizing and Decolonizing Intersex Lived Experiences in Canada
+UID:586983ce-e799-4ec6-a359-ae56b9dc7199@5869.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/15/depathologizing-decolonizing-intersex-lived-experience.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nJanuary 9\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260109T183000Z
-DTSTART:20260109T180000Z
-SUMMARY:A Closer L👀k: Speculative Life Cluster
-UID:bb7cf08a-34e8-4349-afc0-129b9f7dbb63@bb7c.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/09/closer-spec.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Diffracting the North | This House is (Not) a Prison\n\nJanuary 7\, 2026\, 1 p.m. - 2:30 p.m.
-DTEND:20260107T193000Z
-DTSTART:20260107T180000Z
-SUMMARY:Unboxing with Concordia University Press
-UID:7a4dafca-f3a3-438a-9ee7-8390c16b24ac@7a4d.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/07/cu-press-unboxing.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:What New Students Really Need to Know\n\nFebruary 21\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20260221T170000Z
-DTSTART:20260221T160000Z
-SUMMARY:Inside Graduate Life
-UID:c985c7e5-e999-4405-a8f9-1b17f13cf714@c985.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/inside-grad-life.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260331T210000Z
-DTSTART:20260331T190000Z
-SUMMARY:A Crisis of Empathy?
-UID:4062b411-4443-420c-a150-ffa9cc209894@4062.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Beginners Workshop with Hexploit Alliance\n\nJanuary 20\, 2026\, 2 p.m. - 4 p.m.
-DTEND:20260120T210000Z
-DTSTART:20260120T190000Z
-SUMMARY:How to Hack!
-UID:cd750322-a7fa-4040-b3b0-dd06ae3d9706@cd75.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/20/how-to-hack.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJanuary 23\, 2026\, 2 p.m. - 5 p.m.
-DTEND:20260123T220000Z
-DTSTART:20260123T190000Z
-SUMMARY:Concordia Global Affairs: From Campus to Careers
-UID:4c0902d2-2749-4bfd-b386-0cda5091a21d@4c09.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/23/concordia-global-affairs.html
+DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
+DTEND:20260209T203000Z
+DTSTART:20260209T190000Z
+SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
+UID:28995ec8-18f4-40ad-8efe-bd01fe3b21f4@2899.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
 END:VEVENT
 END:VCALENDAR
