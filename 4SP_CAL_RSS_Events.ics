@@ -2,115 +2,91 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:What New Students Really Need to Know\n\nFebruary 21\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20260221T170000Z
-DTSTART:20260221T160000Z
-SUMMARY:Inside Graduate Life
-UID:1d683f44-04e6-42ff-8434-0adfb5409d2d@1d68.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/inside-grad-life.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Beginners Workshop with Hexploit Alliance\n\nJanuary 20\, 2026\, 2 p.m. - 4 p.m.
-DTEND:20260120T210000Z
-DTSTART:20260120T190000Z
-SUMMARY:How to Hack!
-UID:0c5a9c64-c090-4171-8a0f-993082ddaf50@0c5a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/20/how-to-hack.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Material | Making | Meditate\n\nJanuary 27\, 2026\, 10 a.m. - 5 p.m.
-DTEND:20260127T220000Z
-DTSTART:20260127T150000Z
-SUMMARY:Crafting Commons
-UID:41c2d152-b54f-4f23-a045-46213962d72c@41c2.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/27/crafting-commons.html
+DESCRIPTION:Ateliers techno en traduction 2026\n\nFebruary 5\, 2026\, 12 p.m. - 1 p.m.
+DTEND:20260205T180000Z
+DTSTART:20260205T170000Z
+SUMMARY:Computer Assisted Translation: memoQ
+UID:3663c01b-f9df-4e21-a273-47f2d9293317@3663.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/05/ateliers-techno-memoq.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:63e0bb64-bd1e-4566-a646-09c94504295e@63e0.org
+UID:ec44ed3f-e476-4b18-bf26-f694aaaf513e@ec44.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ateliers techno en traduction 2026\n\nJanuary 28\, 2026\, 12 p.m. - 1 p.m.
-DTEND:20260128T180000Z
-DTSTART:20260128T170000Z
-SUMMARY:Web based translation: Wordscope
-UID:1c30bd7d-19dc-49bf-9eec-6f7ef3ae7b7b@1c30.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/28/ateliers-techno-wordscope.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJanuary 29\, 2026 - January 30\, 2026\, 10 a.m. - 5 p.m.
-DTEND:20260130T220000Z
-DTSTART:20260130T150000Z
-SUMMARY:2026 IFRC Research Symposium
-UID:30d99400-6dc4-445b-b59a-e3e154af3a10@30d9.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/29/ifrc-research-symposium.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Reclaiming Intersex Narratives and Challenging Endosexism\n\nJanuary 15\, 2026\, 12 p.m. - 3 p.m.
-DTEND:20260115T200000Z
-DTSTART:20260115T170000Z
-SUMMARY:Depathologizing and Decolonizing Intersex Lived Experiences in Canada
-UID:98d62b03-0d10-4185-814c-b7e72ffbd95c@98d6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/15/depathologizing-decolonizing-intersex-lived-experience.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Blood flow restriction training to support strength\, flexibility\, and balance in older adults\n\nJanuary 16\, 2026\, 11 a.m. - 2 p.m.
-DTEND:20260116T190000Z
-DTSTART:20260116T160000Z
-SUMMARY:Exercise Made Easier
-UID:d94e5ea6-98fb-43f3-995d-bee135601491@d94e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/16/exercise-made-easier.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Community Event\n\nJanuary 21\, 2026\, 10:30 a.m. - 12:30 p.m.
-DTEND:20260121T173000Z
-DTSTART:20260121T153000Z
-SUMMARY:Sustainability Action Plan 2026-30
-UID:fc8f38ad-7029-48ac-8d33-d1b7f24356d7@fc8f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/21/sustainability-action-plan.html
+DESCRIPTION:Beginners Workshop with Hexploit Alliance\n\nJanuary 20\, 2026\, 2 p.m. - 4 p.m.
+DTEND:20260120T210000Z
+DTSTART:20260120T190000Z
+SUMMARY:How to Hack!
+UID:2dbef3fa-60a6-4e0f-bc3c-e207e7c4e8d4@2dbe.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/20/how-to-hack.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJanuary 23\, 2026\, 10 a.m. - 11 a.m.
 DTEND:20260123T160000Z
 DTSTART:20260123T150000Z
 SUMMARY:The Iron Ring Podcast with Rasha Moustpha
-UID:2238b592-22f7-410b-8d67-5d9a07750189@2238.org
+UID:59067407-e903-479e-b300-7ba4c1618a86@5906.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/23/the-iron-ring.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nJanuary 23\, 2026\, 2 p.m. - 5 p.m.
-DTEND:20260123T220000Z
-DTSTART:20260123T190000Z
-SUMMARY:Concordia Global Affairs: From Campus to Careers
-UID:bdeac38c-b465-468a-8363-64f27cacb86c@bdea.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/23/concordia-global-affairs.html
+DESCRIPTION:What New Students Really Need to Know\n\nFebruary 21\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20260221T170000Z
+DTSTART:20260221T160000Z
+SUMMARY:Inside Graduate Life
+UID:d37c3b81-c531-4871-bc0e-605adb26375c@d37c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/inside-grad-life.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ateliers techno en traduction 2026\n\nFebruary 5\, 2026\, 12 p.m. - 1 p.m.
-DTEND:20260205T180000Z
-DTSTART:20260205T170000Z
-SUMMARY:Computer Assisted Translation: memoQ
-UID:e1d2d675-08e3-4c4a-9605-3d356398080c@e1d2.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/05/ateliers-techno-memoq.html
+DESCRIPTION:Blood flow restriction training to support strength\, flexibility\, and balance in older adults\n\nJanuary 16\, 2026\, 11 a.m. - 2 p.m.
+DTEND:20260116T190000Z
+DTSTART:20260116T160000Z
+SUMMARY:Exercise Made Easier
+UID:17f875a5-c9a0-4319-8754-b242548db1f1@17f8.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/16/exercise-made-easier.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nJanuary 22\, 2026\, 11 a.m. - 3 p.m.
-DTEND:20260122T200000Z
-DTSTART:20260122T160000Z
-SUMMARY:Talking Shop: Innovating in the Age of AI
-UID:671f8704-0d65-4670-b384-4ce373c5de5a@671f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/22/talking-shop.html
+DESCRIPTION:Material | Making | Meditate\n\nJanuary 27\, 2026\, 10 a.m. - 5 p.m.
+DTEND:20260127T220000Z
+DTSTART:20260127T150000Z
+SUMMARY:Crafting Commons
+UID:5ff29a21-9561-47a3-99f4-52101594ae97@5ff2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/27/crafting-commons.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ateliers techno en traduction 2026\n\nJanuary 28\, 2026\, 12 p.m. - 1 p.m.
+DTEND:20260128T180000Z
+DTSTART:20260128T170000Z
+SUMMARY:Web based translation: Wordscope
+UID:e97bbb75-9d6d-4347-8cba-9478bba98b17@e97b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/28/ateliers-techno-wordscope.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Community Event\n\nJanuary 21\, 2026\, 10:30 a.m. - 12:30 p.m.
+DTEND:20260121T173000Z
+DTSTART:20260121T153000Z
+SUMMARY:Sustainability Action Plan 2026-30
+UID:f50d6d1f-f1b7-4f28-af56-233c4b7a974e@f50d.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/21/sustainability-action-plan.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJanuary 29\, 2026 - January 30\, 2026\, 10 a.m. - 5 p.m.
+DTEND:20260130T220000Z
+DTSTART:20260130T150000Z
+SUMMARY:2026 IFRC Research Symposium
+UID:ec0ba0c7-c738-4236-8692-046283b2a93a@ec0b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/29/ifrc-research-symposium.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260210T220000Z
 DTSTART:20260210T200000Z
 SUMMARY:Civil Discourse on Campus
-UID:010a5214-e9f2-4686-8f1a-7f0717d5cb2b@010a.org
+UID:ae273f22-ab11-4377-9a4d-5ceb2b92f8cf@ae27.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
 END:VEVENT
 BEGIN:VEVENT
@@ -118,7 +94,31 @@ DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
 DTEND:20260209T203000Z
 DTSTART:20260209T190000Z
 SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
-UID:143bba67-d93e-4fe8-a08a-82ae64472219@143b.org
+UID:1c257856-650e-4bfc-8454-b4ef061a1de9@1c25.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJanuary 23\, 2026\, 2 p.m. - 5 p.m.
+DTEND:20260123T220000Z
+DTSTART:20260123T190000Z
+SUMMARY:Concordia Global Affairs: From Campus to Careers
+UID:314ee49a-a5ed-4bff-b28f-b3624d368b84@314e.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/23/concordia-global-affairs.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJanuary 22\, 2026\, 11 a.m. - 3 p.m.
+DTEND:20260122T200000Z
+DTSTART:20260122T160000Z
+SUMMARY:Talking Shop: Innovating in the Age of AI
+UID:b8373663-34d8-4885-9164-230f9fbbfcef@b837.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/22/talking-shop.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Reclaiming Intersex Narratives and Challenging Endosexism\n\nJanuary 15\, 2026\, 12 p.m. - 3 p.m.
+DTEND:20260115T200000Z
+DTSTART:20260115T170000Z
+SUMMARY:Depathologizing and Decolonizing Intersex Lived Experiences in Canada
+UID:d57e7039-4d61-4780-a971-7ba219cdc836@d57e.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/01/15/depathologizing-decolonizing-intersex-lived-experience.html
 END:VEVENT
 END:VCALENDAR
