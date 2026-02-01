@@ -2,35 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ateliers techno en traduction 2026\n\nFebruary 5\, 2026\, 12 p.m. - 1 p.m.
-DTEND:20260205T180000Z
-DTSTART:20260205T170000Z
-SUMMARY:Computer Assisted Translation: memoQ
-UID:1cbcc508-14fa-4187-98dd-8775ddcf0fb6@1cbc.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/05/ateliers-techno-memoq.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260210T220000Z
-DTSTART:20260210T200000Z
-SUMMARY:Civil Discourse on Campus
-UID:acf2109c-4265-46db-a24d-0b92e23c54be@acf2.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sensing Nostalgia Differently with Research and Creation\n\nFebruary 13\, 2026\, 10 a.m. - 6 p.m.
-DTEND:20260213T230000Z
-DTSTART:20260213T150000Z
-SUMMARY:Frames of Reference
-UID:d71d8bac-a270-4d0c-8ad2-54048aa86648@d71d.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/13/frames-of-reference.html
+DESCRIPTION:Demo and Community Panel Discussion\n\nFebruary 20\, 2026\, 1 p.m. - 3 p.m.
+DTEND:20260220T200000Z
+DTSTART:20260220T180000Z
+SUMMARY:Climate Data Needs and Analysis
+UID:b9ce02c5-5188-4a98-9084-0f6f632f5fd0@b9ce.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/20/climate-data-analysis.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Aesthetics and Acts of Resistance\n\nMarch 2\, 2026\, 11 a.m. - 12:30 p.m.
 DTEND:20260302T173000Z
 DTSTART:20260302T160000Z
 SUMMARY:The Stage as a Site of Refusal
-UID:433879a2-09e2-4832-be71-98e02e4fd4b0@4338.org
+UID:5625aa0a-e8a1-4822-a98b-a6b70d5739fd@5625.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/02/stage-site-of-refusal.html
 END:VEVENT
 BEGIN:VEVENT
@@ -38,103 +22,119 @@ DESCRIPTION:Bandergewilden: On the Reading of Practices\n\nFebruary 11\, 2026\, 
 DTEND:20260211T203000Z
 DTSTART:20260211T183000Z
 SUMMARY:Arts Pessimism and the Role of Dance in Times of Crisis #3
-UID:6607c4c6-3b9c-44f4-b180-c2351cfef259@6607.org
+UID:19aa031e-b200-40ec-8703-9da3b0b540b5@19aa.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/11/bandergewilden.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Auditing digital censorship of access to abortion and reproductive rights\n\nFebruary 6\, 2026\, 10 a.m. - 12 p.m.
-DTEND:20260206T170000Z
-DTSTART:20260206T150000Z
-SUMMARY:Pills\, Clicks\, and Bans
-UID:656e302c-01f6-4822-9461-05f79b45274b@656e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/06/pills-clicks-bans.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:What New Students Really Need to Know\n\nFebruary 21\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20260221T170000Z
-DTSTART:20260221T160000Z
-SUMMARY:Inside Graduate Life
-UID:efabdda0-c13a-4339-8547-8af5baa8fc90@efab.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/inside-grad-life.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Talk by Judith A. Nicholson\n\nFebruary 18\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20260218T230000Z
-DTSTART:20260218T210000Z
-SUMMARY:The Green Book Guide in Montreal
-UID:0feabd5b-330d-444b-b9f8-0e1c8be9aa97@0fea.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/18/the-green-book.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker Series - Concordia's Minor in Black and African Diaspora Studies in the Canadian Context \n\nFebruary 3\, 2026\, 2:30 p.m. - 4:30 p.m.
-DTEND:20260203T213000Z
-DTSTART:20260203T193000Z
-SUMMARY:Black Studies @Concordia Session III
-UID:8c3cdac7-bdfb-4a52-89bf-ed512bda39f9@8c3c.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/03/black-studies-at-concordia.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Demo and Community Panel Discussion\n\nFebruary 20\, 2026\, 1 p.m. - 3 p.m.
-DTEND:20260220T200000Z
-DTSTART:20260220T180000Z
-SUMMARY:Climate Data Needs and Analysis
-UID:3f7cd1c7-b1a2-4625-8441-90608e6d8e9f@3f7c.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/20/climate-data-analysis.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Showcase of Courses\, Cases\, and Supports at Concordia\n\nFebruary 19\, 2026\, 1 p.m. - 3 p.m.
-DTEND:20260219T200000Z
-DTSTART:20260219T180000Z
-SUMMARY:Teaching Online in Practice
-UID:8b813733-cbfa-4510-b985-5d35f0fc9837@8b81.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/19/teaching-online-in-practice.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Jeux de la Communication \n\nFebruary 21\, 2026\, 1 p.m. - 3 p.m.
-DTEND:20260221T200000Z
-DTSTART:20260221T180000Z
-SUMMARY:JDLC Information Session
-UID:a89038f9-ffbc-41ab-aa03-4b97167bdafb@a890.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/jeux-de-la-communication.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lessons That Last\n\nFebruary 5\, 2026\, 2:30 p.m. - 4 p.m.
-DTEND:20260205T210000Z
-DTSTART:20260205T193000Z
-SUMMARY:From Remote Teaching to Intentional Online Learning
-UID:f74bc79b-004e-44cd-90cd-29bab295f748@f74b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/05/lessons-that-last.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Poster Session and Workshop\n\nFebruary 27\, 2026\, 10:30 a.m. - 3 p.m.
-DTEND:20260227T200000Z
-DTSTART:20260227T153000Z
-SUMMARY:AI for Health Sciences + Bio Tech
-UID:70409f89-5433-4b34-8264-88bc12dac4be@7040.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/27/ai-poster-session.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260331T210000Z
-DTSTART:20260331T190000Z
-SUMMARY:A Crisis of Empathy?
-UID:29a75af2-5dd0-4ee1-abb6-c15a26e2b744@29a7.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+DESCRIPTION:Ateliers techno en traduction 2026\n\nFebruary 5\, 2026\, 12 p.m. - 1 p.m.
+DTEND:20260205T180000Z
+DTSTART:20260205T170000Z
+SUMMARY:Computer Assisted Translation: memoQ
+UID:dcb1780f-7b29-43ec-a930-bf9cc07122ce@dcb1.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/05/ateliers-techno-memoq.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
 DTEND:20260429T200000Z
 DTSTART:20260429T170000Z
 SUMMARY:From Identified Needs to Practical Use
-UID:ad1ed434-39c1-48fb-9909-ad534f372cca@ad1e.org
+UID:ecb31c9d-8dfd-463e-ace7-8fdf2ac0c107@ecb3.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:What New Students Really Need to Know\n\nFebruary 21\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20260221T170000Z
+DTSTART:20260221T160000Z
+SUMMARY:Inside Graduate Life
+UID:33dab977-db85-40b8-9de8-7c9d54cf410f@33da.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/inside-grad-life.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260331T210000Z
+DTSTART:20260331T190000Z
+SUMMARY:A Crisis of Empathy?
+UID:5086dc3c-c322-4217-8261-989e4f0f8035@5086.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:From Mississippi to Montreal\nFebruary 9\, 2026\, 2 p.m. - 3:30 p.m.
 DTEND:20260209T203000Z
 DTSTART:20260209T190000Z
 SUMMARY:In Conversation with Civil Rights Activist Fred Anderson
-UID:1e1878cb-cf5d-4a59-b352-8d6b20e278a5@1e18.org
+UID:585ed253-98c9-4e1a-bf9a-b0fd808f4a26@585e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/09/from-mississippi-to-montreal.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Jeux de la Communication \n\nFebruary 21\, 2026\, 1 p.m. - 3 p.m.
+DTEND:20260221T200000Z
+DTSTART:20260221T180000Z
+SUMMARY:JDLC Information Session
+UID:03b28f09-fcc4-47d9-b4ab-5e113bea6300@03b2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/jeux-de-la-communication.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Poster Session and Workshop\n\nFebruary 27\, 2026\, 10:30 a.m. - 3 p.m.
+DTEND:20260227T200000Z
+DTSTART:20260227T153000Z
+SUMMARY:AI for Health Sciences + Bio Tech
+UID:21c8ec5d-0f41-42d6-abb1-3ad096b2f6e1@21c8.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/27/ai-poster-session.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Talk by Judith A. Nicholson\n\nFebruary 18\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20260218T230000Z
+DTSTART:20260218T210000Z
+SUMMARY:The Green Book Guide in Montreal
+UID:e647b204-7367-45af-8dc7-c0388206fe24@e647.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/18/the-green-book.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lessons That Last\n\nFebruary 5\, 2026\, 2:30 p.m. - 4 p.m.
+DTEND:20260205T210000Z
+DTSTART:20260205T193000Z
+SUMMARY:From Remote Teaching to Intentional Online Learning
+UID:1a160d41-da0f-404f-a2e2-a259d3c4b448@1a16.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/05/lessons-that-last.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker Series - Concordia's Minor in Black and African Diaspora Studies in the Canadian Context \n\nFebruary 3\, 2026\, 2:30 p.m. - 4:30 p.m.
+DTEND:20260203T213000Z
+DTSTART:20260203T193000Z
+SUMMARY:Black Studies @Concordia Session III
+UID:b6aa40aa-a422-462b-9332-fb9ab45cadbb@b6aa.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/03/black-studies-at-concordia.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Auditing digital censorship of access to abortion and reproductive rights\n\nFebruary 6\, 2026\, 10 a.m. - 12 p.m.
+DTEND:20260206T170000Z
+DTSTART:20260206T150000Z
+SUMMARY:Pills\, Clicks\, and Bans
+UID:fde04e3c-4f49-4634-98f4-eb1bde1d3b49@fde0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/06/pills-clicks-bans.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sensing Nostalgia Differently with Research and Creation\n\nFebruary 13\, 2026\, 10 a.m. - 6 p.m.
+DTEND:20260213T230000Z
+DTSTART:20260213T150000Z
+SUMMARY:Frames of Reference
+UID:96db0eb4-6c39-44ca-b902-6627d7255a68@96db.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/13/frames-of-reference.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Controversies\, Challenges and Opportunities\n\nFebruary 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260210T220000Z
+DTSTART:20260210T200000Z
+SUMMARY:Civil Discourse on Campus
+UID:b470c90f-f200-49de-9ee9-97cc5b9d2f9a@b470.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/10/civil-discourse-on-campus.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Showcase of Courses\, Cases\, and Supports at Concordia\n\nFebruary 19\, 2026\, 1 p.m. - 3 p.m.
+DTEND:20260219T200000Z
+DTSTART:20260219T180000Z
+SUMMARY:Teaching Online in Practice
+UID:f7ba6ead-b1ca-44ad-a16b-6e6050ce327a@f7ba.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/19/teaching-online-in-practice.html
 END:VEVENT
 END:VCALENDAR
