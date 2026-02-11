@@ -2,27 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Poster Session and Workshop\n\nFebruary 27\, 2026\, 10:30 a.m. - 3 p.m.
-DTEND:20260227T200000Z
-DTSTART:20260227T153000Z
-SUMMARY:AI for Health Sciences + Bio Tech
-UID:06279143-703d-44a1-9893-3b536a45a820@0627.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/27/ai-poster-session.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Modern Day Excellence\n\nMarch 3\, 2026\, 2 p.m. - 5 p.m.
 DTEND:20260303T220000Z
 DTSTART:20260303T190000Z
 SUMMARY:Celebrating Black HerStory
-UID:5ba0b9ab-70a9-45f8-bcdb-2d33f2066ac7@5ba0.org
+UID:685d82de-c3c8-4668-a2ee-024713ddba7d@685d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/03/celebrating-black-herstory.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sensing Nostalgia Differently with Research and Creation\n\nFebruary 13\, 2026\, 10 a.m. - 6 p.m.
+DTEND:20260213T230000Z
+DTSTART:20260213T150000Z
+SUMMARY:Frames of Reference
+UID:f50595f7-ff30-4554-9f85-35651968fcdf@f505.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/13/frames-of-reference.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Celebrating Queer & BIPOC DIY Archives\n\nFebruary 26\, 2026\, 2 p.m. - 5:30 p.m.
+DTEND:20260226T223000Z
+DTSTART:20260226T190000Z
+SUMMARY:Owning Our Histories
+UID:13de74b9-890c-4f67-9ab7-991921d353fb@13de.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/26/owning-our-histories.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bandergewilden: On the Reading of Practices\n\nFebruary 11\, 2026\, 1:30 p.m. - 3:30 p.m.
+DTEND:20260211T203000Z
+DTSTART:20260211T183000Z
+SUMMARY:Arts Pessimism and the Role of Dance in Times of Crisis #3
+UID:23afad87-e3a8-40e6-83ea-991090138695@23af.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/11/bandergewilden.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Speaker Series - Concordia's Minor in Black and African Diaspora Studies in the Canadian Context \n\nMarch 13\, 2026\, 2:30 p.m. - 4:30 p.m.
 DTEND:20260313T203000Z
 DTSTART:20260313T183000Z
 SUMMARY:Black Studies @Concordia Session IV
-UID:81003abc-9ae5-48a6-9079-de2336bed7ec@8100.org
+UID:b61ba93e-0d7e-4aa8-aa8f-c147d11a7ea0@b61b.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/13/black-studies-at-concordia.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,15 +46,39 @@ DESCRIPTION:Demo and Community Panel Discussion\n\nFebruary 20\, 2026\, 1 p.m. -
 DTEND:20260220T200000Z
 DTSTART:20260220T180000Z
 SUMMARY:Climate Data Needs and Analysis
-UID:faaec732-f492-4c85-bb00-1025cda8ae98@faae.org
+UID:a9b45094-19cf-41c6-84d5-2ee9b5ffb0b1@a9b4.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/20/climate-data-analysis.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Aesthetics and Acts of Resistance\n\nMarch 2\, 2026\, 11 a.m. - 12:30 p.m.
+DTEND:20260302T173000Z
+DTSTART:20260302T160000Z
+SUMMARY:The Stage as a Site of Refusal
+UID:d2dda6bf-06b2-4b74-8419-f1d004a06b02@d2dd.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/02/stage-site-of-refusal.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Talk by Judith A. Nicholson\n\nFebruary 18\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20260218T230000Z
+DTSTART:20260218T210000Z
+SUMMARY:The Green Book Guide in Montreal
+UID:b2418128-a9e9-4761-a4fc-b070766cc02b@b241.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/18/the-green-book.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nFebruary 17\, 2026\, 11 a.m. - 4 p.m.
+DTEND:20260217T210000Z
+DTSTART:20260217T160000Z
+SUMMARY:Aistethics of Perfume
+UID:8a912608-b88f-4a35-83f9-db7513656c8d@8a91.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/17/aistethics-of-perfume.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The State of 2S/LGBTQ+ Rights in Canada\n\nMarch 5\, 2026\, 1 p.m. - 4:30 p.m.
 DTEND:20260305T213000Z
 DTSTART:20260305T180000Z
 SUMMARY:Pride in a Time of Prejudice
-UID:e746c9b9-dd71-4bbf-9295-f77f5017ed68@e746.org
+UID:bd2f80b7-35d2-4efd-8bd9-006c697c2d62@bd2f.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/05/pride-in-a-time-of-prejudice.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,23 +86,15 @@ DESCRIPTION:What New Students Really Need to Know\n\nFebruary 21\, 2026\, 11 a.m
 DTEND:20260221T170000Z
 DTSTART:20260221T160000Z
 SUMMARY:Inside Graduate Life
-UID:c7d08bea-3658-4fb7-b703-35942c3d338b@c7d0.org
+UID:4880fd1a-177c-433c-b34a-89c5dc4f4866@4880.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/inside-grad-life.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Celebrating Queer & BIPOC DIY Archives\n\nFebruary 26\, 2026\, 2 p.m. - 5:30 p.m.
-DTEND:20260226T223000Z
-DTSTART:20260226T190000Z
-SUMMARY:Owning Our Histories
-UID:92a9b7c4-0552-4e24-baed-22091b69b51f@92a9.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/26/owning-our-histories.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260331T210000Z
 DTSTART:20260331T190000Z
 SUMMARY:A Crisis of Empathy?
-UID:40753379-7316-441c-9920-ba35d1728760@4075.org
+UID:660aac29-8d60-4955-be19-44221d4efce4@660a.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 BEGIN:VEVENT
@@ -70,71 +102,39 @@ DESCRIPTION:Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
 DTEND:20260429T200000Z
 DTSTART:20260429T170000Z
 SUMMARY:From Identified Needs to Practical Use
-UID:5a0d71a5-2118-4a83-8750-bd63316216c4@5a0d.org
+UID:1122a739-0a3f-45fc-a12a-cc0207a0cace@1122.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:See behind the scenes of the JdLC! \n\nFebruary 21\, 2026\, 1 p.m. - 3 p.m.
-DTEND:20260221T200000Z
-DTSTART:20260221T180000Z
-SUMMARY:Jeux de la Communication Sessions
-UID:9426e003-889f-4e5e-b447-adc80620ffa0@9426.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/jeux-de-la-communication.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Bandergewilden: On the Reading of Practices\n\nFebruary 11\, 2026\, 1:30 p.m. - 3:30 p.m.
-DTEND:20260211T203000Z
-DTSTART:20260211T183000Z
-SUMMARY:Arts Pessimism and the Role of Dance in Times of Crisis #3
-UID:9024022b-1690-4003-be5e-7c72c28ff575@9024.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/11/bandergewilden.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Aesthetics and Acts of Resistance\n\nMarch 2\, 2026\, 11 a.m. - 12:30 p.m.
-DTEND:20260302T173000Z
-DTSTART:20260302T160000Z
-SUMMARY:The Stage as a Site of Refusal
-UID:f4581723-1899-444f-9663-8641ab45f357@f458.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/02/stage-site-of-refusal.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nFebruary 17\, 2026\, 11 a.m. - 4 p.m.
-DTEND:20260217T210000Z
-DTSTART:20260217T160000Z
-SUMMARY:Aistethics of Perfume
-UID:8a71e0e7-4cd9-43e7-b657-581629b3c033@8a71.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/17/aistethics-of-perfume.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Showcase of Courses\, Cases\, and Supports at Concordia\n\nFebruary 19\, 2026\, 1 p.m. - 3 p.m.
-DTEND:20260219T200000Z
-DTSTART:20260219T180000Z
-SUMMARY:Teaching Online in Practice
-UID:1e727f58-ba9e-4d60-bf9a-7df41dc79d03@1e72.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/19/teaching-online-in-practice.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Talk by Judith A. Nicholson\n\nFebruary 18\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20260218T230000Z
-DTSTART:20260218T210000Z
-SUMMARY:The Green Book Guide in Montreal
-UID:fdad1987-a9e8-422f-9959-a8296d3dc6d6@fdad.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/18/the-green-book.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sensing Nostalgia Differently with Research and Creation\n\nFebruary 13\, 2026\, 10 a.m. - 6 p.m.
-DTEND:20260213T230000Z
-DTSTART:20260213T150000Z
-SUMMARY:Frames of Reference
-UID:7a4a6941-e512-4f05-8689-f2eab153fabd@7a4a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/13/frames-of-reference.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nFebruary 24\, 2026\, 10 a.m. - 5 p.m.Digital skill-share days event will offer employees engaging opportunities to focus on the sharing of knowledge and digital skills and how this benefits faculty and staff in their daily work activities. \n
 DTEND:20260224T220000Z
 DTSTART:20260224T150000Z
 SUMMARY:Digital Skill-Share Days 2026: Day 1
-UID:2f9c7747-4c18-4934-8f60-9ea4e8f29e82@2f9c.org
+UID:6f7e3069-5085-43bd-959a-c782ab04cae1@6f7e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/24/digital-skill-share.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:See behind the scenes of the JdLC! \n\nFebruary 21\, 2026\, 1 p.m. - 3 p.m.
+DTEND:20260221T200000Z
+DTSTART:20260221T180000Z
+SUMMARY:Jeux de la Communication Sessions
+UID:ee00ccc6-07ce-4c2a-99e9-60145641ed7b@ee00.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/21/jeux-de-la-communication.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Showcase of Courses\, Cases\, and Supports at Concordia\n\nFebruary 19\, 2026\, 1 p.m. - 3 p.m.
+DTEND:20260219T200000Z
+DTSTART:20260219T180000Z
+SUMMARY:Teaching Online in Practice
+UID:1f84b8e4-156f-4256-aee9-02c7e21979e8@1f84.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/19/teaching-online-in-practice.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Poster Session and Workshop\n\nFebruary 27\, 2026\, 10:30 a.m. - 3 p.m.
+DTEND:20260227T200000Z
+DTSTART:20260227T153000Z
+SUMMARY:AI for Health Sciences + Bio Tech
+UID:053fd1fe-30fa-4ae7-8c4f-563ce56773c7@053f.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/02/27/ai-poster-session.html
 END:VEVENT
 END:VCALENDAR
