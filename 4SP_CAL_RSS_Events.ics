@@ -2,59 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Perspectives on Climate Action\n\nMarch 25\, 2026\, 10 a.m. - 4:30 p.m.
-DTEND:20260325T203000Z
-DTSTART:20260325T140000Z
-SUMMARY:Symposium on Indigenous Land-Based Educational Practices
-UID:641b6d97-88b7-4d5f-ac7a-0c53593dc74b@641b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/25/indigenous-land-based-education.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Speaker Series - Concordia's Minor in Black and African Diaspora Studies in the Canadian Context \n\nMarch 13\, 2026\, 2:30 p.m. - 4:30 p.m.
-DTEND:20260313T203000Z
-DTSTART:20260313T183000Z
-SUMMARY:Black Studies @Concordia Session IV
-UID:3b4875bf-aa3e-4826-baf1-498f4f36ab48@3b48.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/13/black-studies-at-concordia.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Visite guidée de la réserve de la Galerie Leonard & Bina Ellen \n\nMarch 12\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260312T173000Z
-DTSTART:20260312T170000Z
-SUMMARY:A Closer Look: Leonard &amp\; Bina Ellen Art Gallery’s vault
-UID:870130a4-dbf2-40f1-acd7-8558c26e1420@8701.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/12/closer-look-gallery.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Michael Murtaugh and Lídia Pereira Malho Rodrigues in conversation with Pippin Barr\n\nMarch 17\, 2026\, 11 a.m. - 12:30 p.m.
 DTEND:20260317T163000Z
 DTSTART:20260317T150000Z
 SUMMARY:WdKA Live from Montreal!
-UID:92e3852f-c9d3-4e4e-8602-ad18e6de6f55@92e3.org
+UID:414d2b27-3783-4db7-8d5b-ed21e2c7c60c@414d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/17/artist-talk.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Artistic Mediations of Listening\n\nMarch 27\, 2026\, 2 p.m. - 4 p.m.
-DTEND:20260327T200000Z
-DTSTART:20260327T180000Z
-SUMMARY:Symposium Channels of Testimony
-UID:62c221d5-f5ec-4c46-ae2b-f64458d6a0e0@62c2.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/27/artistic-mediations-of-listening.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Industry\, Policy and Academic Perspectives\n\nMarch 24\, 2026\, 10:30 a.m. - 12 p.m.
-DTEND:20260324T160000Z
-DTSTART:20260324T143000Z
-SUMMARY:Large-Scale Energy Storage: Demand and Challenges
-UID:4e7a3dc0-79d7-4f42-bcec-06f612b2e2da@4e7a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/24/large-scale-energy-storage.html
+DESCRIPTION:\nMarch 17\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260317T210000Z
+DTSTART:20260317T190000Z
+SUMMARY:Talking Shop: Retail in Motion
+UID:0b25aef5-a5b7-47b0-abe9-e4c38ede83d2@0b25.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/17/retail-in-motion.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nApril 20\, 2026\, 11 a.m. - 1:30 p.m.
 DTEND:20260420T173000Z
 DTSTART:20260420T150000Z
 SUMMARY:Risk and Intervention for Aging Infrastructure
-UID:46fe02c7-d83f-4628-b04d-0e66ec3052a3@46fe.org
+UID:853dd88f-8858-4276-96f9-79ab999ba48d@853d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/20/intervention-strategies-for-aging-infrastructure.html
 END:VEVENT
 BEGIN:VEVENT
@@ -62,87 +30,111 @@ DESCRIPTION:\nMarch 19\, 2026\, 4 p.m. - 6 p.m.
 DTEND:20260319T220000Z
 DTSTART:20260319T200000Z
 SUMMARY:JMSB&apos\;s 17th Annual Graduate Research Exposition
-UID:d19a0b88-f150-4398-bca8-2dd70b279ff8@d19a.org
+UID:7fadc1ab-b5a5-42be-ad7e-1a0ca0b12591@7fad.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/19/annual-graduate-research-exposition.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:March 11\, 2026\, 1 p.m. - 2 p.m.
-DTEND:20260311T180000Z
-DTSTART:20260311T170000Z
-SUMMARY:The state of Montreal&apos\;s urban birds
-UID:7f8d3287-e864-4aa4-9fce-879326ae430c@7f8d.org
-URL:http://www.concordia.ca/content/shared/en/events/artsci/loyola-college/2026/03/11/urban-birds.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260331T210000Z
-DTSTART:20260331T190000Z
-SUMMARY:A Crisis of Empathy?
-UID:dc7e837e-62c6-4748-a476-27714def98a5@dc7e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:3MT\n\nMarch 26\, 2026\, 2 p.m. - 4 p.m.
-DTEND:20260326T200000Z
-DTSTART:20260326T180000Z
-SUMMARY:Concordia Three Minute Thesis Competition
-UID:03251350-c412-4b3f-9056-cf5eac4e9fd0@0325.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/26/concordia-3-minute-thesis-2026.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Free or Low-Cost Alternatives in Higher Education\n\nMarch 18\, 2026\, 3 p.m. - 4:30 p.m.
-DTEND:20260318T203000Z
-DTSTART:20260318T190000Z
-SUMMARY:The Price is Wrong
-UID:0973497a-8a74-4361-a8f5-3f830cae56ec@0973.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/18/price-is-wrong.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
-DTEND:20260429T200000Z
-DTSTART:20260429T170000Z
-SUMMARY:From Identified Needs to Practical Use
-UID:527aee4b-3af9-4971-a3d7-aba933478794@527a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:March 11\, 2026\, 10 a.m. - 11:30 a.m.
 DTEND:20260311T153000Z
 DTSTART:20260311T140000Z
 SUMMARY:Complexity\, care\, and collaboration: Art–science dialogues on systems
-UID:413c427c-ab21-4a6a-8b17-da57a1661f7b@413c.org
+UID:ef2ea8ba-3f6e-40f7-9a21-25129404d27b@ef2e.org
 URL:http://www.concordia.ca/content/shared/en/events/artsci/loyola-college/2026/03/11/Complexity-care-collaboration.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nMarch 17\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260317T210000Z
-DTSTART:20260317T190000Z
-SUMMARY:Talking Shop: Retail in Motion
-UID:5c904ae5-0d16-4df4-9dd5-a4e0bc75d67d@5c90.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/17/retail-in-motion.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:La recherche prend vie\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
-DTEND:20260514T210000Z
-DTSTART:20260514T180000Z
-SUMMARY:Research Comes Alive
-UID:9c9179c5-a11d-4dbd-943e-28da55e32288@9c91.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Concordia members report back after attending COP 30 & UNEP\n\nMarch 16\, 2026\, 4 p.m. - 5 p.m.
-DTEND:20260316T210000Z
-DTSTART:20260316T200000Z
-SUMMARY:Bon COP / Bad COP?
-UID:a40b0974-0a28-4b48-81bd-e3e0fadd643c@a40b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/16/bon-cop-bad-cop.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:March 11\, 2026\, 3 p.m. - 4 p.m.
 DTEND:20260311T200000Z
 DTSTART:20260311T190000Z
 SUMMARY:Remote sensing and Indigenous-led nature-based solutions to address emissions and biodiversity targets
-UID:5fe1b7d3-c3ff-4fe8-a51d-4d16b12cef12@5fe1.org
+UID:b285f26c-dd1f-4552-acbd-4fed37467d25@b285.org
 URL:http://www.concordia.ca/content/shared/en/events/artsci/loyola-college/2026/03/11/Indigenous-led-nature-based-solutions.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Perspectives on Climate Action\n\nMarch 25\, 2026\, 10 a.m. - 4:30 p.m.
+DTEND:20260325T203000Z
+DTSTART:20260325T140000Z
+SUMMARY:Symposium on Indigenous Land-Based Educational Practices
+UID:3a694a91-a833-4887-91f5-7ac4c4a3f8c3@3a69.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/25/indigenous-land-based-education.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Free or Low-Cost Alternatives in Higher Education\n\nMarch 18\, 2026\, 3 p.m. - 4:30 p.m.
+DTEND:20260318T203000Z
+DTSTART:20260318T190000Z
+SUMMARY:The Price is Wrong
+UID:60b55254-b6eb-4f85-be0c-7650b8917e92@60b5.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/18/price-is-wrong.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Industry\, Policy and Academic Perspectives\n\nMarch 24\, 2026\, 10:30 a.m. - 12 p.m.
+DTEND:20260324T160000Z
+DTSTART:20260324T143000Z
+SUMMARY:Large-Scale Energy Storage: Demand and Challenges
+UID:070a91de-e8b8-45a0-b94e-85409b7c3e30@070a.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/24/large-scale-energy-storage.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:La recherche prend vie\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
+DTEND:20260514T210000Z
+DTSTART:20260514T180000Z
+SUMMARY:Research Comes Alive
+UID:b0c939af-0e19-462a-bb4e-dd6732edbe49@b0c9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Artistic Mediations of Listening\n\nMarch 27\, 2026\, 2 p.m. - 4 p.m.
+DTEND:20260327T200000Z
+DTSTART:20260327T180000Z
+SUMMARY:Symposium Channels of Testimony
+UID:8f82b921-4ab9-45ea-af1a-81637b77cd12@8f82.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/27/artistic-mediations-of-listening.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:March 11\, 2026\, 1 p.m. - 2 p.m.
+DTEND:20260311T180000Z
+DTSTART:20260311T170000Z
+SUMMARY:The state of Montreal&apos\;s urban birds
+UID:83eb7c2b-e5e4-4cd1-ae74-45e2e4a8b168@83eb.org
+URL:http://www.concordia.ca/content/shared/en/events/artsci/loyola-college/2026/03/11/urban-birds.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speaker Series - Concordia's Minor in Black and African Diaspora Studies in the Canadian Context \n\nMarch 13\, 2026\, 2:30 p.m. - 4:30 p.m.
+DTEND:20260313T203000Z
+DTSTART:20260313T183000Z
+SUMMARY:Black Studies @Concordia Session IV
+UID:31d42e68-9506-4ed3-b4ca-91ba11af2c83@31d4.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/13/black-studies-at-concordia.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260331T210000Z
+DTSTART:20260331T190000Z
+SUMMARY:A Crisis of Empathy?
+UID:b566075d-2815-40bc-adf6-4f748e1c0029@b566.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
+DTEND:20260429T200000Z
+DTSTART:20260429T170000Z
+SUMMARY:From Identified Needs to Practical Use
+UID:43fc2b94-d63d-4b55-a2d9-5e628b593ec9@43fc.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:3MT\n\nMarch 26\, 2026\, 2 p.m. - 4 p.m.
+DTEND:20260326T200000Z
+DTSTART:20260326T180000Z
+SUMMARY:Concordia Three Minute Thesis Competition
+UID:8c7130df-7c04-4df4-b858-34666db09ffd@8c71.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/26/concordia-3-minute-thesis-2026.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Visite guidée de la réserve de la Galerie Leonard & Bina Ellen \n\nMarch 12\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260312T173000Z
+DTSTART:20260312T170000Z
+SUMMARY:A Closer Look: Leonard &amp\; Bina Ellen Art Gallery’s vault
+UID:579d693f-c828-48c7-8258-a06008402fe8@579d.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/12/closer-look-gallery.html
 END:VEVENT
 END:VCALENDAR
