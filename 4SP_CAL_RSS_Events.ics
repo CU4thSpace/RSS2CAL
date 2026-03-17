@@ -2,51 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\nMarch 19\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20260319T220000Z
-DTSTART:20260319T200000Z
-SUMMARY:JMSB&apos\;s 17th Annual Graduate Research Exposition
-UID:19e7ec81-5975-4f7e-9a10-49a94aa625e9@19e7.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/19/annual-graduate-research-exposition.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260331T210000Z
-DTSTART:20260331T190000Z
-SUMMARY:A Crisis of Empathy?
-UID:3fc99200-8bca-47ef-a320-7452e84cae1a@3fc9.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
-DTEND:20260429T200000Z
-DTSTART:20260429T170000Z
-SUMMARY:From Identified Needs to Practical Use
-UID:8bcb7436-4b22-4a03-b9c2-7ab8c3e8f88f@8bcb.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:3MT\n\nMarch 26\, 2026\, 2 p.m. - 4 p.m.
-DTEND:20260326T200000Z
-DTSTART:20260326T180000Z
-SUMMARY:Concordia Three Minute Thesis Competition
-UID:cc22267f-7977-4ef8-9b26-dd34c3a17550@cc22.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/26/concordia-3-minute-thesis-2026.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Perspectives on Climate Action\n\nMarch 25\, 2026\, 10 a.m. - 4:30 p.m.
-DTEND:20260325T203000Z
-DTSTART:20260325T140000Z
-SUMMARY:Symposium on Indigenous Land-Based Educational Practices
-UID:af939610-56b0-4a06-a6a4-d79ecde7c603@af93.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/25/indigenous-land-based-education.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Industry\, Policy and Academic Perspectives\n\nMarch 24\, 2026\, 10:30 a.m. - 12 p.m.
 DTEND:20260324T160000Z
 DTSTART:20260324T143000Z
 SUMMARY:Large-Scale Energy Storage: Demand and Challenges
-UID:d8d49184-892c-4771-91fb-f97d56304b6a@d8d4.org
+UID:e2c78c6c-57ee-46d7-9ca6-8324a81355c5@e2c7.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/24/large-scale-energy-storage.html
 END:VEVENT
 BEGIN:VEVENT
@@ -54,31 +14,63 @@ DESCRIPTION:Leadership in Engineering\n\nMarch 27\, 2026\, 10 a.m. - 12 p.m.
 DTEND:20260327T160000Z
 DTSTART:20260327T140000Z
 SUMMARY:The Iron Ring Podcast with Niloofar Moradi
-UID:e6c2888a-91e3-45f5-8c12-3ef756191aaf@e6c2.org
+UID:d73bb805-bd7c-4826-9799-b1811749a434@d73b.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/27/the-iron-ring.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Artistic Mediations of Listening\n\nMarch 27\, 2026\, 2 p.m. - 4 p.m.
-DTEND:20260327T200000Z
-DTSTART:20260327T180000Z
-SUMMARY:Symposium Channels of Testimony
-UID:bf810373-3e31-425a-a604-7f85dbb62051@bf81.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/27/artistic-mediations-of-listening.html
+DESCRIPTION:Part of Résistance\, the Art Libraries Society of North America Conference \n\nApril 16\, 2026\, 1 p.m. - 4 p.m.
+DTEND:20260416T200000Z
+DTSTART:20260416T170000Z
+SUMMARY:Curating Resistance: Library Exhibitions as Pedagogy\, Protest and Practice
+UID:6569dce5-2d55-4e2a-b90b-1ce13fbf1f3d@6569.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/16/curating-resistance.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nApril 20\, 2026\, 11 a.m. - 1:30 p.m.
+DTEND:20260420T173000Z
+DTSTART:20260420T150000Z
+SUMMARY:Risk and Intervention for Aging Infrastructure
+UID:c8ce5f06-d94e-450f-a09c-2d6b81c96d02@c8ce.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/20/intervention-strategies-for-aging-infrastructure.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260331T210000Z
+DTSTART:20260331T190000Z
+SUMMARY:A Crisis of Empathy?
+UID:abd3f7bd-58ef-4929-a542-5c3be6df8383@abd3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:La recherche prend vie\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
+DTEND:20260514T210000Z
+DTSTART:20260514T180000Z
+SUMMARY:Research Comes Alive
+UID:08e35e39-c6b3-4d2b-95ed-97303d0ee869@08e3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Free or Low-Cost Alternatives in Higher Education\n\nMarch 18\, 2026\, 3 p.m. - 4:30 p.m.
 DTEND:20260318T203000Z
 DTSTART:20260318T190000Z
 SUMMARY:The Price is Wrong
-UID:985d1377-d5e8-44c3-aac8-e24648913235@985d.org
+UID:affdd322-75b2-426e-85fc-8b5515f8c3fc@affd.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/18/price-is-wrong.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Artistic Mediations of Listening\n\nMarch 27\, 2026\, 2 p.m. - 4 p.m.
+DTEND:20260327T200000Z
+DTSTART:20260327T180000Z
+SUMMARY:Symposium Channels of Testimony
+UID:7ad9cfd8-aa4d-4d2e-b4e7-d0bfb81c7f94@7ad9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/27/artistic-mediations-of-listening.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nMarch 17\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260317T210000Z
 DTSTART:20260317T190000Z
 SUMMARY:Talking Shop: Retail in Motion
-UID:3880023f-66b8-4cca-8b93-2097bfc2f23a@3880.org
+UID:ec491917-a8d2-448c-8744-18490e561dd8@ec49.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/17/retail-in-motion.html
 END:VEVENT
 BEGIN:VEVENT
@@ -86,23 +78,39 @@ DESCRIPTION:Michael Murtaugh and Lídia Pereira Malho Rodrigues in conversation 
 DTEND:20260317T163000Z
 DTSTART:20260317T150000Z
 SUMMARY:WdKA Live from Montreal!
-UID:d074ed17-578a-4df8-a487-73990b278ecb@d074.org
+UID:a0097bd3-80d8-4c59-ab15-cf00da1d2180@a009.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/17/artist-talk.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nApril 20\, 2026\, 11 a.m. - 1:30 p.m.
-DTEND:20260420T173000Z
-DTSTART:20260420T150000Z
-SUMMARY:Risk and Intervention for Aging Infrastructure
-UID:cfeceb9c-d5fe-4878-87c2-80c933217c64@cfec.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/20/intervention-strategies-for-aging-infrastructure.html
+DESCRIPTION:3MT\n\nMarch 26\, 2026\, 2 p.m. - 4 p.m.
+DTEND:20260326T200000Z
+DTSTART:20260326T180000Z
+SUMMARY:Concordia Three Minute Thesis Competition
+UID:82223718-70ce-433b-941d-354dec5f55a3@8222.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/26/concordia-3-minute-thesis-2026.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:La recherche prend vie\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
-DTEND:20260514T210000Z
-DTSTART:20260514T180000Z
-SUMMARY:Research Comes Alive
-UID:16e88c7b-ba72-4cb6-abad-1107a47625b6@16e8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
+DESCRIPTION:\nMarch 19\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20260319T220000Z
+DTSTART:20260319T200000Z
+SUMMARY:JMSB&apos\;s 17th Annual Graduate Research Exposition
+UID:3f5a9a9a-7f22-4b36-b444-d0acbcf1d414@3f5a.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/19/annual-graduate-research-exposition.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Perspectives on Climate Action\n\nMarch 25\, 2026\, 10 a.m. - 4:30 p.m.
+DTEND:20260325T203000Z
+DTSTART:20260325T140000Z
+SUMMARY:Symposium on Indigenous Land-Based Educational Practices
+UID:f5e1f260-989f-4c22-b5b9-dbe74dc5701a@f5e1.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/25/indigenous-land-based-education.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
+DTEND:20260429T200000Z
+DTSTART:20260429T170000Z
+SUMMARY:From Identified Needs to Practical Use
+UID:7bc06ef6-1772-41f0-9ac2-0155a942137f@7bc0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
 END:VEVENT
 END:VCALENDAR
