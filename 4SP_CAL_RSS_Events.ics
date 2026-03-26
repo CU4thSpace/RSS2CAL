@@ -2,27 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:3MT\n\nMarch 26\, 2026\, 2 p.m. - 4 p.m.
-DTEND:20260326T200000Z
-DTSTART:20260326T180000Z
-SUMMARY:Concordia Three Minute Thesis Competition
-UID:87deb5f5-100d-4754-ae93-40d5c5eb901b@87de.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/26/concordia-3-minute-thesis-2026.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Music by Students Playing Their Originals\n\nApril 1\, 2026\, 10:30 a.m. - 12:30 p.m.
 DTEND:20260401T163000Z
 DTSTART:20260401T143000Z
 SUMMARY:Songwriting I Concert
-UID:3b4f9419-812c-47c1-a366-dc86f60f6012@3b4f.org
+UID:6d7c403e-a48a-4f26-8cdc-838d86e5e152@6d7c.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/01/songwriting-concert.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AI and Aging Summit\nApril 30\, 2026\, 11 a.m. - 4:30 p.m.
+DTEND:20260430T203000Z
+DTSTART:20260430T150000Z
+SUMMARY:How are we aging with AI?
+UID:bb79421c-869b-408c-bf31-36a1d54f5d3f@bb79.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/30/ai-aging-summit.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:3MT\n\nMarch 26\, 2026\, 2 p.m. - 4 p.m.
+DTEND:20260326T200000Z
+DTSTART:20260326T180000Z
+SUMMARY:Concordia Three Minute Thesis Competition
+UID:6f446bc6-ba5a-4289-b279-285a8a8b268a@6f44.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/26/concordia-3-minute-thesis-2026.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Artistic Mediations of Listening\n\nMarch 27\, 2026\, 2 p.m. - 4 p.m.
 DTEND:20260327T200000Z
 DTSTART:20260327T180000Z
 SUMMARY:Channels of Testimony
-UID:40121b7b-8c07-4e1f-afbf-fdd61df1a54b@4012.org
+UID:38165f0d-d660-46c0-b315-a8cac5553cc0@3816.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/27/artistic-mediations-of-listening.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,15 +38,23 @@ DESCRIPTION:Leadership in Engineering\n\nMarch 27\, 2026\, 10 a.m. - 12 p.m.
 DTEND:20260327T160000Z
 DTSTART:20260327T140000Z
 SUMMARY:The Iron Ring Podcast with Niloofar Moradi
-UID:c6362760-d77a-497c-b0d0-311765b0ac67@c636.org
+UID:93be9afa-e0cd-4350-9003-326a133d8f57@93be.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/27/the-iron-ring.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
+DTEND:20260429T200000Z
+DTSTART:20260429T170000Z
+SUMMARY:From Identified Needs to Practical Use
+UID:d2b2e779-2170-42e2-8664-78ab0c2365b4@d2b2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Part of Résistance\, the Art Libraries Society of North America Conference \n\nApril 16\, 2026\, 1 p.m. - 4 p.m.
 DTEND:20260416T200000Z
 DTSTART:20260416T170000Z
 SUMMARY:Curating Resistance: Library Exhibitions as Pedagogy\, Protest and Practice
-UID:6e91fe2a-5758-47de-92a8-3d16cf73fda5@6e91.org
+UID:95cb283f-6f05-401c-94d1-03decf84c0fd@95cb.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/16/curating-resistance.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,63 +62,47 @@ DESCRIPTION:A Symposium Celebrating Merle Collins\n\nApril 23\, 2026\, 10:30 a.m
 DTEND:20260423T183000Z
 DTSTART:20260423T143000Z
 SUMMARY:Living Archives\, Moving Tides: Black Feminist Caribbean Thought
-UID:49cdd546-7749-4aa9-8d2d-9299820d01fb@49cd.org
+UID:c4474855-b5d9-4a36-9d01-a8e631e968a4@c447.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/23/living-archives-moving-tides.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260331T210000Z
-DTSTART:20260331T190000Z
-SUMMARY:A Crisis of Empathy?
-UID:6028daab-c7d0-4065-9bff-6288439da467@6028.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AI and Aging Summit\nApril 30\, 2026\, 11 a.m. - 4:30 p.m.
-DTEND:20260430T203000Z
-DTSTART:20260430T150000Z
-SUMMARY:How are we aging with AI?
-UID:e62f15b1-619e-4b98-8b18-7f9a7c79595d@e62f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/30/ai-aging-summit.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:La recherche prend vie\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
-DTEND:20260514T210000Z
-DTSTART:20260514T180000Z
-SUMMARY:Research Comes Alive
-UID:5cdeb664-5c60-424d-add3-bdeb271ba99b@5cde.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nApril 7\, 2026\, 10:15 a.m. - 1:15 p.m.
-DTEND:20260407T171500Z
-DTSTART:20260407T141500Z
-SUMMARY:Mackay Futures Reimagined
-UID:7e4bb278-e735-4132-a799-5bc8c3d43acd@7e4b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/07/Mackay-futures-reimagined.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
-DTEND:20260429T200000Z
-DTSTART:20260429T170000Z
-SUMMARY:From Identified Needs to Practical Use
-UID:2f85a4d6-c7ae-44e2-85e2-ba1fce74491e@2f85.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nApril 20\, 2026\, 11 a.m. - 1:30 p.m.
-DTEND:20260420T173000Z
-DTSTART:20260420T150000Z
-SUMMARY:Risk and Intervention for Aging Infrastructure
-UID:37df8599-6b38-4ddc-bfae-f0c8443fcb70@37df.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/20/intervention-strategies-for-aging-infrastructure.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Perspectives on Climate Action\n\nMarch 25\, 2026\, 10 a.m. - 4:30 p.m.
 DTEND:20260325T203000Z
 DTSTART:20260325T140000Z
 SUMMARY:Indigenous Land-Based Educational Practices
-UID:6d277c0e-a431-488a-98d8-5a8679a4adbe@6d27.org
+UID:c516f0dc-2b91-40f6-b8d4-8e913424dc3c@c516.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/25/indigenous-land-based-education.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:La recherche prend vie\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
+DTEND:20260514T210000Z
+DTSTART:20260514T180000Z
+SUMMARY:Research Comes Alive
+UID:97c9ead2-cedf-4b58-af8a-eed1c0692497@97c9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nApril 20\, 2026\, 11 a.m. - 1:30 p.m.
+DTEND:20260420T173000Z
+DTSTART:20260420T150000Z
+SUMMARY:Risk and Intervention for Aging Infrastructure
+UID:5cb5f5eb-2f60-4e68-b2f1-32151ca0a3d8@5cb5.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/20/intervention-strategies-for-aging-infrastructure.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nApril 7\, 2026\, 10:15 a.m. - 1:15 p.m.
+DTEND:20260407T171500Z
+DTSTART:20260407T141500Z
+SUMMARY:Mackay Futures Reimagined
+UID:13ee5324-0c2f-4ed4-bed3-2634a4faf7b4@13ee.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/07/Mackay-futures-reimagined.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shared Suffering in the Contemporary Moment\n\nMarch 31\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260331T210000Z
+DTSTART:20260331T190000Z
+SUMMARY:A Crisis of Empathy?
+UID:0012e7c5-4b72-4aa0-99af-207af49dfa71@0012.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/03/31/crisis-of-empathy.html
 END:VEVENT
 END:VCALENDAR
