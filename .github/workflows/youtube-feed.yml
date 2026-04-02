@@ -1,0 +1,30 @@
+name: Update YouTube RSS mirror
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch YouTube feed
+        run: |
+          curl -L \
+          "https://www.youtube.com/feeds/videos.xml?channel_id=UCEOJMoIqrd5vJDPIWZz7s_Q" \
+          -o events/youtubefetcher.xml
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "actions@github.com"
+          git add events/youtubefetcher.xml
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update YouTube feed"
+
+      - name: Push changes
+        run: git push
