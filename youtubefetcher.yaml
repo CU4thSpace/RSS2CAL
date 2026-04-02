@@ -21,14 +21,14 @@ jobs:
           mkdir -p EVENTS
           curl -L \
           "https://www.youtube.com/feeds/videos.xml?channel_id=UCEOJMoIqrd5vJDPIWZz7s_Q" \
-          -o EVENTS/youtubefetcher.xml
+          -o /youtubefetched.xml
 
       - name: Commit updated feed if changed
         run: |
           git config user.name "feed-bot"
           git config user.email "actions@github.com"
 
-          git add EVENTS/youtubefetcher.xml
+          git add /youtubefetched.xml
 
           if ! git diff --cached --quiet; then
             git commit -m "Update YouTube feed"
