@@ -18,7 +18,7 @@ jobs:
 
       - name: Fetch YouTube feed
         run: |
-          mkdir -p EVENTS
+          mkdir -p RSS2CAL
           curl -L \
           "https://www.youtube.com/feeds/videos.xml?channel_id=UCEOJMoIqrd5vJDPIWZz7s_Q" \
           -o RSS2CAL/youtubefetched.xml
