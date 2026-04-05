@@ -2,51 +2,107 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:AI and Aging Summit\nApril 30\, 2026\, 11 a.m. - 4:30 p.m.
+DTEND:20260430T203000Z
+DTSTART:20260430T150000Z
+SUMMARY:How are we aging with AI?
+UID:cec5432d-c46f-496e-a852-ebb0b1fd8010@cec5.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/30/ai-aging-summit.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nApril 7\, 2026\, 10:15 a.m. - 1:15 p.m.
+DTEND:20260407T171500Z
+DTSTART:20260407T141500Z
+SUMMARY:Mackay Futures Reimagined
+UID:e4652877-ba8d-40db-89d5-ce638ac88db1@e465.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/07/Mackay-futures-reimagined.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Law-led Transition to Animal-Free Research\n\nJuly 20\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20260720T220000Z
+DTSTART:20260720T200000Z
+SUMMARY:From Resource Object to Legal Subject
+UID:195e3ac5-f521-4759-8219-679d1d2bbe0c@195e.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/20/resource-object-to-legal-subject.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nApril 10\, 2026\, 10:30 a.m. - 12:30 p.m.
+DTEND:20260410T163000Z
+DTSTART:20260410T143000Z
+SUMMARY:Winter 2026 Innovation Challenges
+UID:4aeab764-54d2-4f85-a222-6bed521d9daa@4aea.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/10/winter-innovation-challenges.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nApril 13\, 2026\, 2 p.m. - 4 p.m.
+DTEND:20260413T200000Z
+DTSTART:20260413T180000Z
+SUMMARY:Enacting Gestures
+UID:4f120160-29e7-4a0d-9cf5-09a3f5015a73@4f12.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/13/enacting-gestures.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
+DTEND:20260429T200000Z
+DTSTART:20260429T170000Z
+SUMMARY:From Identified Needs to Practical Use
+UID:d078a399-7c1a-48b1-9e1e-45b4841cec43@d078.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nApril 20\, 2026\, 11 a.m. - 1:30 p.m.
+DTEND:20260420T173000Z
+DTSTART:20260420T150000Z
+SUMMARY:Risk and Intervention for Aging Infrastructure
+UID:3afd6b92-3ab1-44a5-8ecd-11cbfc668d34@3afd.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/20/intervention-strategies-for-aging-infrastructure.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Writers will read from their work in fiction\, playwriting\, and poetry. \n\nApril 9\, 2026\, 4 p.m. - 5:30 p.m.
+DTEND:20260409T213000Z
+DTSTART:20260409T200000Z
+SUMMARY:Creative Writing: The Award Winners Reading
+UID:96ce6c4e-673d-4fe0-b646-981e9a689fb0@96ce.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/09/creative-writing-awards-reading.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:A Symposium Celebrating Merle Collins\n\nApril 23\, 2026\, 10:30 a.m. - 5 p.m.
 DTEND:20260423T210000Z
 DTSTART:20260423T143000Z
 SUMMARY:Living Archives\, Moving Tides: Black Feminist Caribbean Thought
-UID:4ccbc7b0-027b-459c-80c3-64f4c3630ea9@4ccb.org
+UID:d8d2bdeb-5e4d-4065-95f8-f1fecdcd109a@d8d2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/23/living-archives-moving-tides.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nApril 21\, 2026\, 11 a.m. - 2 p.m.
-DTEND:20260421T180000Z
-DTSTART:20260421T150000Z
-SUMMARY:Cycling\, Community &amp\; Biodiversity Across Campuses
-UID:324059b4-cec4-4935-812a-325c9bedb704@3240.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/21/cycling-community-biodiversity.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:La recherche prend vie\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
 DTEND:20260514T210000Z
 DTSTART:20260514T180000Z
 SUMMARY:Research Comes Alive
-UID:e8dce3ae-5a16-4ebc-a094-6ca200881b4d@e8dc.org
+UID:1bcc03e7-b75e-4231-b154-abf081f884fd@1bcc.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:AI and Aging Summit\nApril 30\, 2026\, 11 a.m. - 4:30 p.m.
-DTEND:20260430T203000Z
-DTSTART:20260430T150000Z
-SUMMARY:How are we aging with AI?
-UID:b1e45cd3-1af6-440f-a673-4eed54897e45@b1e4.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/30/ai-aging-summit.html
+DESCRIPTION:Keynote by Susanna Paasonen\n\nApril 14\, 2026\, 10:15 a.m. - 12:15 p.m.
+DTEND:20260414T161500Z
+DTSTART:20260414T141500Z
+SUMMARY:JenniCam in Context
+UID:bef27982-e9d8-4754-81a5-92bda359b43b@bef2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/14/jennicam-30.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Reflections of an Interdisciplinary Working Group \n\nApril 8\, 2026\, 11:30 a.m. - 1 p.m.
-DTEND:20260408T170000Z
-DTSTART:20260408T153000Z
-SUMMARY:AI\, Humour\, and Human Rights
-UID:a042ad73-d8a1-4d89-a541-7b9bffb25b5f@a042.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/08/ai-humour-human-rights.html
+DESCRIPTION:\nApril 17\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20260417T160000Z
+DTSTART:20260417T150000Z
+SUMMARY:Fireside Chat with Gina McCarthy
+UID:c0154052-6f46-4c9c-91c7-572254813806@c015.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/17/fireside-chat-gina-mccarthy.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Wayfinders Exhibition Roundtable \n\nApril 10\, 2026\, 3 p.m. - 4:30 p.m.
 DTEND:20260410T203000Z
 DTSTART:20260410T190000Z
 SUMMARY:Sensory Practices for Disability Arts and Everyday Life
-UID:8a8d0532-724c-41ec-b3b3-135f0d65564f@8a8d.org
+UID:3e06a55e-c196-4311-8522-873d6114f573@3e06.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/10/sensory-practices-in-disability-arts.html
 END:VEVENT
 BEGIN:VEVENT
@@ -54,79 +110,23 @@ DESCRIPTION:Part of Résistance\, the Art Libraries Society of North America Con
 DTEND:20260416T200000Z
 DTSTART:20260416T170000Z
 SUMMARY:Curating Resistance: Library Exhibitions as Pedagogy\, Protest and Practice
-UID:a19ecd48-4e0f-4476-b443-5eb3dde7ffdc@a19e.org
+UID:3adf40a7-fc2c-4007-941a-7188a187a009@3adf.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/16/curating-resistance.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
-DTEND:20260429T200000Z
-DTSTART:20260429T170000Z
-SUMMARY:From Identified Needs to Practical Use
-UID:59842112-1c6a-4c13-987e-a0a72c311331@5984.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
+DESCRIPTION:\nApril 21\, 2026\, 11 a.m. - 2 p.m.
+DTEND:20260421T180000Z
+DTSTART:20260421T150000Z
+SUMMARY:Cycling\, Community &amp\; Biodiversity Across Campuses
+UID:a9f8c8ed-b2fe-48fb-a1b4-57505b238579@a9f8.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/21/cycling-community-biodiversity.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nApril 7\, 2026\, 10:15 a.m. - 1:15 p.m.
-DTEND:20260407T171500Z
-DTSTART:20260407T141500Z
-SUMMARY:Mackay Futures Reimagined
-UID:90b51f53-4413-4450-9555-a06d65a69dc2@90b5.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/07/Mackay-futures-reimagined.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Keynote by Susanna Paasonen\n\nApril 14\, 2026\, 10:15 a.m. - 12:15 p.m.
-DTEND:20260414T161500Z
-DTSTART:20260414T141500Z
-SUMMARY:JenniCam in Context
-UID:c05658de-429b-4154-a541-6c00878f3e0c@c056.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/14/jennicam-30.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Writers will read from their work in fiction\, playwriting\, and poetry. \n\nApril 9\, 2026\, 4 p.m. - 5:30 p.m.
-DTEND:20260409T213000Z
-DTSTART:20260409T200000Z
-SUMMARY:Creative Writing: The Award Winners Reading
-UID:ccd85688-9a34-4b06-b716-223e2993bfbf@ccd8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/09/creative-writing-awards-reading.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nApril 10\, 2026\, 10:30 a.m. - 12:30 p.m.
-DTEND:20260410T163000Z
-DTSTART:20260410T143000Z
-SUMMARY:Winter 2026 Innovation Challenges
-UID:e8828e66-c207-4a84-a537-211d1c1f8173@e882.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/10/winter-innovation-challenges.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nApril 17\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20260417T160000Z
-DTSTART:20260417T150000Z
-SUMMARY:Fireside Chat with Gina McCarthy
-UID:8a64e364-f030-45a7-abf5-9bc9597bbe9c@8a64.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/17/fireside-chat-gina-mccarthy.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nApril 13\, 2026\, 2 p.m. - 4 p.m.
-DTEND:20260413T200000Z
-DTSTART:20260413T180000Z
-SUMMARY:Enacting Gestures
-UID:dc7754ad-7542-44c2-acad-dd8de45350d5@dc77.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/13/enacting-gestures.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Law-led Transition to Animal-Free Research\n\nJuly 20\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20260720T220000Z
-DTSTART:20260720T200000Z
-SUMMARY:From Resource Object to Legal Subject
-UID:f672dbe4-b04d-4faf-b13a-ec9918386f58@f672.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/20/resource-object-to-legal-subject.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nApril 20\, 2026\, 11 a.m. - 1:30 p.m.
-DTEND:20260420T173000Z
-DTSTART:20260420T150000Z
-SUMMARY:Risk and Intervention for Aging Infrastructure
-UID:d2ab6993-f7a7-45c7-a7df-55594b55f117@d2ab.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/20/intervention-strategies-for-aging-infrastructure.html
+DESCRIPTION:Reflections of an Interdisciplinary Working Group \n\nApril 8\, 2026\, 11:30 a.m. - 1 p.m.
+DTEND:20260408T170000Z
+DTSTART:20260408T153000Z
+SUMMARY:AI\, Humour\, and Human Rights
+UID:7830bf40-b18f-42f9-8e79-4d9745734c19@7830.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/08/ai-humour-human-rights.html
 END:VEVENT
 END:VCALENDAR
