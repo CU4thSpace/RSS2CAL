@@ -1,11 +1,624 @@
-<!DOCTYPE html>
-<html lang=en>
-  <meta charset=utf-8>
-  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-  <title>Error 404 (Not Found)!!1</title>
-  <style>
-    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
-  </style>
-  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
-  <p><b>404.</b> <ins>That’s an error.</ins>
-  <p>The requested URL <code>/feeds/videos.xml?channel_id=UCEOJMoIqrd5vJDPIWZz7s_Q</code> was not found on this server.  <ins>That’s all we know.</ins>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCEOJMoIqrd5vJDPIWZz7s_Q"/>
+ <id>yt:channel:EOJMoIqrd5vJDPIWZz7s_Q</id>
+ <yt:channelId>EOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+ <title>4TH SPACE Concordia University</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q"/>
+ <author>
+  <name>4TH SPACE Concordia University</name>
+  <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+ </author>
+ <published>2019-02-22T16:28:35+00:00</published>
+ <entry>
+  <id>yt:video:19H-Pc8_O0U</id>
+  <yt:videoId>19H-Pc8_O0U</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>AI and Screenwriting in Practice - A Discussion on Biases, Stereotypes, and Collective Memory</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=19H-Pc8_O0U"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-04-14T14:24:07+00:00</published>
+  <updated>2026-04-15T21:32:35+00:00</updated>
+  <media:group>
+   <media:title>AI and Screenwriting in Practice - A Discussion on Biases, Stereotypes, and Collective Memory</media:title>
+   <media:content url="https://www.youtube.com/v/19H-Pc8_O0U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/19H-Pc8_O0U/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us for this interactive conversation, situated within a broader academic reflection on the relationship between artificial intelligence and storytelling, critically examines the issues of representation, collective memory, and cultural transmission at stake in contemporary screenwriting practices.
+
+As AI becomes increasingly involved in the construction of narratives, how can writers resist the reproduction of stereotypes, clichés, and inherited imaginaries embedded in systems shaped by our collective memory?
+
+About the Speakers:
+
+• Christian Beltrami
+Producer and AI Expert in Residence at Concordia University
+Christian Beltrami has worked internationally at the intersection of technology, storytelling, and the audiovisual industries, exploring how emerging tools, and now AI, can amplify narrative forms and strengthen the impact of film and media. During his residency at Concordia University, Beltrami will lead a three-credit intensive undergraduate course, offered from May 11 to June 1, 2026, alongside a year-long series of public events beginning in April 2026.
+
+• Guylaine Dionne
+Faculty Member, Mel Hoppenheim School of Cinema; researcher, independent filmmaker, and screenwriter
+Guylaine Dionne has directed several short and feature films that have received numerous awards. Her first feature film, Les Fantômes des Trois Madeleines, had its world premiere in the Directors’ Fortnight at the 2000 Cannes Film Festival. The film went on to enjoy a distinguished international festival run in Portugal, Korea, Belgium, France, Italy, and Canada, and received several awards, including the Don Quijote Prize, presented by the European Federation of Film Societies, and the International Critics’ Prize.
+
+In June 2018, the Cinémathèque québécoise premiered the documentary Contemporary Women Filmmakers: The State of Things as part of its summer program Femmes, Femmes, devoted to the history of women directors in cinema. Co-directed with Rosanna Maule, this 164-minute film was the result of eight years of research and creative work, and was later presented at the Seoul International Women’s Film Festival. Her most recent documentary, Jazz Club Owner, follows the daily life of Joel Giberovitch, owner and artistic director of Upstairs, a small jazz club in downtown Montreal.
+Dionne is a full-time professor at Concordia University in Montreal and is currently developing a research-creation project on the effects of artificial intelligence on addressing the lack of diversity in representation in screenwriting for film.
+
+• Marco Luna
+Part-time Faculty, Mel Hoppenheim School of Cinema; technologist at the Milieux Institute for Arts, Culture and Technology
+Marco Luna is a Peruvian documentary filmmaker, educator, and immersive media researcher whose work explores cinema as a tool for social change. He holds an MFA in Studio Arts (Film Production) from Concordia University and specializes in documentary filmmaking, virtual reality, and interactive storytelling. His work emphasizes co-creation, social engagement, and emerging technologies.
+
+
+• Allison Moore
+Part-time Faculty, Mel Hoppenheim School of Cinema; new media artist
+Allison Moore is a new media artist specializing in expanded cinema, based in Tiohtià:ke / Montreal. She holds a Master of Fine Arts in Film Production from Concordia University. Her work has been presented at the Venice Architecture Biennale, the Grand Théâtre de Québec, the Society for Arts and Technology (Montreal), Ars Electronica, Tokyo Arts and Space, MUTEK, and ISEA.
+
+Her recent projects explore storytelling in digital art, video mapping across landscapes and architecture, virtual reality, site-specific public art, and performance. Moore’s work reinterprets and reconstructs the world as a metaphorical landscape in which sentient beings exist in synergy with an allegorical macrocosm. She also works as a freelance editor, composer, and animator, and currently teaches part-time at Concordia University’s Mel Hoppenheim School of Cinema. Her video design for Cyclorama by Laurence Dauphinais earned her a 2023 META Award nomination for Outstanding Contribution to Theatre.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="35"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZBuVl7kf_d4</id>
+  <yt:videoId>ZBuVl7kf_d4</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>JenniCam in Context: Keynote by Susanna Paasonen | Full Discussion</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZBuVl7kf_d4"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-04-15T17:59:06+00:00</published>
+  <updated>2026-04-16T02:38:38+00:00</updated>
+  <media:group>
+   <media:title>JenniCam in Context: Keynote by Susanna Paasonen | Full Discussion</media:title>
+   <media:content url="https://www.youtube.com/v/ZBuVl7kf_d4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZBuVl7kf_d4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Jennifer Ringley is broadly remembered, and celebrated, as the first camgirl monetizing the promises of realness of authenticity in networked connections (fast-forward to the current influencer economy). Taking a media archaeological approach where phenomena are interpreted not as signs of things to come but rather as indicative of the horizons of possibility that once were,
+
+Paasonen’s talk inquires after Jennicam in context: the technological and social environments where it emerged, three decades ago, and the specific kind of internet celebrity that Ringley coined.
+
+About the Speaker:
+
+Susanna Paasonen
+Susanna Paasonen is a professor of media studies at the University of Turku, Finland, and most recently the coauthor of Hot Connections: Why Sexual Platforms Matter (with Jenny Sundén and Katrin Tiidenberg, MIT Press 2026).
+
+Supported by DIGS, Milieux, Speculative Life-Machine Agencies, Centre for Interdisciplinary Studies in Society and Culture (CISSC), COMS Concordia, Institute of Network Cultures, PLSM</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="9"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pVOoK6BPwrc</id>
+  <yt:videoId>pVOoK6BPwrc</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>JenniCam in Context: Keynote by Susanna Paasonen (No introduction)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pVOoK6BPwrc"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-04-15T03:42:45+00:00</published>
+  <updated>2026-04-15T19:03:39+00:00</updated>
+  <media:group>
+   <media:title>JenniCam in Context: Keynote by Susanna Paasonen (No introduction)</media:title>
+   <media:content url="https://www.youtube.com/v/pVOoK6BPwrc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pVOoK6BPwrc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>You can watch the full conversation by clicking the link below!
+
+https://youtu.be/ZBuVl7kf_d4
+
+Jennifer Ringley is broadly remembered, and celebrated, as the first camgirl monetizing the promises of realness of authenticity in networked connections (fast-forward to the current influencer economy). Taking a media archaeological approach where phenomena are interpreted not as signs of things to come but rather as indicative of the horizons of possibility that once were,
+
+Paasonen’s talk inquires after Jennicam in context: the technological and social environments where it emerged, three decades ago, and the specific kind of internet celebrity that Ringley coined.
+
+Speaker
+Susanna Paasonen
+Susanna Paasonen is a professor of media studies at the University of Turku, Finland, and most recently the coauthor of Hot Connections: Why Sexual Platforms Matter (with Jenny Sundén and Katrin Tiidenberg, MIT Press 2026).
+
+Supported by DIGS, Milieux, Speculative Life-Machine Agencies, Centre for Interdisciplinary Studies in Society and Culture (CISSC), COMS Concordia, Institute of Network Cultures, PLSM</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="143"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:GJVANxrlGls</id>
+  <yt:videoId>GJVANxrlGls</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>The Role of Semantics in Scent Perception #perfume #fragrance #olfactory #sociology #publicscholar</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/GJVANxrlGls"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-04-14T17:12:54+00:00</published>
+  <updated>2026-04-14T17:30:47+00:00</updated>
+  <media:group>
+   <media:title>The Role of Semantics in Scent Perception #perfume #fragrance #olfactory #sociology #publicscholar</media:title>
+   <media:content url="https://www.youtube.com/v/GJVANxrlGls?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/GJVANxrlGls/hqdefault.jpg" width="480" height="360"/>
+   <media:description>David Howes, Professor in Sociology and Anthropology, explains olfactory response and literacy during a conversation focusing on the aistethics of perfume — moderated by Public Scholar and doctoral candidate in Humanities, Jayanthan Sriram.
+
+Click the link in above to watch the full conversation 🔗</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="76"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kP6Qlnwjz1E</id>
+  <yt:videoId>kP6Qlnwjz1E</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Enacting Gestures</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kP6Qlnwjz1E"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-04-14T08:33:19+00:00</published>
+  <updated>2026-04-15T20:24:41+00:00</updated>
+  <media:group>
+   <media:title>Enacting Gestures</media:title>
+   <media:content url="https://www.youtube.com/v/kP6Qlnwjz1E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kP6Qlnwjz1E/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join students of the ASEM 620 class as they showcase their final projects, either through live mapping, book installations in the Library, or performances. Stop by to see what the Studio Arts Writing team has prepared! 
+
+Speakers
+Michael Abril; Raphaël Allard; Justine Bellefeuille; Clara Congdon; Kelly Day; Jérémie Dubé-Lavigne; Alexandrya Eaton; Monday Einstein; Rena Adell Eyamie; Morgan Legare; Gabriel Mondor; Emilie Morin; Michelle Nguyen; Fanny Jane Pelletier Bastien; Helia Shadifar; vanessa yanow
+
+Organized by maya rae oppenheimer, Department of Studio Arts, Faculty of Fine Arts.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="79"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Ggl0PWs4jmw</id>
+  <yt:videoId>Ggl0PWs4jmw</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Sensory Practices for Disability Arts and Everyday Life | Wayfinders Exhibition Roundtable</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Ggl0PWs4jmw"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-04-13T15:46:58+00:00</published>
+  <updated>2026-04-13T20:44:51+00:00</updated>
+  <media:group>
+   <media:title>Sensory Practices for Disability Arts and Everyday Life | Wayfinders Exhibition Roundtable</media:title>
+   <media:content url="https://www.youtube.com/v/Ggl0PWs4jmw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Ggl0PWs4jmw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please join us for a lively conversation with three artists from the exhibition WAYFINDERS – Au gré des sens, on view at Montréal, arts interculturels (MAI) from April 2 to May 16, 2026. Together, the artists will explore ideas of wayfinding and navigation as they relate to contemporary art, sensory experience, and questions of access, offering insight into how we move through—and make sense of—the world around us.
+
+Speakers
+Raphaëlle de Groot
+Originally from Montreal, Raphaëlle de Groot now lives between Quebec and the Tuscan-Emilian Apennines in Italy. She is interested in aspects of human experience that are difficult to represent, such as sensations, the feeling of belonging to the world, and various states of attention, presence, and engagement. Through performative gestures and participatory processes, her practice produces objects, images, and exchanges that settle and take shape in a variety of forms, materials, and media. A graduate of the University of Quebec at Montreal with a Master of Fine Arts (2007), she has been presenting her work on the Canadian and international scene for over 25 years in numerous events, including the Venice Biennale (2013), Nuit Blanche in Paris (2019), and most recently at Busan MoCA in South Korea (Seeing with Ten Fingers, 2025). She is the recipient of the Sobey Art Award in 2012.
+
+Carmen Papalia
+Carmen Papalia is a nonvisual social practice artist whose performances, public interventions, and curatorial projects explain aspects of disability culture, such as interdependence, de-medicalization, and creative accessibility. His practice enlivens his 2015 Open Access manifesto—a set of guidelines that undermines dominant institutional frameworks by approaching accessibility as a “temporary, collectively held space.” Often emphasizing the possibilities of living on one’s own terms, his work offers a remedy for the complications of cultural ableism. Papalia’s performances, videos, installations, and curatorial projects have been presented across Canada, the United States, the United Kingdom, Europe, Australia, Korea, and Japan. He is a recipient of the 2020 Sobey Art Award. His current work includes Up in the Clouds, Down in the Valley, a feature-length documentary about creative accessibility and disability culture that he is co-writing with Vancouver filmmaker Carmen Pollard. The film follows Papalia’s activities between 2022 and 2025 and is set to premiere in fall 2026.
+
+Colin van Uchelen
+Collin van Uchelen, PhD, is a community psychologist, conceptual artist, and pyrotechnician based in Vancouver, British Columbia, Canada. His artistic practice explores techniques for translating the light of pyrotechnic art into non-visual forms using tactile representations and audio description. Currently, he is designing a multi-sensory pyro-musical display which uses fireworks to depict his own experience of sight loss from a progressive blinding eye disease.
+
+Tamar Tembeck
+Tamar Tembeck, Ph.D., is an art historian, arts programmer and researcher. She has a professional background in physical theatre and the performing arts, and develops projects as an independent artist and curator. Her activities and publications engage with visual cultures of illness and medicine, hospital art practices, questions of accessibility in contemporary art, and more broadly address struggles for social justice in the art world. With the Euphrosyne collective, she coproduced and codirected the award-winning documentary short film, Dancing with Time (2024). After spending many years as Artistic Director at OBORO, she is now completing a SSHRC-funded Masters in Social Work.
+
+Aaron Richmond
+Aaron Richmond is an artist, scholar, and curator based in Montreal. He holds a PhD in Architectural History and Theory from McGill University and is currently an affiliated Assistant Professor in the Faculty of Fine Arts at Concordia University. He is the author of Laboratory of Letters: Scientific Aesthetics and the Making of Modern Subjects, forthcoming from Northwestern University Press. In 2026–2027, Richmond will be the Leonard A. Lauder Fellow in Modern Art at the Metropolitan Museum of Art.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="35"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:z6SS4pZW5u8</id>
+  <yt:videoId>z6SS4pZW5u8</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Winter 2026 Innovation Challenges</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=z6SS4pZW5u8"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-04-11T04:39:57+00:00</published>
+  <updated>2026-04-13T20:38:15+00:00</updated>
+  <media:group>
+   <media:title>Winter 2026 Innovation Challenges</media:title>
+   <media:content url="https://www.youtube.com/v/z6SS4pZW5u8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/z6SS4pZW5u8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us for an engaging and dynamic live Innovation Lab event that brings together students, mentors, and industry professionals to explore the journey from idea to impact.
+
+This interactive session features rapid-fire student presentations, expert-led panel discussions, and real-world insights into prototyping, problem definition, and innovation in practice. Whether you're curious about design, systems thinking, or collaboration across disciplines, this event offers a unique opportunity to learn, connect, and be inspired by emerging innovators and experienced leaders.
+
+https://www.readality.com/
+https://tommycao.dev/agripulse_website/
+https://heritagelab.ca/en
+
+
+Speakers
+Host: Dr. Ann-Louise Davidson
+
+Student Pitches: 
+
+Introduced by Johanne Pelletier, storytelling coach. What is a pitch? 
+
+Mental Health in Digital Childhood
+
+Presenters: Julien Prefontaine, Naailah Mahamoodally &amp; Himanshu Rana
+
+Medium is the Message: Indigenous Language Preservation as Process over Product
+
+Presenters: Anne-Marie Chave &amp; Alexander Oman
+
+AgriPulse: At the Intersection of Moo and Tech
+
+Presenters: Tommy Cao &amp; Parsa Fard
+
+The Future of Immersive Reading
+
+Presenters: Khashayar Zardoui &amp; Dorsa Zare
+
+Smarter Views from Simple Scans
+
+Presenters: Saidul Islam &amp; Muhammad Ilyas Nadeem
+
+ 
+
+Discussion Panels
+
+Defining the Problem Space
+
+Anne-Marie Chave, Daniel Fernandez Martinez, Saidul Islam, Sunicha Mahamad, Naailah Mahamoodally, and Amir Shiri
+
+From Ideas to Insight
+
+Tommy Cao, Parsa Fard, Vaishnavi Vinod Naikwade, ​​Alexander Oman, Himanshu Rana, Amne Samhat, and Khashayar Zardoui
+
+Learning from Innovation Experience
+
+Alissia Bocarro, Muhammad Ilyas Nadeem, Julien Prefontaine, Louise Purdy, Dorsa Zare
+
+Mentoring &amp; Supporting Innovation
+
+Remi Arora, Tarik Boukhalfi, Charlie Gedeon, Daniel Jasmin, Abe Kamel, Arthur Loubaresse, Mike MacGillivray, Johanne Pelletier
+
+Hosting organization: ​Innovation Lab
+Partner organizations: ​Kirkview Farms, STOP Cyberviolences, Readality, Sonaro, Heritage Lab
+Mentors:​
+
+​​Mike MacGillivray (Kirkview Farms), Cora MacGillivray (Kirkview Farms), Emmanuel Lo Monaco (Kirkview Farms), Daniel Jasmin (STOP Cyberviolences), Tarik Boukhalfi (Université du Québec à Trois-Rivières), Karina Gasbarrino (Sonaro), Etienne Lescarbeault (Sonaro), Yehor Sanko (Sonaro), Ali Mehdi (Heritage Lab), Arthur Loubaresse (Readality)</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="131"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ydvkyOoy4Y8</id>
+  <yt:videoId>ydvkyOoy4Y8</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Creative Writing: Readings from the Award Winners</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ydvkyOoy4Y8"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-04-10T09:32:18+00:00</published>
+  <updated>2026-04-13T20:39:16+00:00</updated>
+  <media:group>
+   <media:title>Creative Writing: Readings from the Award Winners</media:title>
+   <media:content url="https://www.youtube.com/v/ydvkyOoy4Y8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ydvkyOoy4Y8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us to celebrate the winning submissions for the 2024/2025 Gabriel Safdie Awards and the finalists for the 2025/2026 Creative Writing Awards. Writers will read from their work in fiction, playwriting, and poetry. 
+
+Speakers:
+
+Emily Legault
+Noah Sparrow
+Marion Munday
+Taylor Ash
+Elizabeth Kubyshyn
+Cleo Abboud
+Alice Ni Lee 
+Jacob Gur 
+Coralie Olivier 
+Organized by Stephanie Bolster and Kate Sterns, Coordinator, Creative Writing Program, Department of English.</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="140"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:3z7HHuPPjTI</id>
+  <yt:videoId>3z7HHuPPjTI</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>AI, Humour, and Human Rights</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=3z7HHuPPjTI"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-04-09T04:53:21+00:00</published>
+  <updated>2026-04-09T20:32:21+00:00</updated>
+  <media:group>
+   <media:title>AI, Humour, and Human Rights</media:title>
+   <media:content url="https://www.youtube.com/v/3z7HHuPPjTI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/3z7HHuPPjTI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The Reflections of an Interdisciplinary Working Group
+
+Don’t immortal comedians have the right to die? Is humour inherently undignified? How can we better protect our cognitive autonomy and data privacy as our lives and laughs are increasingly algorithmized? The participants in an interdisciplinary working group will invite conversation on these and other questions about the relationships between AI, humour, and human rights.
+
+Speakers
+Cristian Ahumada
+Computer Science, UQAM
+
+Danielle Bobker
+English, Concordia
+
+Maia Harris
+English, Concordia</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="48"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7LNJl19Vthg</id>
+  <yt:videoId>7LNJl19Vthg</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Black Studies @Concordia Presents: Infusing Black Scholarship into the Curriculum</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7LNJl19Vthg"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-04-03T08:47:35+00:00</published>
+  <updated>2026-04-09T20:38:05+00:00</updated>
+  <media:group>
+   <media:title>Black Studies @Concordia Presents: Infusing Black Scholarship into the Curriculum</media:title>
+   <media:content url="https://www.youtube.com/v/7LNJl19Vthg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7LNJl19Vthg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>To celebrate the launch of Concordia's Minor in Black and African Diaspora Studies in the Canadian Context - the first in Quebec - this next iteration of the year-long Speaker Series will showcase the research of Black Studies scholars at the university in a conversation moderated by our Black PhD students.
+
+Speakers
+Nohémie Bokuma (she/her) is a master’s student in Political Science at Concordia University, focusing on AI policy, governance and ethics from a feminist perspective and also, a research assistant for Dr. Christopher Dietzel, working with a team that seeks to identify the risks and benefits of AI on dating apps
+
+Oyewole Oladapo is a Fall 2025 graduate of MA Digital Innovation in Journalism Studies at Concordia University. He works as a Policy, Planning &amp; Research Analyst at NL Workforce Innovation Centre, College of the North Atlantic, St. John's, Newfoundland.
+
+Magda Konieczna (she/her) is an associate professor of journalism at Concordia University, and co-founder of Documenters Canada, which trains and pays community members to document public meetings. Her work includes finding ways that journalism can better give voice to communities. 
+
+Dr. k.g. Guttman (she/they) is an artist, educator, and a solo mother. They were Artist-in-Residence 2023-25 in the Intermedia area of Studio Arts (video, performance and electronic arts) at Concordia University, Montreal.
+
+Hélène Brousseau has worked as an art librarian and archivist for the past ten years. She currently works with students, faculty, and collections in Cinema, Contemporary Dance, Music, and Theatre as the Digital Media and Visual Resources Librarian at Concordia University Library.
+
+Alicia Wright is a certified kinesiologist of over 15 years, and 2nd year PhD student in Health and Exercise Science at Concordia University, in addition to part-time Kinesiologist and Coordinator at Concordia University’s School of Health. Her research explores sociodemographic and biomechanical contributors to low back pain through integrated observation and interventional analyses.
+
+Isabella Croft Richmond (they/them) is a recently graduated PhD student from Concordia University who is now working as a Research Associate in the biology department. Their PhD studies focused on urban ecology, looking at the benefits of urban nature to human residents and how those benefits are spread out across time and space. 
+
+Moderator: Ra’anaa Yaminah Ekundayo is a Tiohtià:ke (Montreal, QC)-based emerging multimedia visual activist scholar whose work explores the intersection of art and activism, particularly the entanglement of Black identity, community, and futurity. Co-founder and Chair of Black Lives Matter Sudbury, they are a Black queer cultural curator with a master’s in architecture and are currently pursuing a SSHRC-funded PhD in art history at Concordia University.
+
+Organized by Angélique Willkie, special advisor, Black Integration &amp; Knowledges; Badewa Ajibade (PhD student) with the support of Christiana Abraham, Minor program director and the Office of the Dean, FAS.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="60"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZvIRdxGVxOY</id>
+  <yt:videoId>ZvIRdxGVxOY</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Songwriting I Concert | Music by Students Playing Their Originals</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZvIRdxGVxOY"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-04-02T03:33:13+00:00</published>
+  <updated>2026-04-12T07:20:34+00:00</updated>
+  <media:group>
+   <media:title>Songwriting I Concert | Music by Students Playing Their Originals</media:title>
+   <media:content url="https://www.youtube.com/v/ZvIRdxGVxOY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZvIRdxGVxOY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us as undergraduate Concordia students showcase their original compositions! These students are a part of the Songwriting I course, taught by Alexandra Levy. 🎸🎤
+
+00:13 Intro 4th Space
+01:21 Intro Alexandra
+02:22 Anna (band) - voice, piano, accordion, violin
+07:16 Ethan (solo) -  ac.guitar + vocals
+12:04 Alice (band) - voice, piano + vocal
+17:16 Karen (band)  - voice, ac.guitar + vocal
+20:44 Band - 2 vocals + piano
+25:06 Camilo (solo) - voice
+28:40 Dan (band) - voice, 2 vocals, ac.guitar, piano, violin, bass, drums
+32:48 Libby (band) - voice, ac.guitar, vocal, violin, piano, bass, accordion, drums
+39:07 Melody (band) - 2 vocals, piano, ac.guitar
+45:42 Emma (band) - 2 el.guitars, 2 vocals, bass, drums
+50:06 Jimmy (solo) - ac.guitar + voice</media:description>
+   <media:community>
+    <media:starRating count="11" average="5.00" min="1" max="5"/>
+    <media:statistics views="244"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AaS1g5Ddlk0</id>
+  <yt:videoId>AaS1g5Ddlk0</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>A Crisis of Empathy? Shared Suffering in the Contemporary Moment</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=AaS1g5Ddlk0"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-04-01T09:34:25+00:00</published>
+  <updated>2026-04-04T17:11:51+00:00</updated>
+  <media:group>
+   <media:title>A Crisis of Empathy? Shared Suffering in the Contemporary Moment</media:title>
+   <media:content url="https://www.youtube.com/v/AaS1g5Ddlk0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AaS1g5Ddlk0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Moderated by Jennifer Bourque, this event brings together two thought leaders who explore how political polarization erodes our capacity for empathy. As public debates become more conflictual, how do we remain present to one another’s suffering, even when we fundamentally disagree? 
+Rabbi Lisa Grushcow offers a spiritual perspective on empathy and suffering, while anthropologist Samuel Veissière examines the social forces driving deepening division. Together, they invite us to consider how we might listen, connect, and heal in fractured times.
+
+About the Speakers:
+
+Lisa Grushcow 
+Senior Rabbi, Temple Emanu-El-Beth Sholom, Westmount
+
+Samuel Veissière
+Professeur associé, Département de psychologie (section psychodynamique) Université du Québec à Montréal (UQÀM)
+Clinicien Chercheur, Recherche Action sur les Polarisations Sociales (RAPS)
+CLSC Parc Extension, CIUSS Centre Ouest de Montreal
+Adjunct Professor, Department of Anthropology, McGill University 
+
+Jennifer Bourque
+Chaplain and Coordinator, Multi-faith and Spirituality Centre, Concordia University
+
+Organized by Marc Lafrance, Special Advisor to the Provost on Campus Life, Provost’s Office and Lisa White, Executive Director, Equity Office.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="130"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:k8GZLVjIVos</id>
+  <yt:videoId>k8GZLVjIVos</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Channels of Testimony - Artistic Mediations of Listening</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=k8GZLVjIVos"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-03-28T08:50:13+00:00</published>
+  <updated>2026-04-01T20:02:13+00:00</updated>
+  <media:group>
+   <media:title>Channels of Testimony - Artistic Mediations of Listening</media:title>
+   <media:content url="https://www.youtube.com/v/k8GZLVjIVos?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/k8GZLVjIVos/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join Amy Starecheski, Director of Columbia University’s Oral History Master of Arts, and Luis C. Sotelo, Director of Concordia University’s Acts of Listening Lab (ALLab), for a conversation with three artist–scholar teams funded by ALLab to explore bold new pathways for mediating testimony through creative practice. This symposium brings together innovative practitioners working at the intersection of oral history, performance, sound, and socially engaged art. Together, we’ll delve into the practical and theoretical challenges of transforming real-life stories into artistic forms
+
+About the Speakers:
+
+T Braun and Franklin van Grieken
+Sentir la Luz/Sense the Light 
+
+A research-creation project that investigates how digital mediation and virtual reality, sound, and light reshapes perception and listening in a group of people with visual impairment. This project is carried out in collaboration with Kim Sawchuk, Kara Paul, and Teatro Ciego. 
+
+Vanessa Terán and María Fernanda del Real 
+Sucúa Haven
+Migrant Stories: Embodied Listening Lab
+
+Inspired by Sucúa Haven, a collection of migration stories created with Ecuadorian in Connecticut (United States), a group of Latin diaspora participants in Montreal (Canada), as well as Ecuadorians and other Latin American immigrants in Quito (Ecuador), will reflect on their own migratory experiences and create performances of embodied testimonies that places Sucúa Haven stories in dialogue with their own. 
+
+Peng Hsu
+Cucumbers, The Melancholy of a Turtle and a Girl's Otaku's Romance
+
+A novel/play creative project that explores BBR. BBR, short for Broke Broke Recitation, is my translation of the Mandarin term 碎碎唸 (siu siu nian), a phrase commonly used in Taiwan and China to describe how women chatter incessantly about daily and seemingly banal trivialities. Theorized here as a technique of queer narration, BBR functions as a dramaturgical writing style through which the project examines housing justice, an endangered turtle, and the inarticulable experiences of constipation and yearning of romance.
+
+Luis C. Sotelo Castro
+Director, Acts of Listening Lab (Concordia University)
+
+Amy Starecheski
+Director, Oral History Master of Arts Program (Columbia University)
+
+Organized by Acts of Listening Lab (ALLab), Centre for Oral History and Digital Storytelling (COHDS)</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="26"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:EogwR0n0ny0</id>
+  <yt:videoId>EogwR0n0ny0</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>The Iron Ring Podcast with Niloofar Moradi | Leadership in Engineering</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=EogwR0n0ny0"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-03-28T03:15:57+00:00</published>
+  <updated>2026-04-01T23:55:52+00:00</updated>
+  <media:group>
+   <media:title>The Iron Ring Podcast with Niloofar Moradi | Leadership in Engineering</media:title>
+   <media:content url="https://www.youtube.com/v/EogwR0n0ny0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/EogwR0n0ny0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us for the next episode of The Iron Ring Podcast where WIE hosts Amanda Sanderson and Hannah Ahmadi will speak with Niloofar Moradi, Director of Strategy and Business Development at the National Research Council of Canada, to explore leadership in engineering. From her early days as a student at Concordia to leading teams in the aerospace industry and shaping innovation in aviation research, Niloofar shares insights on how leadership evolves across technical, industry, and strategic roles and what it truly means to be a leader in engineering today. 🎤
+
+About the Speakers
+
+Amanda Sanderson
+Iron Ring co-host, 3rd year Aerospace Engineering student and Director of Podcasts for Women in Engineering
+
+Hannah Ahmadi
+Iron Ring co-host, 4th year Civil Engineering student and Vice-President of External for Women in Engineering. 
+
+Niloofar Moradi
+Former WIE alumna and current Director of Strategy and Business Development at the National Research Council of Canada (NRCC)</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="110"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:MCFGrXa5SOc</id>
+  <yt:videoId>MCFGrXa5SOc</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Concordia'S 2026 Three Minute Thesis Competition</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MCFGrXa5SOc"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-03-27T08:38:26+00:00</published>
+  <updated>2026-04-12T15:36:05+00:00</updated>
+  <media:group>
+   <media:title>Concordia'S 2026 Three Minute Thesis Competition</media:title>
+   <media:content url="https://www.youtube.com/v/MCFGrXa5SOc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MCFGrXa5SOc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The 2026 Concordia 3MT / MT180 competitions challenge graduate students to share their academic research in just under 3 minutes! 
+
+Join us to watch this stimulating competition and vote for your favourite presenter. Discover the outstanding research explained by our students with no jargon, no props, and using only one PowerPoint slide!
+
+00:00:04 Intro 4th Space
+00:01:31 Welcome and Overview
+00:06:20 Welcoming Remarks Dr. Jordan LeBel
+00:14:14 Judging Panel
+00:21:32 Ahmed Nouby Mohamed Hassan - Cities that listen
+00:24:56 Kayla Toledano - Same title, different plot: How age of onset shapes obesity
+00:28:35 Britney Vu - More than a label
+00:32:31 Snigdhodeb Dutta - Before the silence: Predicting climate-driven fish collapse
+00:36:09 Zareen Suhara Nazeer Ali - From pollution to possibility
+00:39:37 Morning Star Fayard - Land as teacher in video games
+00:42:50 Alexandrya Eaton - Threads of memory
+00:48:19 Arielle Rousseau - Get strong, one dish at a time
+00:51:58 Hamideh Hosseini Toudeshky - From MRI anxiety to readiness
+00:55:26 Duane Darren Noel - Are flood maps still accurate when rivers move?
+00:59:11 Fatemeh Hashemi Nasab - More fashion, less waste
+01:02:29 Aisha Nafees - Can brainwaves predict better sleep?
+01:05:57 Hasti Jahanara - Building robots one block at a time
+01:08:55 Comfort Akinfenwa - When digital health fails, it’s not always the user
+01:12:29 Selina Di Nitto - Shh…The pictures are talking
+01:17:15 Q&amp;A
+01:38:38 Awards!</media:description>
+   <media:community>
+    <media:starRating count="15" average="5.00" min="1" max="5"/>
+    <media:statistics views="413"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
