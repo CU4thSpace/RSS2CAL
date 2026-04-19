@@ -2,43 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Research Beyond Academia\n\nApril 27\, 2026\, 2 p.m. - 5 p.m.
-DTEND:20260427T210000Z
-DTSTART:20260427T180000Z
-SUMMARY:Highlights from a Year of Public Scholarship
-UID:36b9a81f-7d8b-46b9-99d1-fba8cf006e57@36b9.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/27/highlights-public-scholarship.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AI and Aging Summit\nApril 30\, 2026\, 11 a.m. - 4:30 p.m.
-DTEND:20260430T203000Z
-DTSTART:20260430T150000Z
-SUMMARY:How are we aging with AI?
-UID:77ffd6d2-f7c6-4e90-9328-efd5f17f2e52@77ff.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/30/ai-aging-summit.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Law-led Transition to Animal-Free Research\n\nJuly 20\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20260720T220000Z
-DTSTART:20260720T200000Z
-SUMMARY:From Resource Object to Legal Subject
-UID:4711dee9-4829-44cc-ab81-ac7e2fbb83b7@4711.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/20/resource-object-to-legal-subject.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
-DTEND:20260429T200000Z
-DTSTART:20260429T170000Z
-SUMMARY:From Identified Needs to Practical Use
-UID:b21287b5-fbb6-4ecd-a5f0-7585324aee54@b212.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
+DESCRIPTION:A Symposium Celebrating Merle Collins\n\nApril 23\, 2026\, 10:30 a.m. - 5 p.m.
+DTEND:20260423T210000Z
+DTSTART:20260423T143000Z
+SUMMARY:Living Archives\, Moving Tides: Black Feminist Caribbean Thought
+UID:96c3bbb6-74cd-4b3a-9c75-6c96a6335e3d@96c3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/23/living-archives-moving-tides.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nMay 1\, 2026\, 4 p.m. - 6 p.m.
 DTEND:20260501T220000Z
 DTSTART:20260501T200000Z
 SUMMARY:Concrete Canoe Unveiling
-UID:ea304675-0a60-460e-8368-5389b00da332@ea30.org
+UID:5c225ee1-3d18-403c-aa1d-54a8a7d4eda2@5c22.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/01/concrete-canoe.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,55 +22,79 @@ DESCRIPTION:La recherche prend vie\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
 DTEND:20260514T210000Z
 DTSTART:20260514T180000Z
 SUMMARY:Research Comes Alive
-UID:a8492391-2de8-491b-b070-a477967e3fe7@a849.org
+UID:0d2eacd6-a3c0-4992-9641-037198d1deb1@0d2e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fresh Ideas for Journalism Innovation\n\nApril 24\, 2026\, 10 a.m. - 2 p.m.
-DTEND:20260424T180000Z
-DTSTART:20260424T140000Z
-SUMMARY:The Journalism Research Symposium
-UID:d76b8adb-82f4-4324-aab6-4b7d9e1fdfdc@d76b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/24/journalism-research-symposium.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nApril 20\, 2026\, 11 a.m. - 1:30 p.m.
-DTEND:20260420T173000Z
-DTSTART:20260420T150000Z
-SUMMARY:Risk and Intervention for Aging Infrastructure
-UID:97b26430-9172-4422-aa57-f510bb26b1f3@97b2.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/20/intervention-strategies-for-aging-infrastructure.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nApril 21\, 2026\, 11 a.m. - 2 p.m.
-DTEND:20260421T180000Z
-DTSTART:20260421T150000Z
-SUMMARY:Cycling\, Community &amp\; Biodiversity Across Campuses
-UID:c32b885c-89c5-4092-9060-0888c6c25340@c32b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/21/cycling-community-biodiversity.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Symposium Celebrating Merle Collins\n\nApril 23\, 2026\, 10:30 a.m. - 5 p.m.
-DTEND:20260423T210000Z
-DTSTART:20260423T143000Z
-SUMMARY:Living Archives\, Moving Tides: Black Feminist Caribbean Thought
-UID:7f50bfeb-8cdf-47ae-a6af-07204e7bdaca@7f50.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/23/living-archives-moving-tides.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nMay 15\, 2026\, 4 p.m. - 6 p.m.
 DTEND:20260515T220000Z
 DTSTART:20260515T200000Z
 SUMMARY:Design narratif: l&apos\;état des lieux
-UID:3bda666d-764c-454e-8ff1-8d60a0ea7c3d@3bda.org
+UID:37c2ff25-75f7-4b3d-b797-75c314fe1702@37c2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/15/design-narratif.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fresh Ideas for Journalism Innovation\n\nApril 24\, 2026\, 10 a.m. - 2 p.m.
+DTEND:20260424T180000Z
+DTSTART:20260424T140000Z
+SUMMARY:The Journalism Research Symposium
+UID:d5722f2b-f37a-4117-b850-b4f85c3d162c@d572.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/24/journalism-research-symposium.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nApril 21\, 2026\, 11 a.m. - 2 p.m.
+DTEND:20260421T180000Z
+DTSTART:20260421T150000Z
+SUMMARY:Cycling\, Community &amp\; Biodiversity Across Campuses
+UID:69d2e688-5864-4e64-b97c-8b85df97941b@69d2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/21/cycling-community-biodiversity.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Northeastern American Association of Graduate Schools\n\nApril 22\, 2026\, 2 p.m. - 4 p.m.
 DTEND:20260422T200000Z
 DTSTART:20260422T180000Z
 SUMMARY:NAGS Three Minute Thesis Competition
-UID:cd670179-de20-4b91-8e81-77f25ffec69a@cd67.org
+UID:1645ee90-d193-4c46-84c9-907d52a9b912@1645.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/22/regional-three-minute-thesis-competition.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AI and Aging Summit\nApril 30\, 2026\, 11 a.m. - 4:30 p.m.
+DTEND:20260430T203000Z
+DTSTART:20260430T150000Z
+SUMMARY:How are we aging with AI?
+UID:9569bd9c-5d85-4115-9922-8a7a739fdec3@9569.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/30/ai-aging-summit.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nApril 20\, 2026\, 11 a.m. - 1:30 p.m.
+DTEND:20260420T173000Z
+DTSTART:20260420T150000Z
+SUMMARY:Risk and Intervention for Aging Infrastructure
+UID:98cf4d5c-cfbf-4948-b002-a7301905d56b@98cf.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/20/intervention-strategies-for-aging-infrastructure.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Law-led Transition to Animal-Free Research\n\nJuly 20\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20260720T220000Z
+DTSTART:20260720T200000Z
+SUMMARY:From Resource Object to Legal Subject
+UID:2283b7b0-35a5-48d6-83d1-98a0cdc15eb5@2283.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/20/resource-object-to-legal-subject.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Research Beyond Academia\n\nApril 27\, 2026\, 2 p.m. - 5 p.m.
+DTEND:20260427T210000Z
+DTSTART:20260427T180000Z
+SUMMARY:Highlights from a Year of Public Scholarship
+UID:e3f9de17-3591-4211-aaa3-f8d24be8c8eb@e3f9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/27/highlights-public-scholarship.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
+DTEND:20260429T200000Z
+DTSTART:20260429T170000Z
+SUMMARY:From Identified Needs to Practical Use
+UID:5a5451b5-6f4f-4666-8297-6ebcd622c6ec@5a54.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
 END:VEVENT
 END:VCALENDAR
