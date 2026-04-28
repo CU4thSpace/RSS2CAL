@@ -2,27 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\nMay 15\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20260515T220000Z
-DTSTART:20260515T200000Z
-SUMMARY:Design narratif: l&apos\;état des lieux
-UID:8fe841bf-3e89-41fa-92f9-555f9e8d67ea@8fe8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/15/design-narratif.html
+DESCRIPTION:AI and Aging Summit\n\nApril 30\, 2026\, 11 a.m. - 4:30 p.m.
+DTEND:20260430T203000Z
+DTSTART:20260430T150000Z
+SUMMARY:How are we aging with AI?
+UID:668806ec-28ad-47a8-a6f1-2396bb44bf11@6688.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/30/ai-aging-summit.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Writers Read Presents: Glimpses from the Year\n\nApril 28\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260428T210000Z
+DTSTART:20260428T190000Z
+SUMMARY:Curtain Call
+UID:600fca5b-7d6d-4f7a-92d6-fafa786ef748@600f.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/28/curtain-call.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A Roundtable for Exploring the Past and Imagining Possible Futures\n\nMay 8\, 2026\, 2:30 p.m. - 4:30 p.m.
 DTEND:20260508T203000Z
 DTSTART:20260508T183000Z
 SUMMARY:La Poutine\, Eating the Urban Wild &amp\; Sense Making
-UID:4f6d1381-3df4-4239-893b-7a6f68003d7f@4f6d.org
+UID:25efdad9-0578-47d2-b412-9354eee6e84c@25ef.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/08/book-launch-and-roundtable.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:La recherche prend vie\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
+DTEND:20260514T210000Z
+DTSTART:20260514T180000Z
+SUMMARY:Research Comes Alive
+UID:aee27b3f-a7f3-4f55-ab76-cbee7c7da5c4@aee2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJune 10\, 2026\, 10:30 a.m. - 5:30 p.m.
+DTEND:20260610T213000Z
+DTSTART:20260610T143000Z
+SUMMARY:Serious Game Arcade: Sustainable Games
+UID:cad30a15-bbfd-4db9-93aa-a0cc0d14f200@cad3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/10/serious-game-arcade.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Women Performing in Montréal and Toronto (1970-1980) | Femmes en performance à Montréal et à Toronto (1970-1980) \n\nMay 7\, 2026\, 10:30 a.m. - 5:45 p.m.
 DTEND:20260507T214500Z
 DTSTART:20260507T143000Z
 SUMMARY:Street Actions | Actions de rue
-UID:0b9b8ca3-36c4-4ae3-8325-e1265e07999f@0b9b.org
+UID:54afe4d0-ca1e-4aa7-80bc-ec936ada2186@54af.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/07/optica-street-actions.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,79 +54,55 @@ DESCRIPTION:Strategies for Collective Survival Book Launch and Salon \n\nMay 20\
 DTEND:20260520T210000Z
 DTSTART:20260520T190000Z
 SUMMARY:Broken Worlds\, Disabled Kin
-UID:0e4509a0-c2b8-4c67-8f97-40fa4ca1ccfc@0e45.org
+UID:288da2f1-98b1-4f0f-953d-8c6c38c77f57@288d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/20/broken-worlds-disabled-kin.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:A Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
-DTEND:20260429T200000Z
-DTSTART:20260429T170000Z
-SUMMARY:From Identified Needs to Practical Use
-UID:7e4816a6-f1a2-43c5-bad1-619924da4570@7e48.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:La recherche prend vie\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
-DTEND:20260514T210000Z
-DTSTART:20260514T180000Z
-SUMMARY:Research Comes Alive
-UID:41089ca0-6b1d-4f14-bd77-883cd320c58e@4108.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:AI and Aging Summit\n\nApril 30\, 2026\, 11 a.m. - 4:30 p.m.
-DTEND:20260430T203000Z
-DTSTART:20260430T150000Z
-SUMMARY:How are we aging with AI?
-UID:6f3e1ad6-680f-4d0f-9693-00fc47ae47b8@6f3e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/30/ai-aging-summit.html
+DESCRIPTION:\nMay 15\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20260515T220000Z
+DTSTART:20260515T200000Z
+SUMMARY:Design narratif: l&apos\;état des lieux
+UID:f4f5dc59-7593-42eb-b8c7-218d75e7eba2@f4f5.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/15/design-narratif.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A Law-led Transition to Animal-Free Research\n\nJuly 20\, 2026\, 4 p.m. - 6 p.m.
 DTEND:20260720T220000Z
 DTSTART:20260720T200000Z
 SUMMARY:From Resource Object to Legal Subject
-UID:98cf306d-6510-4490-99de-03b67049505c@98cf.org
+UID:0dd61a11-e895-4f84-8761-d9ea66d798fb@0dd6.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/20/resource-object-to-legal-subject.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nMay 1\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20260501T220000Z
-DTSTART:20260501T200000Z
-SUMMARY:Concrete Canoe Unveiling
-UID:92d867fe-8b98-4988-9e8b-038f0fd5cb4f@92d8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/01/concrete-canoe.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJune 10\, 2026\, 10:30 a.m. - 5:30 p.m.
-DTEND:20260610T213000Z
-DTSTART:20260610T143000Z
-SUMMARY:Serious Game Arcade: Sustainable Games
-UID:4b24eaaf-d6ee-4ba3-adee-576df5a7c992@4b24.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/10/serious-game-arcade.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Writers Read Presents: Glimpses from the Year\n\nApril 28\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260428T210000Z
-DTSTART:20260428T190000Z
-SUMMARY:Curtain Call
-UID:427f8c34-89e1-40c6-90a6-4138369477b1@427f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/28/curtain-call.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Art / Water / Resistance / Survival \n\nMay 5\, 2026\, 10:15 a.m. - 6 p.m.
-DTEND:20260505T220000Z
-DTSTART:20260505T141500Z
-SUMMARY:Embodied Witnessing
-UID:9c7e5f16-dcec-45b8-a220-44cd8d91474f@9c7e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/05/embodied-witnessing.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nMay 11\, 2026\, 2:30 p.m. - 3:30 p.m.
 DTEND:20260511T193000Z
 DTSTART:20260511T183000Z
 SUMMARY:Exploring Blockchain Technology\, Cryptocurrencies\, and the Decentralized Web
-UID:eb428b85-d207-4d7d-b20a-44caabdf8dcf@eb42.org
+UID:5cc37502-5e90-471f-8fd6-1c841a3f04e3@5cc3.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/11/exploring-blockchain-tech.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Art / Water / Resistance / Survival \n\nMay 5\, 2026\, 10:15 a.m. - 6 p.m.
+DTEND:20260505T220000Z
+DTSTART:20260505T141500Z
+SUMMARY:Embodied Witnessing
+UID:43af5a9e-8b5f-4dee-9034-3264a1984ec4@43af.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/05/embodied-witnessing.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nMay 1\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20260501T220000Z
+DTSTART:20260501T200000Z
+SUMMARY:Concrete Canoe Unveiling
+UID:c7b3b377-875d-4cbd-be82-f4817f87abd8@c7b3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/01/concrete-canoe.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Climate Data Workshop\n\nApril 29\, 2026\, 1 p.m. - 4 p.m.
+DTEND:20260429T200000Z
+DTSTART:20260429T170000Z
+SUMMARY:From Identified Needs to Practical Use
+UID:26aacd23-a645-4bc6-9cfd-ebd8e40b2d58@26aa.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/04/29/identified-needs-to-practical-use.html
 END:VEVENT
 END:VCALENDAR
