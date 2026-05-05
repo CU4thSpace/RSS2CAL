@@ -2,11 +2,75 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 17\, 2026 - June 19\, 2026\, 10 a.m. - 6 p.m.
+DTEND:20260619T220000Z
+DTSTART:20260619T140000Z
+SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
+UID:123719e0-649f-477c-921d-dfb762b694c2@1237.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Understanding Parkinson's disease with dance\, movement therapy and the arts\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
+DTEND:20260514T210000Z
+DTSTART:20260514T180000Z
+SUMMARY:Research Comes Alive
+UID:7cdeb502-6497-49a9-8988-988fa02f82b4@7cde.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Miranda Smitheram & Kevin Yuen Kit Lo present current research-in-progress \n\nMay 12\, 2026\, 10 a.m. - 12 p.m.
+DTEND:20260512T160000Z
+DTSTART:20260512T140000Z
+SUMMARY:WdKA Live from Rotterdam!
+UID:ee391b33-1edc-40c8-9695-7f42a867d5cc@ee39.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/12/live-from-rotterdam-v2.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJune 10\, 2026\, 10:30 a.m. - 5:30 p.m.
+DTEND:20260610T213000Z
+DTSTART:20260610T143000Z
+SUMMARY:Serious Game Arcade: Sustainable Games
+UID:8a874263-72a0-440a-9726-4998a13cff57@8a87.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/10/serious-game-arcade.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Art / Water / Resistance / Survival \n\nMay 5\, 2026\, 10:15 a.m. - 6 p.m.
+DTEND:20260505T220000Z
+DTSTART:20260505T141500Z
+SUMMARY:Embodied Witnessing
+UID:836be2c7-a18d-4834-a187-e2f7846f48a5@836b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/05/embodied-witnessing.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Roundtable for Exploring the Past and Imagining Possible Futures\n\nMay 8\, 2026\, 2:30 p.m. - 4:30 p.m.
+DTEND:20260508T203000Z
+DTSTART:20260508T183000Z
+SUMMARY:La Poutine\, Sense Making &amp\; Eating the Urban Wild
+UID:9dd03556-cc90-48fb-aff2-5c271aab49b1@9dd0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/08/book-launch-and-roundtable.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nMay 11\, 2026\, 2:30 p.m. - 3:30 p.m.
+DTEND:20260511T193000Z
+DTSTART:20260511T183000Z
+SUMMARY:Exploring Blockchain Technology\, Cryptocurrencies\, and the Decentralized Web
+UID:298017de-a675-484a-b736-1d403e1abbb7@2980.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/11/exploring-blockchain-tech.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Law-led Transition to Animal-Free Research\n\nJuly 20\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20260720T220000Z
+DTSTART:20260720T200000Z
+SUMMARY:From Resource Object to Legal Subject
+UID:f95aaeb5-b4a6-4b84-a3ec-9c3c700d1db5@f95a.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/20/resource-object-to-legal-subject.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\nMay 15\, 2026\, 4 p.m. - 6 p.m.
 DTEND:20260515T220000Z
 DTSTART:20260515T200000Z
 SUMMARY:Design narratif: l&apos\;état des lieux
-UID:41e9c05c-f883-4b2a-860f-3e58a9cc8bba@41e9.org
+UID:d343c5fa-4259-45c7-ad5d-7b23c475ab7a@d343.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/15/design-narratif.html
 END:VEVENT
 BEGIN:VEVENT
@@ -14,87 +78,23 @@ DESCRIPTION:Women Performing in Montréal and Toronto (1970-1980) | Femmes en pe
 DTEND:20260507T214500Z
 DTSTART:20260507T143000Z
 SUMMARY:Street Actions | Actions de rue
-UID:19cc04b1-6570-4aeb-a822-b07eeceb07cb@19cc.org
+UID:afd2b9ce-7350-4f15-ad3e-fb2cb216c905@afd2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/07/optica-street-actions.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Understanding Parkinson's disease with dance\, movement therapy and the arts\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
-DTEND:20260514T210000Z
-DTSTART:20260514T180000Z
-SUMMARY:Research Comes Alive
-UID:6bd4ee2e-b8a1-4255-8019-1feaf6781beb@6bd4.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Art / Water / Resistance / Survival \n\nMay 5\, 2026\, 10:15 a.m. - 6 p.m.
-DTEND:20260505T220000Z
-DTSTART:20260505T141500Z
-SUMMARY:Embodied Witnessing
-UID:cbdea1f5-8c40-44f4-b1dd-85c49b36934d@cbde.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/05/embodied-witnessing.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Strategies for Collective Survival Book Launch and Salon \n\nMay 20\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260520T210000Z
 DTSTART:20260520T190000Z
 SUMMARY:Broken Worlds\, Disabled Kin
-UID:d3735323-d50a-456b-958d-d96827d0e91c@d373.org
+UID:9bdff866-abd7-433c-86bd-a3bfa53bcb1f@9bdf.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/20/broken-worlds-disabled-kin.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nMay 11\, 2026\, 2:30 p.m. - 3:30 p.m.
-DTEND:20260511T193000Z
-DTSTART:20260511T183000Z
-SUMMARY:Exploring Blockchain Technology\, Cryptocurrencies\, and the Decentralized Web
-UID:bd0aa558-099d-42c4-ad0f-f17faf47befa@bd0a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/11/exploring-blockchain-tech.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Talks on Gender and Sexuality\n\nMay 19\, 2026\, 1 p.m. - 4 p.m.
 DTEND:20260519T200000Z
 DTSTART:20260519T170000Z
 SUMMARY:On Queer Futures in Education
-UID:ec1218af-49d3-4e8b-b691-c3aae143ba4f@ec12.org
+UID:3f72fd3b-7fa2-4af7-85bc-38e364179ff5@3f72.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/19/on-queer-futures.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Law-led Transition to Animal-Free Research\n\nJuly 20\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20260720T220000Z
-DTSTART:20260720T200000Z
-SUMMARY:From Resource Object to Legal Subject
-UID:62c4d533-53c0-4039-a406-181824731362@62c4.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/20/resource-object-to-legal-subject.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Miranda Smitheram & Kevin Yuen Kit Lo present current research-in-progress \n\nMay 12\, 2026\, 10 a.m. - 12 p.m.
-DTEND:20260512T160000Z
-DTSTART:20260512T140000Z
-SUMMARY:WdKA Live from Rotterdam!
-UID:31ad59d6-c965-4a18-9418-996ce2999b8c@31ad.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/12/live-from-rotterdam-v2.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Roundtable for Exploring the Past and Imagining Possible Futures\n\nMay 8\, 2026\, 2:30 p.m. - 4:30 p.m.
-DTEND:20260508T203000Z
-DTSTART:20260508T183000Z
-SUMMARY:La Poutine\, Sense Making &amp\; Eating the Urban Wild
-UID:f8b48237-e0f4-4688-bca6-935b5d79f983@f8b4.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/08/book-launch-and-roundtable.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJune 10\, 2026\, 10:30 a.m. - 5:30 p.m.
-DTEND:20260610T213000Z
-DTSTART:20260610T143000Z
-SUMMARY:Serious Game Arcade: Sustainable Games
-UID:c9233670-bebe-4342-ad4f-c772039bde63@c923.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/10/serious-game-arcade.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 17\, 2026 - June 19\, 2026\, 10 a.m. - 6 p.m.
-DTEND:20260619T220000Z
-DTSTART:20260619T140000Z
-SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
-UID:d732791a-eda3-41e7-bd94-7ae53cfb0f8f@d732.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
 END:VEVENT
 END:VCALENDAR
