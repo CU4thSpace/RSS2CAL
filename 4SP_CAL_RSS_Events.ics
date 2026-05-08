@@ -2,11 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 17\, 2026 - June 19\, 2026\, 10 a.m. - 6 p.m.
+DTEND:20260619T220000Z
+DTSTART:20260619T140000Z
+SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
+UID:36d30b6d-ba5a-434d-8ee8-e3efd3eb6dd1@36d3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nMay 11\, 2026\, 2:30 p.m. - 3:30 p.m.
+DTEND:20260511T193000Z
+DTSTART:20260511T183000Z
+SUMMARY:Exploring Blockchain Technology\, Cryptocurrencies\, and the Decentralized Web
+UID:fb7bd27a-36fb-4079-8f13-a73607ef75f5@fb7b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/11/exploring-blockchain-tech.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Roundtable for Exploring the Past and Imagining Possible Futures\n\nMay 8\, 2026\, 2:30 p.m. - 4:30 p.m.
+DTEND:20260508T203000Z
+DTSTART:20260508T183000Z
+SUMMARY:La Poutine\, Sense Making &amp\; Eating the Urban Wild
+UID:18039f82-992c-40ea-abcb-6f04383ba07b@1803.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/08/book-launch-and-roundtable.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nMay 15\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20260515T220000Z
+DTSTART:20260515T200000Z
+SUMMARY:Design narratif: l&apos\;état des lieux
+UID:58422167-38ae-48cd-9ce0-54a4ac8332f7@5842.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/15/design-narratif.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Miranda Smitheram & Kevin Yuen Kit Lo present from WdKA Live from Rotterdam!\n\nMay 12\, 2026\, 10 a.m. - 12 p.m.
+DTEND:20260512T160000Z
+DTSTART:20260512T140000Z
+SUMMARY:Research in Perspective: Fieldwork\, Kinship and Material Activations
+UID:58545fbf-cb27-4651-b13a-5f6129616699@5854.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/12/live-from-rotterdam-v2.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Talks on Gender and Sexuality\n\nMay 19\, 2026\, 1 p.m. - 4 p.m.
+DTEND:20260519T200000Z
+DTSTART:20260519T170000Z
+SUMMARY:On Queer Futures in Education
+UID:6081d7a2-28cd-4fa6-a56c-ff4f477f4579@6081.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/19/on-queer-futures.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Unveiling Equity\n\nMay 29\, 2026\, 11 a.m. - 1 p.m.
+DTEND:20260529T170000Z
+DTSTART:20260529T150000Z
+SUMMARY:Traces of Home
+UID:87365796-b38f-43f4-980c-65277f246ee2@8736.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/29/traces-of-home.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Pluri-Ed-J-2\n\nJune 11\, 2026\, 10 a.m. - 5:15 p.m.
 DTEND:20260611T211500Z
 DTSTART:20260611T140000Z
 SUMMARY:Plurilinguisme en Éducation
-UID:0189dd4e-96c0-4e6d-8918-018ecfed1b86@0189.org
+UID:05d43949-3990-48bd-ae34-589873e1505d@05d4.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/11/plurilinguisme-en-education.html
 END:VEVENT
 BEGIN:VEVENT
@@ -14,7 +70,7 @@ DESCRIPTION:Collective Launch and Short Talks\n\nJune 4\, 2026\, 12 p.m. - 1:30 
 DTEND:20260604T173000Z
 DTSTART:20260604T160000Z
 SUMMARY:New Books in Canadian Literature
-UID:56f99640-4222-41dd-a75f-9c370ce7347e@56f9.org
+UID:aa8d5745-6008-4bf5-b10e-64d807f23b08@aa8d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/04/new-books-in-canadian-lit.html
 END:VEVENT
 BEGIN:VEVENT
@@ -22,79 +78,23 @@ DESCRIPTION:Strategies for Collective Survival Book Launch and Salon \n\nMay 20\
 DTEND:20260520T210000Z
 DTSTART:20260520T190000Z
 SUMMARY:Broken Worlds\, Disabled Kin
-UID:99551c53-35ed-4143-bd34-b8377e1e0a0c@9955.org
+UID:91bc6339-bdee-4b43-86ef-3182dc1f0c5e@91bc.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/20/broken-worlds-disabled-kin.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Roundtable for Exploring the Past and Imagining Possible Futures\n\nMay 8\, 2026\, 2:30 p.m. - 4:30 p.m.
-DTEND:20260508T203000Z
-DTSTART:20260508T183000Z
-SUMMARY:La Poutine\, Sense Making &amp\; Eating the Urban Wild
-UID:7df81156-f21c-4011-a640-b825b3d37c7d@7df8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/08/book-launch-and-roundtable.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Miranda Smitheram & Kevin Yuen Kit Lo present from WdKA Live from Rotterdam!\n\nMay 12\, 2026\, 10 a.m. - 12 p.m.
-DTEND:20260512T160000Z
-DTSTART:20260512T140000Z
-SUMMARY:Research in Perspective: Fieldwork\, Kinship and Material Activations
-UID:1cdb5957-931f-4e67-96c0-bda535fac8f1@1cdb.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/12/live-from-rotterdam-v2.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Research in Parkinson's disease coming alive through with dance\, dance movement therapy and the arts\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
-DTEND:20260514T210000Z
-DTSTART:20260514T180000Z
-SUMMARY:Research Comes Alive
-UID:e5ff6d3d-ecd2-4238-82cd-ada5b9e54a31@e5ff.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJune 10\, 2026\, 10:30 a.m. - 5:30 p.m.
 DTEND:20260610T213000Z
 DTSTART:20260610T143000Z
 SUMMARY:Serious Game Arcade: Sustainable Games
-UID:331f58b1-101c-49e4-97f8-792ffa0fae45@331f.org
+UID:4736b8f2-5fb5-40da-8470-df01b032b496@4736.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/10/serious-game-arcade.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Unveiling Equity\n\nMay 29\, 2026\, 11 a.m. - 1 p.m.
-DTEND:20260529T170000Z
-DTSTART:20260529T150000Z
-SUMMARY:Traces of Home
-UID:0b57de51-f4e0-4aca-b008-d6ef14295ee5@0b57.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/29/traces-of-home.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nMay 11\, 2026\, 2:30 p.m. - 3:30 p.m.
-DTEND:20260511T193000Z
-DTSTART:20260511T183000Z
-SUMMARY:Exploring Blockchain Technology\, Cryptocurrencies\, and the Decentralized Web
-UID:267d9fad-af1f-40ab-908e-4f5e34f19ecf@267d.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/11/exploring-blockchain-tech.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nMay 15\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20260515T220000Z
-DTSTART:20260515T200000Z
-SUMMARY:Design narratif: l&apos\;état des lieux
-UID:a6c5415d-f301-4181-af9c-a7577387d576@a6c5.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/15/design-narratif.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 17\, 2026 - June 19\, 2026\, 10 a.m. - 6 p.m.
-DTEND:20260619T220000Z
-DTSTART:20260619T140000Z
-SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
-UID:f34ff5a1-dbaf-40e1-afca-874012c725be@f34f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Talks on Gender and Sexuality\n\nMay 19\, 2026\, 1 p.m. - 4 p.m.
-DTEND:20260519T200000Z
-DTSTART:20260519T170000Z
-SUMMARY:On Queer Futures in Education
-UID:4d7ecd78-e1f8-4952-9dca-ddd97fd3745e@4d7e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/19/on-queer-futures.html
+DESCRIPTION:Research in Parkinson's disease coming alive through with dance\, dance movement therapy and the arts\n\nMay 14\, 2026\, 2 p.m. - 5 p.m.
+DTEND:20260514T210000Z
+DTSTART:20260514T180000Z
+SUMMARY:Research Comes Alive
+UID:e3b7d937-38d8-4a8e-b60b-f2eee771e771@e3b7.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/14/research-comes-alive.html
 END:VEVENT
 END:VCALENDAR
