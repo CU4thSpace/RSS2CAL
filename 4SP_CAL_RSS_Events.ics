@@ -2,11 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 15\, 2026 - June 19\, 2026\, 9 a.m. - 5 p.m.
+DTEND:20260619T210000Z
+DTSTART:20260619T130000Z
+SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
+UID:015b4991-39ef-4268-8f8d-f48ec7f2462c@015b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Essays on Dwelling and Refuge\n\nJune 3\, 2026\, 4 p.m. - 5:30 p.m.
+DTEND:20260603T213000Z
+DTSTART:20260603T200000Z
+SUMMARY:Shelter in Text
+UID:ddd67983-b47d-461c-9af9-62d31ea89336@ddd6.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/03/shelter-in-text.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:la Terre nourricière nous raconte\n\nMay 27\, 2026\, 10 a.m. - 11:30 a.m.
+DTEND:20260527T153000Z
+DTSTART:20260527T140000Z
+SUMMARY:Café-causerie - Environments en évolution
+UID:60919d96-cdc9-4cec-b5c0-10876b86b1c9@6091.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/27/cafe-causerie.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Now Unboxing with Concordia University Press\n\nMay 25\, 2026\, 11:30 a.m. - 1 p.m.
+DTEND:20260525T170000Z
+DTSTART:20260525T153000Z
+SUMMARY:Unboxing: Literary Life After Death &amp\; Illuminating Media
+UID:56cfa19b-bd5a-4284-b75e-3b2684c218a7@56cf.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/25/cup-unboxing.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJune 10\, 2026\, 10:30 a.m. - 5:30 p.m.
+DTEND:20260610T213000Z
+DTSTART:20260610T143000Z
+SUMMARY:Serious Game Arcade: Sustainable Games
+UID:ba856109-eb95-4e90-ac2e-ae1ba2a560d4@ba85.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/10/serious-game-arcade.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Unveiling Equity\n\nMay 29\, 2026\, 11 a.m. - 1 p.m.
+DTEND:20260529T170000Z
+DTSTART:20260529T150000Z
+SUMMARY:Traces of Home
+UID:8994f941-4724-43e8-a6ad-6b94c17951b0@8994.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/29/traces-of-home.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Celebrating 5 years of the DIGS Lab\n\nJune 2\, 2026\, 1 p.m. - 3 p.m.
 DTEND:20260602T190000Z
 DTSTART:20260602T170000Z
 SUMMARY:Digital Intimacy: Now and into the Future
-UID:02d95160-4bab-4b56-9bd6-1e28a7545345@02d9.org
+UID:f95dab96-e266-4db4-aeff-82046be5ee89@f95d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/02/digital-intimacy-now-future.html
 END:VEVENT
 BEGIN:VEVENT
@@ -14,87 +62,39 @@ DESCRIPTION:The Grace Dart Foundation Knowledge Mobilization Fund Showcase\n\nJu
 DTEND:20260605T200000Z
 DTSTART:20260605T160000Z
 SUMMARY:Empowered Aging
-UID:6ef512cf-03fd-4d3d-a639-4b8bdbdfad04@6ef5.org
+UID:fcf59901-60dc-43cc-98d8-4b65dd53508d@fcf5.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/05/engage-presents-showcase.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJune 10\, 2026\, 10:30 a.m. - 5:30 p.m.
-DTEND:20260610T213000Z
-DTSTART:20260610T143000Z
-SUMMARY:Serious Game Arcade: Sustainable Games
-UID:7634c6b9-58f6-4dd2-9a38-50796aa63a8e@7634.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/10/serious-game-arcade.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 15\, 2026 - June 19\, 2026\, 9 a.m. - 5 p.m.
-DTEND:20260619T210000Z
-DTSTART:20260619T130000Z
-SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
-UID:2fd0aa68-07e9-45fb-a1c9-1da466828a8c@2fd0.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Unveiling Equity\n\nMay 29\, 2026\, 11 a.m. - 1 p.m.
-DTEND:20260529T170000Z
-DTSTART:20260529T150000Z
-SUMMARY:Traces of Home
-UID:213ad365-80e6-4188-a57f-454580f27fbc@213a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/29/traces-of-home.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:la Terre nourricière nous raconte\n\nMay 27\, 2026\, 10 a.m. - 11:30 a.m.
-DTEND:20260527T153000Z
-DTSTART:20260527T140000Z
-SUMMARY:Café-causerie - Environments en évolution
-UID:edc89fe9-9a95-4f36-9b5c-6b8c68c31def@edc8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/27/cafe-causerie.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
 DTEND:20260930T193000Z
 DTSTART:20260930T173000Z
 SUMMARY:Confronting Our Past
-UID:f9a7102a-ce64-451c-8587-049dee2ae2e1@f9a7.org
+UID:2199d509-1598-43a5-8a76-b3d5b5284f3b@2199.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Collective Launch and Short Talks\n\nJune 4\, 2026\, 12 p.m. - 1:30 p.m.
-DTEND:20260604T173000Z
-DTSTART:20260604T160000Z
-SUMMARY:New Books in Canadian Literature
-UID:f2179885-f526-42aa-89b5-a029ecd13ad0@f217.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/04/new-books-in-canadian-lit.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Now Unboxing with Concordia University Press\n\nMay 25\, 2026\, 11:30 a.m. - 1 p.m.
-DTEND:20260525T170000Z
-DTSTART:20260525T153000Z
-SUMMARY:Unboxing: Literary Life After Death &amp\; Illuminating Media
-UID:6412c715-8a26-4fe6-94d7-bc7e9b504ce2@6412.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/25/cup-unboxing.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Pluri-Ed-J-2\n\nJune 11\, 2026\, 10 a.m. - 5:15 p.m.
 DTEND:20260611T211500Z
 DTSTART:20260611T140000Z
 SUMMARY:Plurilinguisme en Éducation
-UID:0c7653a0-0997-427f-b95d-91715d96510d@0c76.org
+UID:6af1f19c-6df3-49f6-aca4-d24ac2168dec@6af1.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/11/plurilinguisme-en-education.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Essays on Dwelling and Refuge\n\nJune 3\, 2026\, 4 p.m. - 5:30 p.m.
-DTEND:20260603T213000Z
-DTSTART:20260603T200000Z
-SUMMARY:Shelter in Text
-UID:246ba867-f172-4f35-8a8a-743542873ad8@246b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/03/shelter-in-text.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nMay 26\, 2026\, 12 p.m. - 1 p.m.
 DTEND:20260526T170000Z
 DTSTART:20260526T160000Z
 SUMMARY:Talking Shop: Unlocking Peak Performance
-UID:24127c10-93f4-45ce-9679-8afae45c8d9e@2412.org
+UID:8263f641-c4fb-4f5d-9b38-410721130281@8263.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/05/26/unlocking-performance.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Collective Launch and Short Talks\n\nJune 4\, 2026\, 12 p.m. - 1:30 p.m.
+DTEND:20260604T173000Z
+DTSTART:20260604T160000Z
+SUMMARY:New Books in Canadian Literature
+UID:de255cb1-62b1-4dc7-9cb0-33307d93cbc9@de25.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/04/new-books-in-canadian-lit.html
 END:VEVENT
 END:VCALENDAR
