@@ -1,11 +1,419 @@
-<!DOCTYPE html>
-<html lang=en>
-  <meta charset=utf-8>
-  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-  <title>Error 404 (Not Found)!!1</title>
-  <style>
-    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
-  </style>
-  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
-  <p><b>404.</b> <ins>That’s an error.</ins>
-  <p>The requested URL <code>/feeds/videos.xml?channel_id=UCEOJMoIqrd5vJDPIWZz7s_Q</code> was not found on this server.  <ins>That’s all we know.</ins>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCEOJMoIqrd5vJDPIWZz7s_Q"/>
+ <id>yt:channel:EOJMoIqrd5vJDPIWZz7s_Q</id>
+ <yt:channelId>EOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+ <title>4TH SPACE Concordia University</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q"/>
+ <author>
+  <name>4TH SPACE Concordia University</name>
+  <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+ </author>
+ <published>2019-02-22T16:28:35+00:00</published>
+ <entry>
+  <id>yt:video:sWW_1tBEJsU</id>
+  <yt:videoId>sWW_1tBEJsU</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Café-causerie - Environments en évolution</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=sWW_1tBEJsU"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-28T03:52:17+00:00</published>
+  <updated>2026-05-28T04:48:10+00:00</updated>
+  <media:group>
+   <media:title>Café-causerie - Environments en évolution</media:title>
+   <media:content url="https://www.youtube.com/v/sWW_1tBEJsU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/sWW_1tBEJsU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>La planète parle. Parfois fort, parfois en chuchotant. Toujours avec une urgence pressante. L’humanité doit l’écouter et agir. Mais comment ? Nous vous invitons à participer à un événement convivial s’interrogeant sur les questions de climat et de durabilité à travers diverses histoires. Cette discussion tissera des liens entre la science et la narration, entre la réalité et la fiction, et nous amènera à nous interroger sur notre avenir commun. Où allons-nous ? À quoi ressemblera notre vie sur Terre ? Comment écouter la nature ? Ne manquez pas cette occasion de discuter sur nos environnements en évolution. 
+
+Venez échanger avec nos invitées qui abordent dans leur travail les thèmes de la justice climatique, du racisme environnemental, de l'éco-anxiété, de l'action climatique et de la solidarité et du vivre-ensemble.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="28"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:dF-bKF-6N68</id>
+  <yt:videoId>dF-bKF-6N68</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Café-causerie - Environments en évolution</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=dF-bKF-6N68"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-27T15:45:52+00:00</published>
+  <updated>2026-05-27T15:45:54+00:00</updated>
+  <media:group>
+   <media:title>Café-causerie - Environments en évolution</media:title>
+   <media:content url="https://www.youtube.com/v/dF-bKF-6N68?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/dF-bKF-6N68/hqdefault.jpg" width="480" height="360"/>
+   <media:description>La planète parle. Parfois fort, parfois en chuchotant. Toujours avec une urgence pressante. L’humanité doit l’écouter et agir. Mais comment ? Nous vous invitons à participer à un événement convivial s’interrogeant sur les questions de climat et de durabilité à travers diverses histoires. Cette discussion tissera des liens entre la science et la narration, entre la réalité et la fiction, et nous amènera à nous interroger sur notre avenir commun. Où allons-nous ? À quoi ressemblera notre vie sur Terre ? Comment écouter la nature ? Ne manquez pas cette occasion de discuter sur nos environnements en évolution. 
+
+Venez échanger avec nos invitées qui abordent dans leur travail les thèmes de la justice climatique, du racisme environnemental, de l'éco-anxiété, de l'action climatique et de la solidarité et du vivre-ensemble.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SNpTnMyqirw</id>
+  <yt:videoId>SNpTnMyqirw</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Talking Shop: Unlocking Peak Performance</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SNpTnMyqirw"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-27T04:57:28+00:00</published>
+  <updated>2026-05-28T02:20:06+00:00</updated>
+  <media:group>
+   <media:title>Talking Shop: Unlocking Peak Performance</media:title>
+   <media:content url="https://www.youtube.com/v/SNpTnMyqirw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SNpTnMyqirw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hosted by Richard Sejean, marketer and lecturer at John Molson School of Business, join us for another episode of Talking Shop, a live podcast recording from the Department of Marketing at the John Molson School of Business. 
+
+A conversation with Jonathan Chaimberg on coaching philosophy, elite performance, and the psychology behind success in sport and business.
+
+00:21 4th Space Intro
+01:39 Intro Richard Sejean
+04:01 How does preparation shape performance?
+09:12 What enables athletes to perform under pressure?
+13:55 How do athletes get into a high-performance state?
+18:36 What is the role of a coach in developing an athlete? 
+25:18 How have lessons from sports shaped your business?
+32:38 Q&amp;A
+
+About the speakers:
+
+• Jonathan Chaimberg  
+Jonathan is a competitive athlete and renowned strength &amp; conditioning coach who has worked with elite athletes across the National Hockey League and Ultimate Fighting Championship, including Georges St-Pierre and Kris Letang. He is also the founder of Adrenaline Performance Center — a Montreal institution for athletes and fitness enthusiasts.
+
+• Richard Sejean
+Richard is a marketer and faculty lecturer at Concordia University's John Molson School of Business. His work sits at the intersection of marketing, psychology, and communication. Through Talking Shop, he brings together students, faculty, and business leaders to explore key ideas from multiple perspectives.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="29"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rJt5A4IVMMw</id>
+  <yt:videoId>rJt5A4IVMMw</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>What Happens When Your Rights are Targeted #socialjustice #policy #abortionlaw  #queervisibility</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/rJt5A4IVMMw"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-22T20:39:54+00:00</published>
+  <updated>2026-05-25T22:54:53+00:00</updated>
+  <media:group>
+   <media:title>What Happens When Your Rights are Targeted #socialjustice #policy #abortionlaw  #queervisibility</media:title>
+   <media:content url="https://www.youtube.com/v/rJt5A4IVMMw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rJt5A4IVMMw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Debbie Owusu-Akyeeah, Co-Director of Policy Advocacy at Action Canada, discusses the restrictions of human rights in policy during a conversation on the state of 2S/LGBTQ+ rights in Canada, moderated by Public Scholar and PhD candidate in political science, Francesco MacAllister-Caruso.
+
+In case you missed it, you can watch the full conversation by clicking the link in below  🔗</media:description>
+   <media:community>
+    <media:starRating count="40" average="5.00" min="1" max="5"/>
+    <media:statistics views="1118"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vDp_cL5a888</id>
+  <yt:videoId>vDp_cL5a888</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Broken Worlds, Disabled Kin: Strategies for Collective Survival Book Launch and Salon</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vDp_cL5a888"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-21T10:00:14+00:00</published>
+  <updated>2026-05-26T18:57:12+00:00</updated>
+  <media:group>
+   <media:title>Broken Worlds, Disabled Kin: Strategies for Collective Survival Book Launch and Salon</media:title>
+   <media:content url="https://www.youtube.com/v/vDp_cL5a888?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vDp_cL5a888/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us for an exciting conversation between authors Kelly Fritsch (Carleton University) and Anne McGuire (University of Toronto), and discussants Natalie Kouri-Towe (Simone de Beauvoir Institute), Nashwa Khan (Disabled Women’s Network of Canada), and Gracen Brilmyer (McGill University).
+
+The authors argue that we live in a world broken by design: a web of systems that debilitate and destroy through racist and ableist infrastructural neglect, socioeconomic abandonment, and ecological negligence. Fixes for these forms of breakage often conceal and amplify harm—but what happens if we refuse to rehabilitate this inhospitable world? 🎤
+
+Organized by the Simone de Beauvoir Institute.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="49"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zWL_mGd60Lc</id>
+  <yt:videoId>zWL_mGd60Lc</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>On Queer Futures in Education</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zWL_mGd60Lc"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-20T07:53:30+00:00</published>
+  <updated>2026-05-25T18:32:08+00:00</updated>
+  <media:group>
+   <media:title>On Queer Futures in Education</media:title>
+   <media:content url="https://www.youtube.com/v/zWL_mGd60Lc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zWL_mGd60Lc/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="60"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:hE1AAr--yS8</id>
+  <yt:videoId>hE1AAr--yS8</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Design narratif: l'état des lieux</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hE1AAr--yS8"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-16T10:32:16+00:00</published>
+  <updated>2026-05-19T18:25:02+00:00</updated>
+  <media:group>
+   <media:title>Design narratif: l'état des lieux</media:title>
+   <media:content url="https://www.youtube.com/v/hE1AAr--yS8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hE1AAr--yS8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Réjoignez-nous pour cette table ronde organisée par la Chaire de Recherche Behaviour Interactive en Design de Jeu rassemble designers narratifs professionnels et chercheurs universitaires pour aborder ces questions dans le contexte d’une conversation conviviale et accessible.
+Le « design narratif » est l’une des nouvelles spécialisations ayant émergées de l’évolution des jeux vidéo. Ces spécialistes doivent à la fois tenir compte des contraintes de la scénarisation et de l’interactivité : raconter une bonne histoire tout en y aménageant un espace de « jeu ».
+
+Bien que la pratique soit récente, elle évolue rapidement. Chaque nouveau jeu propose une nouvelle recette pour mélanger récit et agentivité, couple parfait pour certains, duo incompatible pour d’autres.
+
+Quel est l’état actuel du design narratif? Comment en ont évolué les méthodes et pratiques? Contre quels problèmes se bute-t-il encore? Quelles pistes intéressantes peut-on voir à l’horizon?</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="116"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:w2G-dC7C4Vc</id>
+  <yt:videoId>w2G-dC7C4Vc</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Research in Perspective: Fieldwork, Kinship, and Material Activations</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=w2G-dC7C4Vc"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-13T04:56:02+00:00</published>
+  <updated>2026-05-13T08:01:22+00:00</updated>
+  <media:group>
+   <media:title>Research in Perspective: Fieldwork, Kinship, and Material Activations</media:title>
+   <media:content url="https://www.youtube.com/v/w2G-dC7C4Vc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/w2G-dC7C4Vc/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="43"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:P1Yr3D8ZLjM</id>
+  <yt:videoId>P1Yr3D8ZLjM</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Exploring Blockchain Technology, Cryptocurrencies, and the Decentralized Web</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=P1Yr3D8ZLjM"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-12T07:58:50+00:00</published>
+  <updated>2026-05-28T00:47:55+00:00</updated>
+  <media:group>
+   <media:title>Exploring Blockchain Technology, Cryptocurrencies, and the Decentralized Web</media:title>
+   <media:content url="https://www.youtube.com/v/P1Yr3D8ZLjM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/P1Yr3D8ZLjM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us for an engaging lecture exploring Blockchain technology, Cryptocurrencies, and the Decentralized Web. Led by expert Dr. Jeremy Clark, this session will unpack the core principles behind these transformative innovations. Whether you’re new to the topic or looking to deepen your understanding, this talk will provide clear insights into the technologies driving the next evolution of the digital world.
+
+Speaker:
+
+• Jeremy Clark, PhD, P.Eng.
+Associate Professor, Cybersecurity and Intelligent Systems Engineering
+
+NSERC/Raymond Chabot Grant Thornton/Catallaxy Industrial Research Chair in Blockchain Technologies
+
+Organized by the Gina Cody School of Engineering and Computer Science.</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="82"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aYbNA41MS0Q</id>
+  <yt:videoId>aYbNA41MS0Q</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>La Poutine, Sense Making &amp; Eating the Urban Wild |</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aYbNA41MS0Q"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-09T09:07:38+00:00</published>
+  <updated>2026-05-27T01:21:09+00:00</updated>
+  <media:group>
+   <media:title>La Poutine, Sense Making &amp; Eating the Urban Wild |</media:title>
+   <media:content url="https://www.youtube.com/v/aYbNA41MS0Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aYbNA41MS0Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organized by The Centre for Sensory Studies, join us for an end-of-term gathering and book launch of these three very savvy and savoury books:
+
+• Sense-Making: New Sensory Methods for Exploring the Past and Imagining Possible Futures by Sheryl Boyle, Genevieve Collins, and David Howes.
+
+• La poutine, Culture et identité d'un pays incertain par Geneviève Sicotte.
+
+• Eating The Urban Wild: Food and Foraging in Montreal by Natalie Doonan.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="121"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Y4fQ7Wcm_Dk</id>
+  <yt:videoId>Y4fQ7Wcm_Dk</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Street Actions | Actions de rue - Infiltrating Practices, Stealth Actions.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Y4fQ7Wcm_Dk"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-08T09:32:42+00:00</published>
+  <updated>2026-05-13T21:58:31+00:00</updated>
+  <media:group>
+   <media:title>Street Actions | Actions de rue - Infiltrating Practices, Stealth Actions.</media:title>
+   <media:content url="https://www.youtube.com/v/Y4fQ7Wcm_Dk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Y4fQ7Wcm_Dk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Moderated by Moderated by Po BK Lomami, join us for the third and last panel of this one-day symposium builds on the key elements of the exhibition Street Actions: Women Performing in Montreal and Toronto (1970-1980), with Kama La Mackerel, Kamissa Ma Koïta, and Map (in English and French). 🎤
+
+This symposium includes moving geographically between Toronto and Montréal, as well as linguistically across French and English; focusing on the importance of dance, movement, and the kinesthetic in shaping experimental practices of the 1970s; looking at questions of changing feminisms as they evolved in public and cultural spaces; and attesting to historical and current practices by artists infiltrating outdoor and institutional sites with their bodies.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="90"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:S5wik8Jv5f0</id>
+  <yt:videoId>S5wik8Jv5f0</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Street Actions | Actions de rue: Art and Feminism in Quebec from 1970 to the Present</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=S5wik8Jv5f0"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-08T07:15:06+00:00</published>
+  <updated>2026-05-11T20:13:59+00:00</updated>
+  <media:group>
+   <media:title>Street Actions | Actions de rue: Art and Feminism in Quebec from 1970 to the Present</media:title>
+   <media:content url="https://www.youtube.com/v/S5wik8Jv5f0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/S5wik8Jv5f0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Moderated by Analays Alvarez Hernandez, join us for the second panel of this one-day symposium builds on the key elements of the exhibition Street Actions: Women Performing in Montreal and Toronto (1970-1980), with Rose-Marie Arbour, Marie Décary, Lise Nantel, Women with Kitchen Appliances (In French). 🎤
+
+This symposium includes moving geographically between Toronto and Montréal, as well as linguistically across French and English; focusing on the importance of dance, movement, and the kinesthetic in shaping experimental practices of the 1970s; looking at questions of changing feminisms as they evolved in public and cultural spaces; and attesting to historical and current practices by artists infiltrating outdoor and institutional sites with their bodies.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="76"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_qPFru3lkOI</id>
+  <yt:videoId>_qPFru3lkOI</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Street Actions | Actions de rue:  Experimental Performance and Dance in Toronto in the 1970s</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_qPFru3lkOI"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-08T04:33:58+00:00</published>
+  <updated>2026-05-25T17:27:21+00:00</updated>
+  <media:group>
+   <media:title>Street Actions | Actions de rue:  Experimental Performance and Dance in Toronto in the 1970s</media:title>
+   <media:content url="https://www.youtube.com/v/_qPFru3lkOI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_qPFru3lkOI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Moderated by Marie Claire Forté, join us for the first panel of this one-day symposium builds on the key elements of the exhibition Street Actions: Women Performing in Montreal and Toronto (1970-1980), with Elizabeth Chitty and Johanna Householder. 🎤
+
+This symposium includes moving geographically between Toronto and Montréal, as well as linguistically across French and English; focusing on the importance of dance, movement, and the kinesthetic in shaping experimental practices of the 1970s; looking at questions of changing feminisms as they evolved in public and cultural spaces; and attesting to historical and current practices by artists infiltrating outdoor and institutional sites with their bodies.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="87"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:fAP-71OFDuU</id>
+  <yt:videoId>fAP-71OFDuU</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Submerged in the Wake: Keynote</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=fAP-71OFDuU"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-06T08:31:52+00:00</published>
+  <updated>2026-05-22T17:51:30+00:00</updated>
+  <media:group>
+   <media:title>Submerged in the Wake: Keynote</media:title>
+   <media:content url="https://www.youtube.com/v/fAP-71OFDuU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fAP-71OFDuU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Part of Embodied Witnessing: Art / Water / Resistance / Survival 
+
+This keynote by Dr. Ayana Omilade Flewellen explores how the excavation of 16th–19th century slave shipwrecks is generating unprecedented ways of feeling and reckoning with the afterlife of slavery. 
+
+Through underwater ethnographic work with divers who excavate these vessels, analysis of museum exhibits that use newly recovered artifacts to build immersive slave ship hull reconstructions on land, and exploration of emerging artistic practices—ranging from visual works depicting artists submerged in oceanic depths to underwater memorials to the Transatlantic slave trade— Dr. Flewellen traces how the physical act of diving to these wreck sites creates new forms of embodied historical memory that surface from the ocean floor to reshape contemporary understandings of the Middle Passage.</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="116"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:TNGK398iW5Y</id>
+  <yt:videoId>TNGK398iW5Y</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Tethering: Talk and Experiential Offering</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TNGK398iW5Y"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-05-06T06:30:33+00:00</published>
+  <updated>2026-05-22T04:45:53+00:00</updated>
+  <media:group>
+   <media:title>Tethering: Talk and Experiential Offering</media:title>
+   <media:content url="https://www.youtube.com/v/TNGK398iW5Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TNGK398iW5Y/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Part of Embodied Witnessing: Art / Water / Resistance / Survival 
+
+This talk by Danielle K. Garrison introduces tethering — a consent-based horizontal aerial methodology integrating somatic practice and real-time biometric heartbeat technology. By reorienting vertical fabric into a horizontal plane, tethering transforms aerial arts into a relational practice where the fabric mediates touch and the heartbeat guides nervous system awareness. The presentation explores how tuning into the body's own rhythms creates embodied pathways for communicating consent beyond normalized yes and no. Participants will be invited into a brief experiential practice — sensing the heartbeat as a gateway to relational awareness.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="16"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
