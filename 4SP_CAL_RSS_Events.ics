@@ -2,11 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Pluri-Ed-J-2\n\nJune 11\, 2026\, 10 a.m. - 5:15 p.m.
+DTEND:20260611T211500Z
+DTSTART:20260611T140000Z
+SUMMARY:Plurilinguisme en Éducation
+UID:46a7bf66-435a-4819-a3ed-e7adde058ab1@46a7.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/11/plurilinguisme-en-education.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weronika Zielinska & Skye Maule-O'Brien in Residence at 4thSpace\n\nJune 12\, 2026 - June 19\, 2026\, 1 p.m. - 1 p.m.
+DTEND:20260619T170000Z
+DTSTART:20260619T170000Z
+SUMMARY:Office Hours! with WdKA
+UID:14dca429-74ef-4a8f-9486-cd4bbbcf79f9@14dc.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/12/office-hours-wdka.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 15\, 2026 - June 19\, 2026\, 9 a.m. - 5 p.m.
+DTEND:20260619T210000Z
+DTSTART:20260619T130000Z
+SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
+UID:fe9792b4-ebba-429d-91ee-ec0ac83f9992@fe97.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Leadership in Environmental and Digital innovation for Sustainability (LEADS) Wrap-up Event\n\nJune 9\, 2026\, 10 a.m. - 4 p.m.
+DTEND:20260609T200000Z
+DTSTART:20260609T140000Z
+SUMMARY:LEADS Wraps Up!
+UID:a5f102ef-48b2-4906-a0cc-c2fcd1d5ddbf@a5f1.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/09/LEADS-closing.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
 DTEND:20260930T193000Z
 DTSTART:20260930T173000Z
 SUMMARY:Confronting Our Past
-UID:f9815018-7414-48b7-a2b3-78d06c8f00e3@f981.org
+UID:b2d88f45-4e0d-49a9-8319-3dea5c7d493c@b2d8.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 BEGIN:VEVENT
@@ -14,39 +46,7 @@ DESCRIPTION:\nJune 10\, 2026\, 10:30 a.m. - 5:30 p.m.
 DTEND:20260610T213000Z
 DTSTART:20260610T143000Z
 SUMMARY:Serious Game Arcade: Sustainable Games
-UID:5260f747-b8af-4eb9-adcb-564c106d466b@5260.org
+UID:ff1b44f3-e247-459c-b101-48ef55e4ac48@ff1b.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/10/serious-game-arcade.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Leadership in Environmental and Digital innovation for Sustainability (LEADS) Wrap-up Event\n\nJune 9\, 2026\, 10 a.m. - 4 p.m.
-DTEND:20260609T200000Z
-DTSTART:20260609T140000Z
-SUMMARY:LEADS Wraps Up!
-UID:68c5c297-b48a-4e22-8176-9a68391a0e03@68c5.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/09/LEADS-closing.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Weronika Zielinska & Skye Maule-O'Brien in Residence at 4thSpace\n\nJune 12\, 2026 - June 19\, 2026\, 1 p.m. - 1 p.m.
-DTEND:20260619T170000Z
-DTSTART:20260619T170000Z
-SUMMARY:Office Hours! with WdKA
-UID:35337375-dff5-4936-a15b-4f82f6173cda@3533.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/12/office-hours-wdka.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pluri-Ed-J-2\n\nJune 11\, 2026\, 10 a.m. - 5:15 p.m.
-DTEND:20260611T211500Z
-DTSTART:20260611T140000Z
-SUMMARY:Plurilinguisme en Éducation
-UID:c15c4a73-2b0d-482e-9692-6f7a15e84939@c15c.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/11/plurilinguisme-en-education.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 15\, 2026 - June 19\, 2026\, 9 a.m. - 5 p.m.
-DTEND:20260619T210000Z
-DTSTART:20260619T130000Z
-SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
-UID:5c2a69e1-7fae-4ee4-b066-c9b9d907e357@5c2a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
 END:VEVENT
 END:VCALENDAR
