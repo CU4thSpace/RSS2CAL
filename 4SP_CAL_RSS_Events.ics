@@ -2,27 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\nJune 10\, 2026\, 10:30 a.m. - 5:30 p.m.
-DTEND:20260610T213000Z
-DTSTART:20260610T143000Z
-SUMMARY:Serious Game Arcade: Sustainable Games
-UID:319a0219-6579-4222-b6ff-7cd1d11ebff8@319a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/10/serious-game-arcade.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Leadership in Environmental and Digital innovation for Sustainability (LEADS) Wrap-up Event\n\nJune 9\, 2026\, 10 a.m. - 4 p.m.
-DTEND:20260609T200000Z
-DTSTART:20260609T140000Z
-SUMMARY:LEADS Wraps Up!
-UID:3e64f261-fc67-4df7-8cd0-f5803637d95f@3e64.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/09/LEADS-closing.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 15\, 2026 - June 19\, 2026\, 9 a.m. - 5 p.m.
 DTEND:20260619T210000Z
 DTSTART:20260619T130000Z
 SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
-UID:8934c6d4-b7f4-4d86-b2db-a1d3db6a16f5@8934.org
+UID:23b23650-d871-4cf6-a8dc-676707a18008@23b2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,23 +14,39 @@ DESCRIPTION:Pluri-Ed-J-2\n\nJune 11\, 2026\, 10 a.m. - 5:15 p.m.
 DTEND:20260611T211500Z
 DTSTART:20260611T140000Z
 SUMMARY:Plurilinguisme en Éducation
-UID:375ebf0c-c3f3-4a77-ba40-6f75c24a4963@375e.org
+UID:ad6e60ae-a701-42c6-8a62-2b188477a757@ad6e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/11/plurilinguisme-en-education.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
-DTEND:20260930T193000Z
-DTSTART:20260930T173000Z
-SUMMARY:Confronting Our Past
-UID:4aa45984-29a8-451e-acda-b5d536f4fba0@4aa4.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weronika Zielinska & Skye Maule-O'Brien in Residence at 4thSpace\n\nJune 12\, 2026 - June 19\, 2026\, 1 p.m. - 1 p.m.
 DTEND:20260619T170000Z
 DTSTART:20260619T170000Z
 SUMMARY:Office Hours! with WdKA
-UID:c0a6fd89-7020-48d9-ad31-317f448dc6d5@c0a6.org
+UID:cf85c9e3-bd9a-42b9-9f28-b70c62af7228@cf85.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/12/office-hours-wdka.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJune 10\, 2026\, 10:30 a.m. - 5:30 p.m.
+DTEND:20260610T213000Z
+DTSTART:20260610T143000Z
+SUMMARY:Serious Game Arcade: Sustainable Games
+UID:770782ce-7421-45df-a67d-58c859ca7853@7707.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/10/serious-game-arcade.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Leadership in Environmental and Digital innovation for Sustainability (LEADS) Wrap-up Event\n\nJune 9\, 2026\, 10 a.m. - 4 p.m.
+DTEND:20260609T200000Z
+DTSTART:20260609T140000Z
+SUMMARY:LEADS Wraps Up!
+UID:dd01abd2-11f9-40a7-ab7a-afd06b6c8d74@dd01.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/09/LEADS-closing.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
+DTEND:20260930T193000Z
+DTSTART:20260930T173000Z
+SUMMARY:Confronting Our Past
+UID:20b8f759-100f-4c18-9641-1b4dc208c51c@20b8.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 END:VCALENDAR
