@@ -2,51 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 15\, 2026 - June 19\, 2026\, 9 a.m. - 5 p.m.
-DTEND:20260619T210000Z
-DTSTART:20260619T130000Z
-SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
-UID:f76310c3-81fd-4ebc-9b5b-8175720b440e@f763.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJune 10\, 2026\, 10:30 a.m. - 5:30 p.m.
-DTEND:20260610T213000Z
-DTSTART:20260610T143000Z
-SUMMARY:Serious Game Arcade: Sustainable Games
-UID:c823c11b-d126-4664-b975-493d6e14d846@c823.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/10/serious-game-arcade.html
+DESCRIPTION:Pluri-Ed-J-2\n\nJune 11\, 2026\, 10 a.m. - 5:15 p.m.
+DTEND:20260611T211500Z
+DTSTART:20260611T140000Z
+SUMMARY:Plurilinguisme en Éducation
+UID:e1af8ddd-02b9-48af-b502-5340708a9058@e1af.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/11/plurilinguisme-en-education.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
 DTEND:20260930T193000Z
 DTSTART:20260930T173000Z
 SUMMARY:Confronting Our Past
-UID:9c96540b-be97-47e3-a41d-0d8778254b0b@9c96.org
+UID:cbefd5ca-ded3-49f6-ad64-a91cd142ec68@cbef.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJune 10\, 2026\, 10:30 a.m. - 5:30 p.m.
+DTEND:20260610T213000Z
+DTSTART:20260610T143000Z
+SUMMARY:Serious Game Arcade: Sustainable Games
+UID:6ce00bef-09a2-4e5b-8558-a352be2820ed@6ce0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/10/serious-game-arcade.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Leadership in Environmental and Digital innovation for Sustainability (LEADS) Wrap-up Event\n\nJune 9\, 2026\, 10 a.m. - 4 p.m.
 DTEND:20260609T200000Z
 DTSTART:20260609T140000Z
 SUMMARY:LEADS Wraps Up!
-UID:0fdbfc8a-f029-4700-ad0f-1a8cc45ddb67@0fdb.org
+UID:97c29468-513b-46f6-aa4f-486693512f25@97c2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/09/LEADS-closing.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pluri-Ed-J-2\n\nJune 11\, 2026\, 10 a.m. - 5:15 p.m.
-DTEND:20260611T211500Z
-DTSTART:20260611T140000Z
-SUMMARY:Plurilinguisme en Éducation
-UID:d565ec94-e228-42ad-a5b1-5581e8d18e69@d565.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/11/plurilinguisme-en-education.html
+DESCRIPTION:for Mitacs Globalink Research Interns at Concordia University \n\nJune 23\, 2026\, 1 p.m. - 3 p.m.
+DTEND:20260623T190000Z
+DTSTART:20260623T170000Z
+SUMMARY:The Research Rendez Vous
+UID:c1f49760-70b8-4fe3-af79-e65756848f45@c1f4.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/23/research-rendez-vous.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 15\, 2026 - June 19\, 2026\, 9 a.m. - 5 p.m.
+DTEND:20260619T210000Z
+DTSTART:20260619T130000Z
+SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
+UID:350b16fb-3a7c-4a1e-8d1c-cfcec971fb23@350b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Weronika Zielinska & Skye Maule-O'Brien in Residence at 4thSpace\n\nJune 12\, 2026 - June 19\, 2026\, 1 p.m. - 1 p.m.
 DTEND:20260619T170000Z
 DTSTART:20260619T170000Z
 SUMMARY:Office Hours! with WdKA
-UID:3c848211-a528-4e1b-84ec-a26885d6befd@3c84.org
+UID:81b203fc-ae4a-43d7-8fc0-12ed495c0227@81b2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/12/office-hours-wdka.html
 END:VEVENT
 END:VCALENDAR
