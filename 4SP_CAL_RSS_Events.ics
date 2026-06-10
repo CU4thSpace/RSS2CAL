@@ -2,51 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
-DTEND:20260930T193000Z
-DTSTART:20260930T173000Z
-SUMMARY:Confronting Our Past
-UID:220bdb8f-4b7a-4883-9d1f-98ce057ecb2c@220b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Pluri-Ed-J-2\n\nJune 11\, 2026\, 10 a.m. - 5:15 p.m.
 DTEND:20260611T211500Z
 DTSTART:20260611T140000Z
 SUMMARY:Plurilinguisme en Éducation
-UID:8b5e4a5b-3b02-4363-aab3-d57c1cc01380@8b5e.org
+UID:687cab22-1d25-4418-9d19-3b173d403f29@687c.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/11/plurilinguisme-en-education.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:for Mitacs Globalink Research Interns at Concordia University \n\nJune 23\, 2026\, 1 p.m. - 3 p.m.
-DTEND:20260623T190000Z
-DTSTART:20260623T170000Z
-SUMMARY:The Research Rendez Vous
-UID:c47b971d-3f9d-4685-b019-f7e81105086e@c47b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/23/research-rendez-vous.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Weronika Zielinska & Skye Maule-O'Brien in Residence at 4thSpace\n\nJune 12\, 2026 - June 19\, 2026\, 1 p.m. - 1 p.m.
-DTEND:20260619T170000Z
-DTSTART:20260619T170000Z
-SUMMARY:Office Hours! with WdKA
-UID:29dc888c-6885-4c35-8a54-369823b24a02@29dc.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/12/office-hours-wdka.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 15\, 2026 - June 19\, 2026\, 9 a.m. - 5 p.m.
-DTEND:20260619T210000Z
-DTSTART:20260619T130000Z
-SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
-UID:e5c53f0b-786e-46ab-ada3-c2335ebf1aed@e5c5.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJune 10\, 2026\, 10:30 a.m. - 5:30 p.m.
 DTEND:20260610T213000Z
 DTSTART:20260610T143000Z
 SUMMARY:Serious Game Arcade: Sustainable Games
-UID:eaa8d408-1079-4449-b1aa-430b65fc0900@eaa8.org
+UID:8da8c467-c43b-4503-ab2f-a69dbf23f31e@8da8.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/10/serious-game-arcade.html
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +22,39 @@ DESCRIPTION:Leadership in Environmental and Digital innovation for Sustainabilit
 DTEND:20260609T200000Z
 DTSTART:20260609T140000Z
 SUMMARY:LEADS Wraps Up!
-UID:1c591556-0f43-4782-8d3a-4469fbc12dfe@1c59.org
+UID:6ed4f9ca-8271-4c11-9318-a446795fa8dc@6ed4.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/09/LEADS-closing.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 15\, 2026 - June 19\, 2026\, 9 a.m. - 5 p.m.
+DTEND:20260619T210000Z
+DTSTART:20260619T130000Z
+SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
+UID:0110f959-21cb-4067-955b-1ac55ce71a8c@0110.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Weronika Zielinska & Skye Maule-O'Brien in Residence at 4thSpace\n\nJune 12\, 2026 - June 19\, 2026\, 1 p.m. - 1 p.m.
+DTEND:20260619T170000Z
+DTSTART:20260619T170000Z
+SUMMARY:Office Hours! with WdKA
+UID:34b5e085-63a5-4adb-9033-b7f59a90e606@34b5.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/12/office-hours-wdka.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:for Mitacs Globalink Research Interns at Concordia University \n\nJune 23\, 2026\, 1 p.m. - 3 p.m.
+DTEND:20260623T190000Z
+DTSTART:20260623T170000Z
+SUMMARY:The Research Rendez Vous
+UID:3eb48ef9-2103-411d-be60-4b182ad81fd5@3eb4.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/23/research-rendez-vous.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
+DTEND:20260930T193000Z
+DTSTART:20260930T173000Z
+SUMMARY:Confronting Our Past
+UID:4fd1a84f-139f-466f-929e-a9acbd696b75@4fd1.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 END:VCALENDAR
