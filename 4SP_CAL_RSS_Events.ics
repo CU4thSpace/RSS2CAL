@@ -2,19 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
-DTEND:20260930T193000Z
-DTSTART:20260930T173000Z
-SUMMARY:Confronting Our Past
-UID:0d908062-b1dd-4bdd-86cb-3737ad1f0c27@0d90.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 15\, 2026 - June 19\, 2026\, 9 a.m. - 5 p.m.
 DTEND:20260619T210000Z
 DTSTART:20260619T130000Z
 SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
-UID:f5b18452-d54d-4e0b-8b9d-aa81eb119cbf@f5b1.org
+UID:207c651c-82d7-401d-a0ba-d0e346c52d71@207c.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +14,15 @@ DESCRIPTION:for Mitacs Globalink Research Interns at Concordia University \n\nJu
 DTEND:20260623T190000Z
 DTSTART:20260623T170000Z
 SUMMARY:The Research Rendez Vous
-UID:edf37907-5e46-4ee2-bc63-2d8da88bb309@edf3.org
+UID:7a8602a0-fede-4807-8b37-6232ec8952e8@7a86.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/23/research-rendez-vous.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
+DTEND:20260930T193000Z
+DTSTART:20260930T173000Z
+SUMMARY:Confronting Our Past
+UID:1ade334b-457b-40e1-b76c-cff35435cbbd@1ade.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 END:VCALENDAR
