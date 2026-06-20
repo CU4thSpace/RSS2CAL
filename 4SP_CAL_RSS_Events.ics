@@ -2,35 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
-DTEND:20260930T193000Z
-DTSTART:20260930T173000Z
-SUMMARY:Confronting Our Past
-UID:fff825c6-4e21-4963-9c03-3c14928e2306@fff8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260805T173000Z
-DTSTART:20260805T170000Z
-SUMMARY:A Closer Look: The Solar Simulator
-UID:17eb2e1b-38ff-44e5-b563-06fd455a8118@17eb.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Applied Science Hub\, Aquatics\n\nJuly 22\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260722T173000Z
-DTSTART:20260722T170000Z
-SUMMARY:A Closer Look: Dylan Fraser Fish Lab
-UID:e0095d59-49cb-4d9f-907c-ae37d3c1b63a@e009.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/22/a-closer-look-fish-lab.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nJuly 8\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260708T173000Z
 DTSTART:20260708T170000Z
 SUMMARY:A Closer Look: SunBlock
-UID:8ecb63b9-0f11-4b07-a32f-a87e722ca1c7@8ecb.org
+UID:4f9f0e96-f5ca-42b6-9770-997b253ef54c@4f9f.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/08/a-closer-look-sunblock.html
 END:VEVENT
 BEGIN:VEVENT
@@ -38,7 +14,39 @@ DESCRIPTION:for Mitacs Globalink Research Interns at Concordia University \n\nJu
 DTEND:20260623T190000Z
 DTSTART:20260623T170000Z
 SUMMARY:The Research Rendez Vous
-UID:0c6842d7-5f4f-4478-b372-858e4cdf01a6@0c68.org
+UID:9748c7f0-e940-48de-9147-0b7ac63c84dc@9748.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/23/research-rendez-vous.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260805T173000Z
+DTSTART:20260805T170000Z
+SUMMARY:A Closer Look: The Solar Simulator
+UID:20452803-c883-4283-ac07-117531a3514e@2045.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Applied Science Hub\, Aquatics\n\nJuly 22\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260722T173000Z
+DTSTART:20260722T170000Z
+SUMMARY:A Closer Look: Dylan Fraser Fish Lab
+UID:bf63f965-a672-4a96-8107-34ca0cde43ff@bf63.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/22/a-closer-look-fish-lab.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Transitions (in)justes? : la désindustrialisation et l’environnement \n\nJune 19\, 2026\, 9 a.m. - 5 p.m.
+DTEND:20260619T210000Z
+DTSTART:20260619T130000Z
+SUMMARY:(Un)just Transitions? Deindustrialization and the Environment
+UID:5f934672-1dd4-4fc7-ac12-0623839d86de@5f93.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/15/unjust-transitions.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
+DTEND:20260930T193000Z
+DTSTART:20260930T173000Z
+SUMMARY:Confronting Our Past
+UID:76bbee7b-3b7b-44b3-9bce-feb9c90fa4d2@76bb.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 END:VCALENDAR
