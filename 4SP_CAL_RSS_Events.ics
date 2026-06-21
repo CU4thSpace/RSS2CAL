@@ -2,43 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:for Mitacs Globalink Research Interns at Concordia University \n\nJune 23\, 2026\, 1 p.m. - 3 p.m.
-DTEND:20260623T190000Z
-DTSTART:20260623T170000Z
-SUMMARY:The Research Rendez Vous
-UID:68a63f13-4c59-4383-8f44-2484d605be68@68a6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/23/research-rendez-vous.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
 DTEND:20260930T193000Z
 DTSTART:20260930T173000Z
 SUMMARY:Confronting Our Past
-UID:27cb6d1f-b613-4717-9336-5eb74a536127@27cb.org
+UID:84a69c60-28cf-4855-8585-9b1c56e96df3@84a6.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260805T173000Z
-DTSTART:20260805T170000Z
-SUMMARY:A Closer Look: The Solar Simulator
-UID:56d28a83-e082-442e-87b5-7d57beb99a8c@56d2.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
+DESCRIPTION:for Mitacs Globalink Research Interns at Concordia University \n\nJune 23\, 2026\, 1 p.m. - 3 p.m.
+DTEND:20260623T190000Z
+DTSTART:20260623T170000Z
+SUMMARY:The Research Rendez Vous
+UID:17a9948c-513a-4edf-8ece-917df93c7a18@17a9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/23/research-rendez-vous.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJuly 8\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260708T173000Z
 DTSTART:20260708T170000Z
 SUMMARY:A Closer Look: SunBlock
-UID:df5ea5ba-da31-4664-81a1-a2cfaad9023e@df5e.org
+UID:3640ef44-408f-4619-95c9-fd529d79c2bd@3640.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/08/a-closer-look-sunblock.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260805T173000Z
+DTSTART:20260805T170000Z
+SUMMARY:A Closer Look: The Solar Simulator
+UID:cecf114e-c604-4c8c-985c-53072d6b5238@cecf.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Applied Science Hub\, Aquatics\n\nJuly 22\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260722T173000Z
 DTSTART:20260722T170000Z
 SUMMARY:A Closer Look: Dylan Fraser Fish Lab
-UID:9685e3c4-5d80-4520-be4a-17589b405116@9685.org
+UID:a457badd-5582-4799-8c49-e7d0e9fbde1e@a457.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/22/a-closer-look-fish-lab.html
 END:VEVENT
 END:VCALENDAR
