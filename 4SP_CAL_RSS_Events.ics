@@ -2,43 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\nJuly 8\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260708T173000Z
-DTSTART:20260708T170000Z
-SUMMARY:A Closer Look: SunBlock
-UID:a466171c-6adf-41d1-a9cb-8c266bd657de@a466.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/08/a-closer-look-sunblock.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Applied Science Hub\, Aquatics\n\nJuly 22\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260722T173000Z
-DTSTART:20260722T170000Z
-SUMMARY:A Closer Look: Dylan Fraser Fish Lab
-UID:5b6403b4-b8f1-42a3-803a-bcd0769743c0@5b64.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/22/a-closer-look-fish-lab.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
-DTEND:20260930T193000Z
-DTSTART:20260930T173000Z
-SUMMARY:Confronting Our Past
-UID:fd621e12-077e-46cb-a2c5-26d033b4e1a3@fd62.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJuly 16\, 2026\, 10 a.m. - 6 p.m.
-DTEND:20260716T220000Z
-DTSTART:20260716T140000Z
-SUMMARY:AI Use in Public Health and Healthcare in Canada
-UID:971844c8-e95b-40ad-9ace-b1d0d9c87f81@9718.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/16/ai-use-in-healthcare.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nJuly 15\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260715T173000Z
 DTSTART:20260715T170000Z
 SUMMARY:A Closer Look: Wind Tunnel Lab
-UID:a4a1fd25-31f8-4fd7-b413-1ece1902ecee@a4a1.org
+UID:379e13dd-967a-4920-9379-2a9a86fc121f@379e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/15/a-closer-look-wind-tunnel.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +14,7 @@ DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260805T173000Z
 DTSTART:20260805T170000Z
 SUMMARY:A Closer Look: The Solar Simulator
-UID:b738ecf5-0bbe-4591-ab63-12c0b83db6a6@b738.org
+UID:7f74b107-650e-4506-8ac9-8b9e4eeb7254@7f74.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +22,39 @@ DESCRIPTION:for Mitacs Globalink Research Interns at Concordia University \n\nJu
 DTEND:20260623T190000Z
 DTSTART:20260623T170000Z
 SUMMARY:The Research Rendez Vous
-UID:cbac3b2d-91c3-4797-b9e4-53213de43856@cbac.org
+UID:a7af9947-0372-47aa-8e40-5f43a77c9f81@a7af.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/06/23/research-rendez-vous.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
+DTEND:20260930T193000Z
+DTSTART:20260930T173000Z
+SUMMARY:Confronting Our Past
+UID:b564913b-d474-4e8a-8db6-3158d280577b@b564.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 8\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260708T173000Z
+DTSTART:20260708T170000Z
+SUMMARY:A Closer Look: SunBlock
+UID:f95c5490-b57b-4eb8-8cb3-29eca54d155f@f95c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/08/a-closer-look-sunblock.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Applied Science Hub\, Aquatics\n\nJuly 22\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260722T173000Z
+DTSTART:20260722T170000Z
+SUMMARY:A Closer Look: Dylan Fraser Fish Lab
+UID:6bdd24c4-fc5a-4a3a-a18a-12c07b6e488e@6bdd.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/22/a-closer-look-fish-lab.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 16\, 2026\, 10 a.m. - 6 p.m.
+DTEND:20260716T220000Z
+DTSTART:20260716T140000Z
+SUMMARY:AI Use in Public Health and Healthcare in Canada
+UID:586c0754-2606-4d3b-863d-281f5f9c73ef@586c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/16/ai-use-in-healthcare.html
 END:VEVENT
 END:VCALENDAR
