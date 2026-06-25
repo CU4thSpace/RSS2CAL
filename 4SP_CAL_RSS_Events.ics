@@ -2,27 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Applied Science Hub\, Aquatics\n\nJuly 22\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260722T173000Z
-DTSTART:20260722T170000Z
-SUMMARY:A Closer Look: Dylan Fraser Fish Lab
-UID:831e0357-6521-40d6-9228-cb5c8fbeb6b6@831e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/22/a-closer-look-fish-lab.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nJuly 16\, 2026\, 10 a.m. - 6 p.m.
 DTEND:20260716T220000Z
 DTSTART:20260716T140000Z
 SUMMARY:AI Use in Public Health and Healthcare in Canada
-UID:34f58f55-d08f-4777-9593-2a0c65360660@34f5.org
+UID:cc60488a-1267-4247-823f-97aba2342057@cc60.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/16/ai-use-in-healthcare.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Applied Science Hub\, Aquatics\n\nJuly 22\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260722T173000Z
+DTSTART:20260722T170000Z
+SUMMARY:A Closer Look: Dylan Fraser Fish Lab
+UID:98f5d822-66e6-4282-bee0-3dbefefe4b2c@98f5.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/22/a-closer-look-fish-lab.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 8\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260708T173000Z
+DTSTART:20260708T170000Z
+SUMMARY:A Closer Look: SunBlock
+UID:41d093c7-f7ae-457f-9233-b6205e0a7766@41d0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/08/a-closer-look-sunblock.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260805T173000Z
 DTSTART:20260805T170000Z
 SUMMARY:A Closer Look: The Solar Simulator
-UID:efbdd1e7-5781-45e1-abd5-d6e66fb567c1@efbd.org
+UID:7ded0b23-f954-4318-b0bb-fad30e2ffea3@7ded.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,23 +38,15 @@ DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 20
 DTEND:20260930T193000Z
 DTSTART:20260930T173000Z
 SUMMARY:Confronting Our Past
-UID:fad64019-398e-44bd-91f7-b685abee4999@fad6.org
+UID:3f86f42b-f6aa-4b86-af2e-ab5c708b25eb@3f86.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJuly 8\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260708T173000Z
-DTSTART:20260708T170000Z
-SUMMARY:A Closer Look: SunBlock
-UID:7a4a7400-f923-4e24-a909-ef788c1df11d@7a4a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/08/a-closer-look-sunblock.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nJuly 15\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260715T173000Z
 DTSTART:20260715T170000Z
 SUMMARY:A Closer Look: Wind Tunnel Lab
-UID:c79e36de-f6fa-4b1f-b044-8190c2e91cf0@c79e.org
+UID:d700d5dd-92fa-4c61-9f32-e2371f600f51@d700.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/15/a-closer-look-wind-tunnel.html
 END:VEVENT
 END:VCALENDAR
