@@ -2,35 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260805T173000Z
-DTSTART:20260805T170000Z
-SUMMARY:A Closer Look: The Solar Simulator
-UID:89ae62fa-6e62-44a5-ac08-8989a5999300@89ae.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Applied Science Hub\, Aquatics\n\nJuly 22\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260722T173000Z
-DTSTART:20260722T170000Z
-SUMMARY:A Closer Look: Dylan Fraser Fish Lab
-UID:0b45a824-aaa1-4fb3-aa34-982c4685212f@0b45.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/22/a-closer-look-fish-lab.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nJuly 10\, 2026\, 12 p.m. - 1 p.m.
-DTEND:20260710T170000Z
-DTSTART:20260710T160000Z
-SUMMARY:Talking Shop: Building Community and Culture
-UID:e63a7b5e-2545-488b-b656-53a24fe43843@e63a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/10/talking-shop.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nJuly 16\, 2026\, 10 a.m. - 6 p.m.
 DTEND:20260716T220000Z
 DTSTART:20260716T140000Z
 SUMMARY:AI Use in Public Health and Healthcare in Canada
-UID:04a7a906-894c-404a-aea0-07d7be59c5db@04a7.org
+UID:366d6d42-8926-4705-9170-3c01a89c2644@366d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/16/ai-use-in-healthcare.html
 END:VEVENT
 BEGIN:VEVENT
@@ -38,15 +14,39 @@ DESCRIPTION:\nJuly 8\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260708T173000Z
 DTSTART:20260708T170000Z
 SUMMARY:A Closer Look: SunBlock
-UID:ef716cae-f609-482e-8a2e-767d04f75e4f@ef71.org
+UID:7e6d3351-49ee-42a5-8e79-7147f1af4292@7e6d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/08/a-closer-look-sunblock.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nJuly 10\, 2026\, 12 p.m. - 1 p.m.
+DTEND:20260710T170000Z
+DTSTART:20260710T160000Z
+SUMMARY:Talking Shop: Building Community and Culture
+UID:3c346eca-ad28-405e-8d1a-b7998962d5ec@3c34.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/10/talking-shop.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260805T173000Z
+DTSTART:20260805T170000Z
+SUMMARY:A Closer Look: The Solar Simulator
+UID:3c566af9-2eff-41b9-b905-c7e3fcf226f1@3c56.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Applied Science Hub\, Aquatics\n\nJuly 22\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260722T173000Z
+DTSTART:20260722T170000Z
+SUMMARY:A Closer Look: Dylan Fraser Fish Lab
+UID:2ca2bee9-2cbd-4b41-8feb-37ae8711d859@2ca2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/22/a-closer-look-fish-lab.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
 DTEND:20260930T193000Z
 DTSTART:20260930T173000Z
 SUMMARY:Confronting Our Past
-UID:73670c78-4516-4931-a978-6b9852c29555@7367.org
+UID:1e2796b1-0ea4-4e9f-b335-d02e368e6953@1e27.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +54,7 @@ DESCRIPTION:\nJuly 15\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260715T173000Z
 DTSTART:20260715T170000Z
 SUMMARY:A Closer Look: Wind Tunnel Lab
-UID:0242983d-14f4-4b3c-9f61-61381e0620ea@0242.org
+UID:252a09ee-f40a-4f4a-8ce2-3759f2fd6eb0@252a.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/15/a-closer-look-wind-tunnel.html
 END:VEVENT
 END:VCALENDAR
