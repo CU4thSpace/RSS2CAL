@@ -2,27 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
-DTEND:20260930T193000Z
-DTSTART:20260930T173000Z
-SUMMARY:Confronting Our Past
-UID:09f63873-f7eb-4e5c-bcfa-40b5c45585d1@09f6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:10 Years of Transformation\n\nJuly 23\, 2026\, 4 p.m. - 6 p.m.
 DTEND:20260723T220000Z
 DTSTART:20260723T200000Z
 SUMMARY:Alan Shepard Residency Vernissage
-UID:3165905f-7f6e-4fd8-92ca-1aa7cae5dbc7@3165.org
+UID:42bc411a-91d9-422b-9cf6-e953bdcd3721@42bc.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/23/shepard-residency-verni26.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Electrocon \n\nAugust 6\, 2026\, 11 a.m. - 5:30 p.m.
+DTEND:20260806T213000Z
+DTSTART:20260806T150000Z
+SUMMARY:Music Week à Montréal
+UID:672b80e6-96c5-4d7a-86a2-26b5b072b0f7@672b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/06/music-week-2.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Applied Science Hub\, Aquatics\n\nJuly 22\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260722T173000Z
 DTSTART:20260722T170000Z
 SUMMARY:A Closer Look: Dylan Fraser Fish Lab
-UID:562a9b4c-3058-4c44-866f-8a0a62c2c1f7@562a.org
+UID:e4ec502c-3c5f-452a-891e-0168b64dad11@e4ec.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/22/a-closer-look-fish-lab.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,7 +30,23 @@ DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260805T173000Z
 DTSTART:20260805T170000Z
 SUMMARY:A Closer Look: The Solar Simulator
-UID:bc3bbc6e-d6c8-4abc-a2cc-32b7befd5b9f@bc3b.org
+UID:3f1bb83b-c89c-4937-b5b6-718958ee0072@3f1b.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Electrocon \n\nAugust 4\, 2026\, 10 a.m. - 5:30 p.m.
+DTEND:20260804T213000Z
+DTSTART:20260804T140000Z
+SUMMARY:Music Week à Montréal
+UID:329515fb-a632-4295-bddf-26eaabeab9cb@3295.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/04/music-week.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
+DTEND:20260930T193000Z
+DTSTART:20260930T173000Z
+SUMMARY:Confronting Our Past
+UID:e06a773c-2600-47eb-af2c-80a2253daa27@e06a.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 END:VCALENDAR
