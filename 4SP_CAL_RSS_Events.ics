@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260805T173000Z
+DTSTART:20260805T170000Z
+SUMMARY:A Closer Look: The Solar Simulator
+UID:85a372d4-bd03-4aa3-b065-4f3f5cb094cd@85a3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:What does self-sustainability look like within the music industry?\n\nAugust 4\, 2026\, 10 a.m. - 5:30 p.m.
 DTEND:20260804T213000Z
 DTSTART:20260804T140000Z
 SUMMARY:Elevated Academy
-UID:9aab64e6-3094-4c80-b653-9b9fdefcefce@9aab.org
+UID:28b2e977-4367-423d-ad4c-e6f67634f19b@28b2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/04/music-week.html
 END:VEVENT
 BEGIN:VEVENT
@@ -14,39 +22,31 @@ DESCRIPTION:Applied Science Hub\, Aquatics\n\nJuly 22\, 2026\, 1 p.m. - 1:30 p.m
 DTEND:20260722T173000Z
 DTSTART:20260722T170000Z
 SUMMARY:A Closer Look: Dylan Fraser Fish Lab
-UID:517f0383-f06e-460a-ad35-3d33cf11874e@517f.org
+UID:cb38173f-67ae-46c0-a5a7-848e0ec8c37f@cb38.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/22/a-closer-look-fish-lab.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260805T173000Z
-DTSTART:20260805T170000Z
-SUMMARY:A Closer Look: The Solar Simulator
-UID:99c3f777-6a83-4fa0-b381-a8906cac1363@99c3.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
-DTEND:20260930T193000Z
-DTSTART:20260930T173000Z
-SUMMARY:Confronting Our Past
-UID:4e5164a2-c857-4ee9-8664-b0b375c3fd05@4e51.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:10 Years of Transformation\n\nJuly 23\, 2026\, 4 p.m. - 6 p.m.
 DTEND:20260723T220000Z
 DTSTART:20260723T200000Z
 SUMMARY:Alan Shepard Residency Vernissage
-UID:6b6c692a-4a9d-40f8-b617-a8af97504c80@6b6c.org
+UID:fa0880ae-4afe-4f87-bb30-05b1db556866@fa08.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/23/shepard-residency-verni26.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
+DTEND:20260930T193000Z
+DTSTART:20260930T173000Z
+SUMMARY:Confronting Our Past
+UID:8f68f2b1-2bce-46f1-be05-8cf211b333e7@8f68.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discussion Series as part of Montreal Week á Montrèal\n\nAugust 6\, 2026\, 11 a.m. - 5:30 p.m.
 DTEND:20260806T213000Z
 DTSTART:20260806T150000Z
 SUMMARY:Label 101 and the Science of Self
-UID:c3dd912b-6d73-4d8d-b39f-4138d4f016af@c3dd.org
+UID:8b41404d-08e7-4c9f-8530-0a528da4127c@8b41.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/06/music-week-2.html
 END:VEVENT
 END:VCALENDAR
