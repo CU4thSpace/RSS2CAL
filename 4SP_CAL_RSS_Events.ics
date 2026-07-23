@@ -2,51 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Discussion Series as part of Montreal Week á Montrèal\n\nAugust 6\, 2026\, 11 a.m. - 5:30 p.m.
-DTEND:20260806T213000Z
-DTSTART:20260806T150000Z
-SUMMARY:Label 101 and the Science of Self
-UID:d6bab2da-292d-4c32-95c1-5ea1edbd9131@d6ba.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/06/music-week-2.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
-DTEND:20260930T193000Z
-DTSTART:20260930T173000Z
-SUMMARY:Confronting Our Past
-UID:e4542436-2caf-43aa-a75f-3dd624417f14@e454.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260805T173000Z
-DTSTART:20260805T170000Z
-SUMMARY:A Closer Look: The Solar Simulator
-UID:5cadac7e-684d-4f9a-8eb3-808cd106d296@5cad.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:What does self-sustainability look like within the music industry?\n\nAugust 4\, 2026\, 10 a.m. - 5:30 p.m.
 DTEND:20260804T213000Z
 DTSTART:20260804T140000Z
 SUMMARY:Elevated Academy
-UID:5a7304e9-38e7-4d34-a35a-b1a38da794ef@5a73.org
+UID:06adb19b-82e7-45be-a542-078b7c0fc15e@06ad.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/04/music-week.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:10 Years of Transformation\n\nJuly 23\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20260723T220000Z
-DTSTART:20260723T200000Z
-SUMMARY:Alan Shepard Residency Vernissage
-UID:8bb4400e-66b1-4e5a-b53f-2c7381397648@8bb4.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/23/shepard-residency-verni26.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
 DTEND:20260910T160000Z
 DTSTART:20260910T150000Z
 SUMMARY:Grad School Myths\, Busted
-UID:bed385bb-7eb5-40e7-afe4-cc405767026a@bed3.org
+UID:05f84563-d88f-4a29-a901-9624298f1021@05f8.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +22,39 @@ DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecem
 DTEND:20261210T180000Z
 DTSTART:20261210T160000Z
 SUMMARY:Safe or Secure?
-UID:f81c6098-0c9c-4457-bc67-748d44d17f85@f81c.org
+UID:2df86556-fb1f-4054-9b50-7c21e33d39de@2df8.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:10 Years of Transformation\n\nJuly 23\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20260723T220000Z
+DTSTART:20260723T200000Z
+SUMMARY:Alan Shepard Residency Vernissage
+UID:1bd00a27-8277-4018-87e9-d99998467eed@1bd0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/23/shepard-residency-verni26.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
+DTEND:20260930T193000Z
+DTSTART:20260930T173000Z
+SUMMARY:Confronting Our Past
+UID:92ef58c0-1663-4259-95c7-c153793d8686@92ef.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260805T173000Z
+DTSTART:20260805T170000Z
+SUMMARY:A Closer Look: The Solar Simulator
+UID:d8b276ee-f5d0-43b2-a5ea-9d7c776b449e@d8b2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discussion Series as part of Montreal Week á Montrèal\n\nAugust 6\, 2026\, 11 a.m. - 5:30 p.m.
+DTEND:20260806T213000Z
+DTSTART:20260806T150000Z
+SUMMARY:Label 101 and the Science of Self
+UID:4e1b1689-5211-4df7-a550-bfda0ccbfb08@4e1b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/06/music-week-2.html
 END:VEVENT
 END:VCALENDAR
