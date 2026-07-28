@@ -2,51 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
-DTEND:20261210T180000Z
-DTSTART:20261210T160000Z
-SUMMARY:Safe or Secure?
-UID:d293173b-8a54-43a6-95df-06e0a02c0fd3@d293.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260805T173000Z
-DTSTART:20260805T170000Z
-SUMMARY:A Closer Look: The Solar Simulator
-UID:e09571f1-d570-4721-b6d9-7932da9dfea9@e095.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
-DTEND:20260930T193000Z
-DTSTART:20260930T173000Z
-SUMMARY:Confronting Our Past
-UID:3421ddec-5371-43ea-8b05-a874c980d33c@3421.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:What does self-sustainability look like within the music industry?\n\nAugust 4\, 2026\, 10 a.m. - 5:30 p.m.
-DTEND:20260804T213000Z
-DTSTART:20260804T140000Z
-SUMMARY:Elevated Academy
-UID:978dd66e-a047-4f40-af59-2b0c93315d32@978d.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/04/music-week.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: Experimental Science Journalism Studies\n\nJuly 30\, 2026\, 10 a.m. - 6 p.m.
-DTEND:20260730T220000Z
-DTSTART:20260730T140000Z
-SUMMARY:Working Sessions: Projected Futures X Volt-Age
-UID:52d30d48-a609-47a6-9e6c-2f3563f31ed8@52d3.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/30/projected-futures26.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
 DTEND:20260910T160000Z
 DTSTART:20260910T150000Z
 SUMMARY:Grad School Myths\, Busted
-UID:4f171abb-e32b-4e4c-b212-dfe948c3eae1@4f17.org
+UID:e8323c79-5795-47ac-9a69-8b9e566025ff@e832.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +14,47 @@ DESCRIPTION:Discussion Series as part of Montreal Week á Montrèal\n\nAugust 6\
 DTEND:20260806T213000Z
 DTSTART:20260806T150000Z
 SUMMARY:Label 101 and the Science of Self
-UID:06ff075c-fbf9-48c0-a061-1ca3eba160c3@06ff.org
+UID:440f91c1-3f9a-46c0-821e-b5ef26ffd830@440f.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/06/music-week-2.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: Experimental Science Journalism Studies\n\nJuly 30\, 2026\, 10 a.m. - 6 p.m.
+DTEND:20260730T220000Z
+DTSTART:20260730T140000Z
+SUMMARY:Working Sessions: Projected Futures X Volt-Age
+UID:04663c70-ec01-42ab-ab09-953446e80f8a@0466.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/30/projected-futures26.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
+DTEND:20261210T180000Z
+DTSTART:20261210T160000Z
+SUMMARY:Safe or Secure?
+UID:1ee506b3-b2b2-4e68-9ff9-c1d5b80cc596@1ee5.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:What does self-sustainability look like within the music industry?\n\nAugust 4\, 2026\, 10 a.m. - 5:30 p.m.
+DTEND:20260804T213000Z
+DTSTART:20260804T140000Z
+SUMMARY:Elevated Academy
+UID:53970a48-0aa3-4297-8480-25a1f984ced8@5397.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/04/music-week.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260805T173000Z
+DTSTART:20260805T170000Z
+SUMMARY:A Closer Look: The Solar Simulator
+UID:0f0ccbdc-d1f9-409f-96aa-835335ac08c5@0f0c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
+DTEND:20260930T193000Z
+DTSTART:20260930T173000Z
+SUMMARY:Confronting Our Past
+UID:9ec39030-c035-4782-8ead-a90d4751c6b2@9ec3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 END:VCALENDAR
