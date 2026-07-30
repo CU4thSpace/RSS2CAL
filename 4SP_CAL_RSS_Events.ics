@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260805T173000Z
-DTSTART:20260805T170000Z
-SUMMARY:A Closer Look: The Solar Simulator
-UID:e2b4c12e-b618-4bde-9b52-005999a11587@e2b4.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
+DESCRIPTION: Experimental Science Journalism Studies\n\nJuly 30\, 2026\, 10 a.m. - 6 p.m.
+DTEND:20260730T220000Z
+DTSTART:20260730T140000Z
+SUMMARY:Working Sessions: Projected Futures X Volt-Age
+UID:a22be7ab-30fa-498f-aabe-12b02e2891a5@a22b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/30/projected-futures26.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
 DTEND:20260930T193000Z
 DTSTART:20260930T173000Z
 SUMMARY:Confronting Our Past
-UID:f8c0b06c-67e0-4ef2-a57c-45038f9d66c6@f8c0.org
+UID:164d4fc3-9f80-4cf0-bffa-b735d80edbab@164d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 BEGIN:VEVENT
@@ -22,39 +22,39 @@ DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m
 DTEND:20260910T160000Z
 DTSTART:20260910T150000Z
 SUMMARY:Grad School Myths\, Busted
-UID:94b56907-b019-41d6-975f-454819f2a128@94b5.org
+UID:1d9493f8-288e-4444-8b2e-929e31a81a82@1d94.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260805T173000Z
+DTSTART:20260805T170000Z
+SUMMARY:A Closer Look: The Solar Simulator
+UID:9b1d0169-11f3-4808-b77e-924d5ae568c2@9b1d.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discussion Series as part of Montreal Week á Montrèal\n\nAugust 6\, 2026\, 11 a.m. - 5:30 p.m.
 DTEND:20260806T213000Z
 DTSTART:20260806T150000Z
 SUMMARY:Label 101 and the Science of Self
-UID:2e8a36b6-c476-4011-ba5a-ecbb64cb5705@2e8a.org
+UID:a2e0e016-6679-4eb6-8205-30d36764e46d@a2e0.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/06/music-week-2.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION: Experimental Science Journalism Studies\n\nJuly 30\, 2026\, 10 a.m. - 6 p.m.
-DTEND:20260730T220000Z
-DTSTART:20260730T140000Z
-SUMMARY:Working Sessions: Projected Futures X Volt-Age
-UID:f5b6f303-ee72-4839-8898-c18d3619c5b0@f5b6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/30/projected-futures26.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:What does self-sustainability look like within the music industry?\n\nAugust 4\, 2026\, 10 a.m. - 5:30 p.m.
-DTEND:20260804T213000Z
-DTSTART:20260804T140000Z
-SUMMARY:Elevated Academy
-UID:049860b5-94f5-4233-ad99-31547af8817a@0498.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/04/music-week.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
 DTEND:20261210T180000Z
 DTSTART:20261210T160000Z
 SUMMARY:Safe or Secure?
-UID:6fb1990c-5ec2-411d-b899-46f1d04efae7@6fb1.org
+UID:037f3793-8a40-4f5c-a471-72014349e491@037f.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:What does self-sustainability look like within the music industry?\n\nAugust 4\, 2026\, 10 a.m. - 5:30 p.m.
+DTEND:20260804T213000Z
+DTSTART:20260804T140000Z
+SUMMARY:Elevated Academy
+UID:5de15e97-0348-49f4-9ff3-c70bc588f3fa@5de1.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/04/music-week.html
 END:VEVENT
 END:VCALENDAR
