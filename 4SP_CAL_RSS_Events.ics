@@ -2,59 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
-DTEND:20261210T180000Z
-DTSTART:20261210T160000Z
-SUMMARY:Safe or Secure?
-UID:7b667d71-1ffc-4cf4-b463-cdbeaadf1b9d@7b66.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260805T173000Z
-DTSTART:20260805T170000Z
-SUMMARY:A Closer Look: The Solar Simulator
-UID:f3d6ac11-c3ed-4f04-a26a-7d4ca7109aab@f3d6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20260910T160000Z
-DTSTART:20260910T150000Z
-SUMMARY:Grad School Myths\, Busted
-UID:855d5ab4-f639-4f1f-b1f1-5abe03ab676c@855d.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Discussion Series as part of Montreal Week á Montrèal\n\nAugust 6\, 2026\, 11 a.m. - 5:30 p.m.
 DTEND:20260806T213000Z
 DTSTART:20260806T150000Z
 SUMMARY:Label 101 and the Science of Self
-UID:8f1f21bf-a98a-408e-a1e7-83fe000480f4@8f1f.org
+UID:5688a085-dbe1-48b5-9b4c-150d819d4b73@5688.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/06/music-week-2.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
-DTEND:20260930T193000Z
-DTSTART:20260930T173000Z
-SUMMARY:Confronting Our Past
-UID:b86a252a-6377-45f5-bf9c-7d67a030d5f2@b86a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION: Experimental Science Journalism Studies\n\nJuly 31\, 2026\, 10 a.m. - 6 p.m.
 DTEND:20260731T220000Z
 DTSTART:20260731T140000Z
 SUMMARY:Working Sessions: Projected Futures X Volt-Age
-UID:4971fe03-40b6-4fe8-aded-6dada4c39865@4971.org
+UID:f18dd0df-331a-457f-a640-735ea5270e77@f18d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/07/30/projected-futures26.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
+DTEND:20260930T193000Z
+DTSTART:20260930T173000Z
+SUMMARY:Confronting Our Past
+UID:7a831393-4da5-498b-8526-1d489d68257f@7a83.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:What does self-sustainability look like within the music industry?\n\nAugust 4\, 2026\, 10 a.m. - 5:30 p.m.
 DTEND:20260804T213000Z
 DTSTART:20260804T140000Z
 SUMMARY:Elevated Academy
-UID:ade21e5a-8a9e-49ce-8ca3-50b246ebc298@ade2.org
+UID:f546db96-f329-4b6d-bb5a-22ca4de35fd9@f546.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/04/music-week.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20260910T160000Z
+DTSTART:20260910T150000Z
+SUMMARY:Grad School Myths\, Busted
+UID:7f1b3d59-941f-4390-b045-08d795176125@7f1b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260805T173000Z
+DTSTART:20260805T170000Z
+SUMMARY:A Closer Look: The Solar Simulator
+UID:dbfde6af-51f4-4433-81a3-a4f2ee3a9873@dbfd.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
+DTEND:20261210T180000Z
+DTSTART:20261210T160000Z
+SUMMARY:Safe or Secure?
+UID:553cc613-6a5f-4944-8fab-f68380e98248@553c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
 END:VEVENT
 END:VCALENDAR
