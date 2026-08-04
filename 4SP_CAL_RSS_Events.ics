@@ -2,11 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:\nSeptember 16\, 2026\, 1 p.m. - 4 p.m.
+DTEND:20260916T200000Z
+DTSTART:20260916T170000Z
+SUMMARY:Franco Fair | Franco Foire
+UID:a864afed-fcf5-4ad1-aafa-9d179c9d1280@a864.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/16/franco-foire.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Part of Music Week à Montreal \n\nAugust 4\, 2026\, 10 a.m. - 5:30 p.m.
+DTEND:20260804T213000Z
+DTSTART:20260804T140000Z
+SUMMARY:Elevated Academy
+UID:b5dcee57-dcbb-40b4-b1c4-ce395189cbe4@b5dc.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/04/music-week.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
+DTEND:20261210T180000Z
+DTSTART:20261210T160000Z
+SUMMARY:Safe or Secure?
+UID:b06172ce-690c-4d6c-ad7c-af5c88fedfc2@b061.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
 DTEND:20260930T193000Z
 DTSTART:20260930T173000Z
 SUMMARY:Confronting Our Past
-UID:3f393540-5395-4b0c-bfda-5755a15e269d@3f39.org
+UID:0968a244-8243-4762-80dd-2a1fa0ebe64a@0968.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 BEGIN:VEVENT
@@ -14,47 +38,31 @@ DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260805T173000Z
 DTSTART:20260805T170000Z
 SUMMARY:A Closer Look: The Solar Simulator
-UID:0f977a5e-45d9-484c-8355-020666cab943@0f97.org
+UID:82d768d6-f497-4319-a6e4-2423090b2cfe@82d7.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nSeptember 9\, 2026\, 11 a.m. - 2 p.m.
-DTEND:20260909T180000Z
-DTSTART:20260909T150000Z
-SUMMARY:Student Food Security Street Fair
-UID:2c230f68-e148-4ff9-ab06-80d3d45e1ec5@2c23.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
 DTEND:20260910T160000Z
 DTSTART:20260910T150000Z
 SUMMARY:Grad School Myths\, Busted
-UID:052deceb-5e88-45b7-bf6c-92eb46d4ccad@052d.org
+UID:57a17162-dd79-4acf-83b1-8f68e3eaf9f2@57a1.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
-DTEND:20261210T180000Z
-DTSTART:20261210T160000Z
-SUMMARY:Safe or Secure?
-UID:b1d77b82-3c4b-4775-855e-612a7c9bf639@b1d7.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discussion Series as part of Montreal Week à Montrèal\n\nAugust 6\, 2026\, 11 a.m. - 5 p.m.
 DTEND:20260806T210000Z
 DTSTART:20260806T150000Z
 SUMMARY:Label 101 and the Science of Self
-UID:4021483b-8f30-456e-a653-7f8508594e0e@4021.org
+UID:addda640-dad5-4c31-a9c7-3a4847151e8b@addd.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/06/music-week-2.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Part of Music Week à Montreal \n\nAugust 4\, 2026\, 10 a.m. - 5:30 p.m.
-DTEND:20260804T213000Z
-DTSTART:20260804T140000Z
-SUMMARY:Elevated Academy
-UID:e575968e-db0a-46fe-8c5b-d3324da23aaa@e575.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/04/music-week.html
+DESCRIPTION:\nSeptember 9\, 2026\, 11 a.m. - 2 p.m.
+DTEND:20260909T180000Z
+DTSTART:20260909T150000Z
+SUMMARY:Student Food Security Street Fair
+UID:f2734462-9207-45b5-9363-474c5b037946@f273.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html
 END:VEVENT
 END:VCALENDAR
