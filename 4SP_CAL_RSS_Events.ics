@@ -2,59 +2,67 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
-DTEND:20261210T180000Z
-DTSTART:20261210T160000Z
-SUMMARY:Safe or Secure?
-UID:04843642-4598-49ec-92f7-ffc64eb48842@0484.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
+DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20260910T160000Z
+DTSTART:20260910T150000Z
+SUMMARY:Grad School Myths\, Busted
+UID:559701d4-ea92-407d-997a-90acca57c803@5597.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260805T173000Z
 DTSTART:20260805T170000Z
 SUMMARY:A Closer Look: The Solar Simulator
-UID:8390fede-37f9-4558-bd93-2120d3ec3275@8390.org
+UID:3f0921b5-71ac-41e8-a8cb-b4fc132e6427@3f09.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Part of Music Week à Montreal \n\nAugust 4\, 2026\, 10 a.m. - 5:30 p.m.
+DTEND:20260804T213000Z
+DTSTART:20260804T140000Z
+SUMMARY:Elevated Academy
+UID:40b8624c-c2cf-4609-b55e-238dd9514132@40b8.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/04/music-week.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
 DTEND:20260930T193000Z
 DTSTART:20260930T173000Z
 SUMMARY:Confronting Our Past
-UID:d086d2e5-8e03-42f2-a227-7fb620115456@d086.org
+UID:ddf0bf1b-96ab-415d-a68d-f6a0245c36a1@ddf0.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20260910T160000Z
-DTSTART:20260910T150000Z
-SUMMARY:Grad School Myths\, Busted
-UID:58815619-189d-45d7-9711-cccb06d5c034@5881.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Discussion Series as part of Montreal Week à Montrèal\n\nAugust 6\, 2026\, 11 a.m. - 5 p.m.
-DTEND:20260806T210000Z
-DTSTART:20260806T150000Z
-SUMMARY:Label 101 and the Science of Self
-UID:64c975f8-016b-43ca-a329-50026b32f156@64c9.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/06/music-week-2.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nSeptember 9\, 2026\, 11 a.m. - 2 p.m.
 DTEND:20260909T180000Z
 DTSTART:20260909T150000Z
 SUMMARY:Student Food Security Street Fair
-UID:582d969c-00a9-4800-b82d-198cc68952aa@582d.org
+UID:5d917cbd-74fe-45ec-9446-d48fbfa4ba64@5d91.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
+DTEND:20261210T180000Z
+DTSTART:20261210T160000Z
+SUMMARY:Safe or Secure?
+UID:2130d50c-6b91-48fa-8fe2-5f33bd3ce21c@2130.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nSeptember 16\, 2026\, 1 p.m. - 4 p.m.
 DTEND:20260916T200000Z
 DTSTART:20260916T170000Z
 SUMMARY:Franco Fair | Franco Foire
-UID:82327021-518e-48da-aa5f-cd6873b73df9@8232.org
+UID:ca90a625-2bcd-41f2-9e2d-3dd5b82752ad@ca90.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/16/franco-foire.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discussion Series as part of Montreal Week à Montrèal\n\nAugust 6\, 2026\, 11 a.m. - 5 p.m.
+DTEND:20260806T210000Z
+DTSTART:20260806T150000Z
+SUMMARY:Label 101 and the Science of Self
+UID:0012d47d-12e5-4ceb-a21c-745faf864b06@0012.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/06/music-week-2.html
 END:VEVENT
 END:VCALENDAR
