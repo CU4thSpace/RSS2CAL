@@ -2,59 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Environmental Chamber\n\nAugust 5\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260805T173000Z
-DTSTART:20260805T170000Z
-SUMMARY:A Closer Look: The Solar Simulator
-UID:869b43aa-2bd3-4f28-a539-09b99d5d414b@869b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/05/a-closer-look-solar-simulator.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:How Concordia students are tackling food insecurity\n\nSeptember 9\, 2026\, 11 a.m. - 2 p.m.
-DTEND:20260909T180000Z
-DTSTART:20260909T150000Z
-SUMMARY:Student Food Security: A Street Fair
-UID:60cf499a-9ee1-47fd-9ea7-c34465c0978b@60cf.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html
+DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
+DTEND:20261210T180000Z
+DTSTART:20261210T160000Z
+SUMMARY:Safe or Secure?
+UID:be1b24d7-b41a-420b-a4e1-ae54a456a142@be1b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
 DTEND:20260930T193000Z
 DTSTART:20260930T173000Z
 SUMMARY:Confronting Our Past
-UID:0eef0b71-85b7-4ff1-a9e0-2b786b927e8f@0eef.org
+UID:c62d3063-3e8b-4769-99d4-6f0e0558b020@c62d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20260910T160000Z
-DTSTART:20260910T150000Z
-SUMMARY:Grad School Myths\, Busted
-UID:66904f22-19d1-4d3b-ba52-8666604fd5fa@6690.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discussion Series as part of Music Week à Montrèal\n\nAugust 6\, 2026\, 11 a.m. - 5 p.m.
 DTEND:20260806T210000Z
 DTSTART:20260806T150000Z
 SUMMARY:Label 101 and the Science of Self
-UID:ef1c21bb-e4a7-4311-ae8e-0376548a2e48@ef1c.org
+UID:c5eb7129-b742-4a7a-a08c-b312912cb6d1@c5eb.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/08/06/music-week-2.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:How Concordia students are tackling food insecurity\n\nSeptember 9\, 2026\, 11 a.m. - 2 p.m.
+DTEND:20260909T180000Z
+DTSTART:20260909T150000Z
+SUMMARY:Student Food Security: A Street Fair
+UID:db43d336-460f-4d05-b341-30fe0c0ac6da@db43.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20260910T160000Z
+DTSTART:20260910T150000Z
+SUMMARY:Grad School Myths\, Busted
+UID:df7025d6-f032-424e-ad4a-aa03e281cf7a@df70.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nSeptember 16\, 2026\, 1 p.m. - 4 p.m.
 DTEND:20260916T200000Z
 DTSTART:20260916T170000Z
 SUMMARY:Franco Fair | Franco Foire
-UID:7b2baf86-e077-4a5a-be41-e10d2c944e1b@7b2b.org
+UID:9b0d270d-763b-424d-9cbb-39bee9ee5bbc@9b0d.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/16/franco-foire.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
-DTEND:20261210T180000Z
-DTSTART:20261210T160000Z
-SUMMARY:Safe or Secure?
-UID:4bc9f618-e23c-4c50-ae66-e9bcee37893f@4bc9.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
 END:VEVENT
 END:VCALENDAR
