@@ -2,43 +2,35 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20260910T160000Z
-DTSTART:20260910T150000Z
-SUMMARY:Grad School Myths\, Busted
-UID:f91420b3-e677-4545-8b00-bb1c501d903a@f914.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
+DESCRIPTION:How Concordia students are tackling food insecurity\n\nSeptember 9\, 2026\, 11 a.m. - 2 p.m.
+DTEND:20260909T180000Z
+DTSTART:20260909T150000Z
+SUMMARY:Student Food Security: A Street Fair
+UID:150e41e3-08ff-4a45-a291-2c394279879f@150e.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Everything related to French at Concordia\n\nSeptember 16\, 2026\, 1 p.m. - 4 p.m.
 DTEND:20260916T200000Z
 DTSTART:20260916T170000Z
 SUMMARY:Franco Fair | Franco Foire
-UID:50568c9c-de8a-4fb9-97ff-1e4a04ffbcc6@5056.org
+UID:d163f3e8-0d79-4e87-8078-fdc153a68bfb@d163.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/16/franco-foire.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:How Concordia students are tackling food insecurity\n\nSeptember 9\, 2026\, 11 a.m. - 2 p.m.
-DTEND:20260909T180000Z
-DTSTART:20260909T150000Z
-SUMMARY:Student Food Security: A Street Fair
-UID:137fbc41-24ee-4d34-823e-46edadbb9d61@137f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
-DTEND:20261210T180000Z
-DTSTART:20261210T160000Z
-SUMMARY:Safe or Secure?
-UID:cd797f26-b159-4126-a316-84b4ea321fec@cd79.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
+DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20260910T160000Z
+DTSTART:20260910T150000Z
+SUMMARY:Grad School Myths\, Busted
+UID:6af98ffe-a6a8-45e6-82db-0cb13eac8e45@6af9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover Concordia postdoctoral research\, five minutes at a time\nSeptember 24\, 2026\, 10:30 a.m. - 1 p.m.
 DTEND:20260924T170000Z
 DTSTART:20260924T143000Z
 SUMMARY:5 Minute Research Talks (5MRT) Postdoctoral Showcase
-UID:7d7ffae1-f4f9-4cfb-9fc3-092ce8394bbb@7d7f.org
+UID:34f8912c-9f90-4837-8f27-986cfe59c530@34f8.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/5mrt-postdoctoral-showcase.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,7 +38,15 @@ DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 20
 DTEND:20260930T193000Z
 DTSTART:20260930T173000Z
 SUMMARY:Confronting Our Past
-UID:a3f6d04e-f38a-47bd-b899-909814b1209b@a3f6.org
+UID:4d9ff61f-4eaa-42d5-98b7-19886c425cf7@4d9f.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
+DTEND:20261210T180000Z
+DTSTART:20261210T160000Z
+SUMMARY:Safe or Secure?
+UID:d835b632-b79d-447e-98ad-db5ce5b21dfa@d835.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
 END:VEVENT
 END:VCALENDAR
