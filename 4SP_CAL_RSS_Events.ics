@@ -2,27 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Discover Concordia postdoctoral research\, five minutes at a time\nSeptember 24\, 2026\, 10:30 a.m. - 1 p.m.
+DTEND:20260924T170000Z
+DTSTART:20260924T143000Z
+SUMMARY:5-Minute Research Talks (5MRT) Postdoctoral Showcase
+UID:79215083-8a05-41be-b89c-e01fef052f87@7921.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/5mrt-postdoctoral-showcase.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
+DTEND:20261210T180000Z
+DTSTART:20261210T160000Z
+SUMMARY:Safe or Secure?
+UID:2d6e70e6-830b-413e-a5f6-a5130301c5fa@2d6e.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Montréal Climate Week Flagship Event\n\nSeptember 11\, 2026\, 3 p.m. - 5:30 p.m.
+DTEND:20260911T213000Z
+DTSTART:20260911T190000Z
+SUMMARY:Climate Leadership Story Hub
+UID:bf5c0a39-cd54-4f20-8b39-0145c8ddf127@bf5c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/11/climate-leadership-story.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Concordia Game Development (CDG) x Concordia Esports Students Association\n\nSeptember 8\, 2026\, 11 a.m. - 5 p.m.
 DTEND:20260908T210000Z
 DTSTART:20260908T150000Z
 SUMMARY:Meet &amp\; Geek
-UID:ef71cbcf-e663-4370-bc82-a1278765ab84@ef71.org
+UID:bab1db7b-7bd8-44dd-a3ee-679ebbc1232c@bab1.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/08/meet-and-geek.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20260910T160000Z
-DTSTART:20260910T150000Z
-SUMMARY:Grad School Myths\, Busted
-UID:66d34447-6836-4d38-839c-b858981c3779@66d3.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
+DESCRIPTION:The Launch of the Program\n\nSeptember 3\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260903T210000Z
+DTSTART:20260903T190000Z
+SUMMARY:Future Genders Archive
+UID:a76239c2-f22c-4928-bece-c4b11ff49ab0@a762.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/03/future-genders-archives.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover French-language activities\, clubs\, resources and more\, all in one place. \n\nSeptember 16\, 2026\, 1 p.m. - 4 p.m.
 DTEND:20260916T200000Z
 DTSTART:20260916T170000Z
 SUMMARY:Franco Fair: A fair for everything French at Concordia
-UID:3883d478-3594-4c61-a799-8e15b8ec5175@3883.org
+UID:7954b201-4b0a-488e-bdfe-b78aab17d9d6@7954.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/16/franco-foire.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,47 +54,23 @@ DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 20
 DTEND:20260930T193000Z
 DTSTART:20260930T173000Z
 SUMMARY:Confronting Our Past
-UID:f85bfbd5-00d3-4f91-b7bc-122d297a351c@f85b.org
+UID:ed39c0df-453d-4ba9-8aa3-24328f60521c@ed39.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Discover Concordia postdoctoral research\, five minutes at a time\nSeptember 24\, 2026\, 10:30 a.m. - 1 p.m.
-DTEND:20260924T170000Z
-DTSTART:20260924T143000Z
-SUMMARY:5-Minute Research Talks (5MRT) Postdoctoral Showcase
-UID:41f92106-2d0e-4a5d-892d-80332e7061a9@41f9.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/5mrt-postdoctoral-showcase.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Montréal Climate Week Flagship Event\n\nSeptember 11\, 2026\, 3 p.m. - 5:30 p.m.
-DTEND:20260911T213000Z
-DTSTART:20260911T190000Z
-SUMMARY:Climate Leadership Story Hub
-UID:20a6bdd8-6c00-41e2-b1c0-f8427192d385@20a6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/11/climate-leadership-story.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Launch of the Program\n\nSeptember 3\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260903T210000Z
-DTSTART:20260903T190000Z
-SUMMARY:Future Genders Archive
-UID:105054a9-29ea-45bd-b1ee-64d9db87cace@1050.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/03/future-genders-archives.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
-DTEND:20261210T180000Z
-DTSTART:20261210T160000Z
-SUMMARY:Safe or Secure?
-UID:c0df06e1-cf45-4975-9a06-1de65d7763e1@c0df.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:How Concordia students are tackling food insecurity\n\nSeptember 9\, 2026\, 11 a.m. - 2 p.m.
 DTEND:20260909T180000Z
 DTSTART:20260909T150000Z
 SUMMARY:Student Food Security: A Street Fair
-UID:ade8c589-5f60-4892-bda2-8f1427dbdaeb@ade8.org
+UID:0ce633ce-b0f7-4dde-9879-99ca6a2c0339@0ce6.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20260910T160000Z
+DTSTART:20260910T150000Z
+SUMMARY:Grad School Myths\, Busted
+UID:3cb90ebe-5177-46ce-992d-8ac9ee4bf4c9@3cb9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
 END:VEVENT
 END:VCALENDAR
