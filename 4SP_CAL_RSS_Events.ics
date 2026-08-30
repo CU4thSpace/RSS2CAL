@@ -2,43 +2,75 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:The Launch of the Program\n\nSeptember 3\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20260903T210000Z
-DTSTART:20260903T190000Z
-SUMMARY:Future Genders Archive
-UID:b17fc0f3-c473-4d26-8c8f-6a35f80f17ee@b17f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/03/future-genders-archives.html
+DESCRIPTION:Montréal Climate Week Flagship Event\n\nSeptember 11\, 2026\, 3 p.m. - 5:30 p.m.
+DTEND:20260911T213000Z
+DTSTART:20260911T190000Z
+SUMMARY:Climate Leadership Story Hub
+UID:16a8fddb-66e3-4e55-9d54-8d0189d7f6e8@16a8.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/11/climate-leadership-story.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Le romani\, l'abénakis\, le yiddish\n\nSeptember 17\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20260917T220000Z
+DTSTART:20260917T200000Z
+SUMMARY:Langues minorisées\, langues vivantes
+UID:6b97c2ed-13c8-41b7-8e34-22c94bf0c793@6b97.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/17/langues-minorisees-langues-vivantes.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:How Concordia students are tackling food insecurity\n\nSeptember 9\, 2026\, 11 a.m. - 2 p.m.
+DTEND:20260909T180000Z
+DTSTART:20260909T150000Z
+SUMMARY:Student Food Security: A Street Fair
+UID:7bb3c8ea-7f71-49e0-a7c1-063470a2f59d@7bb3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Discover Concordia postdoctoral research\, five minutes at a time\nSeptember 24\, 2026\, 10:30 a.m. - 1 p.m.
+DTEND:20260924T170000Z
+DTSTART:20260924T143000Z
+SUMMARY:5-Minute Research Talks (5MRT) Postdoctoral Showcase
+UID:33451d43-643e-4ca5-a83c-22080758b31d@3345.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/5mrt-postdoctoral-showcase.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:September 18\, 2026\, 10:15 a.m. - 3 p.m.
+DTEND:20260918T190000Z
+DTSTART:20260918T141500Z
+SUMMARY:Life\, Edited: Genetic Engineering at Concordia
+UID:196a85d3-0ffa-4654-b0e2-faae7a4c4225@196a.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/18/life-edited.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nOctober 24\, 2026\, 1 p.m. - 2:30 p.m.
 DTEND:20261024T183000Z
 DTSTART:20261024T170000Z
 SUMMARY:Creative Writing Showcase
-UID:9d759a65-c71a-40ba-98f9-ff247e90caa4@9d75.org
+UID:59369226-3358-4c50-9f2b-c062991cbac8@5936.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/creative-writing-showcase.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Montréal Climate Week Flagship Event\n\nSeptember 11\, 2026\, 3 p.m. - 5:30 p.m.
-DTEND:20260911T213000Z
-DTSTART:20260911T190000Z
-SUMMARY:Climate Leadership Story Hub
-UID:e2e455f3-5f33-44ac-a67c-c4c5647d6b7a@e2e4.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/11/climate-leadership-story.html
+DESCRIPTION:The Launch of the Program\n\nSeptember 3\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20260903T210000Z
+DTSTART:20260903T190000Z
+SUMMARY:Future Genders Archive
+UID:fc85a51c-8d6d-406b-bfc1-4ed2696b067e@fc85.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/03/future-genders-archives.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
-DTEND:20261210T180000Z
-DTSTART:20261210T160000Z
-SUMMARY:Safe or Secure?
-UID:354aa386-f4cd-4b19-be8b-0d1aa1382638@354a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
+DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20260910T160000Z
+DTSTART:20260910T150000Z
+SUMMARY:Grad School Myths\, Busted
+UID:a6f2302e-5380-427e-b9db-b72a14d3d8b3@a6f2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:What games and persistent AI worlds reveal about being human\n\nSeptember 15\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260915T210000Z
 DTSTART:20260915T190000Z
 SUMMARY:CTRL + AI: Playing with Intelligence
-UID:34f6e0e4-41a1-43df-9319-239f1c69a2d7@34f6.org
+UID:846acd3b-c5a3-41b3-9ef2-61f93cb790b6@846a.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/15/ctrl-ai-playing-with-intelligence.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,71 +78,39 @@ DESCRIPTION:Classes\, Research\, Community and Support\n\nOctober 24\, 2026\, 11
 DTEND:20261024T160000Z
 DTSTART:20261024T150000Z
 SUMMARY:Inside Grad Life at Concordia
-UID:450faf1e-8b14-4ac6-80ff-3ecbd3fdccde@450f.org
+UID:c6242560-8556-438c-9e05-e97c7af689f0@c624.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/inside-grad-life.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Le romani\, l'abénakis\, le yiddish\n\nSeptember 17\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20260917T220000Z
-DTSTART:20260917T200000Z
-SUMMARY:Langues minorisées\, langues vivantes
-UID:9aeed92a-8538-4930-9994-02867a8a9a3f@9aee.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/17/langues-minorisees-langues-vivantes.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Discover Concordia postdoctoral research\, five minutes at a time\nSeptember 24\, 2026\, 10:30 a.m. - 1 p.m.
-DTEND:20260924T170000Z
-DTSTART:20260924T143000Z
-SUMMARY:5-Minute Research Talks (5MRT) Postdoctoral Showcase
-UID:a6de3cc7-5256-4e13-a59c-8375d99bc839@a6de.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/5mrt-postdoctoral-showcase.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
-DTEND:20260930T193000Z
-DTSTART:20260930T173000Z
-SUMMARY:Confronting Our Past
-UID:9f1ceb10-601c-492b-9bd5-efb2e0f29517@9f1c.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:How Concordia students are tackling food insecurity\n\nSeptember 9\, 2026\, 11 a.m. - 2 p.m.
-DTEND:20260909T180000Z
-DTSTART:20260909T150000Z
-SUMMARY:Student Food Security: A Street Fair
-UID:b2c86ba5-cf9c-4f04-8fe7-68e8aa4bab5d@b2c8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Concordia Game Development (CDG) x Concordia Esports Students Association\n\nSeptember 8\, 2026\, 11 a.m. - 5 p.m.
-DTEND:20260908T210000Z
-DTSTART:20260908T150000Z
-SUMMARY:Meet &amp\; Geek
-UID:b14421e4-e076-4fd7-a651-9811ececf11a@b144.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/08/meet-and-geek.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:September 18\, 2026\, 10:15 a.m. - 3 p.m.
-DTEND:20260918T190000Z
-DTSTART:20260918T141500Z
-SUMMARY:Life\, Edited: Genetic Engineering at Concordia
-UID:c5c1fdd9-3f8c-4489-90ce-0a75909a6b89@c5c1.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/18/life-edited.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Discover French-language activities\, clubs\, resources and more\, all in one place. \n\nSeptember 16\, 2026\, 1 p.m. - 4 p.m.
 DTEND:20260916T200000Z
 DTSTART:20260916T170000Z
 SUMMARY:Franco Fair: A fair for everything French at Concordia
-UID:238ccc8a-b541-4c37-88d8-608040f94faf@238c.org
+UID:17d2bd5b-aea3-497c-a4c7-f5ece74873ea@17d2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/16/franco-foire.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:What Students Wish They Knew Earlier\n\nSeptember 10\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20260910T160000Z
-DTSTART:20260910T150000Z
-SUMMARY:Grad School Myths\, Busted
-UID:289a5539-64c8-4839-ad81-acf51e414960@289a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
+DESCRIPTION:Decoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
+DTEND:20261210T180000Z
+DTSTART:20261210T160000Z
+SUMMARY:Safe or Secure?
+UID:44297a68-b101-49c1-8e0a-c551b4c197dd@4429.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Concordia Game Development (CDG) x Concordia Esports Students Association\n\nSeptember 8\, 2026\, 11 a.m. - 5 p.m.
+DTEND:20260908T210000Z
+DTSTART:20260908T150000Z
+SUMMARY:Meet &amp\; Geek
+UID:528fe287-cf5a-4d9a-a69a-75a8370b0324@528f.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/08/meet-and-geek.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Concordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
+DTEND:20260930T193000Z
+DTSTART:20260930T173000Z
+SUMMARY:Confronting Our Past
+UID:b371698e-7a8e-4ef7-8d29-d926edbf28f8@b371.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 END:VCALENDAR
