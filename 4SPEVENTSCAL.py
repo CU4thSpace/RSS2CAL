@@ -112,7 +112,11 @@ def generate_calendar():
                 
             event = Event()
             event.name = entry.title
-            event.description = text
+
+            # Outlook reads the "Notes" field from the ICS DESCRIPTION property,
+            # not the URL property (which Outlook often ignores or hides), so
+            # append the event link to the description text as well.
+            event.description = f"Event link: {entry.link}\n\n{text}"
             event.url = entry.link
             event.begin = start_dt
             event.end = end_dt
