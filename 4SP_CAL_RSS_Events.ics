@@ -2,11 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/inside-grad-life.html\n\nClasses\, Research\, Community and Support\n\nOctober 24\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20261024T160000Z
+DTSTART:20261024T150000Z
+SUMMARY:Inside Grad Life at Concordia
+UID:5e6dbfde-af76-4624-a859-348eed084c59@5e6d.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/inside-grad-life.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html\n\nConcordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
 DTEND:20260930T193000Z
 DTSTART:20260930T173000Z
 SUMMARY:National Day for Truth and Reconciliation: Confronting Our Past
-UID:816d83f2-8d13-43f2-a0c6-077ced8c6ecd@816d.org
+UID:5be27be7-d5e0-4ad7-8260-fd93080cf175@5be2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
 END:VEVENT
 BEGIN:VEVENT
@@ -14,23 +22,15 @@ DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices
 DTEND:20260917T220000Z
 DTSTART:20260917T200000Z
 SUMMARY:Langues minorisées\, langues vivantes
-UID:36b97ea4-c95a-4aba-b247-f9338c603ffa@36b9.org
+UID:a8ae4e39-8f90-44ef-975d-291d3be2dae2@a8ae.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/17/langues-minorisees-langues-vivantes.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/23/ways-of-doing-scenography.html\n\nLight\, Memory\, and Research-Creation from Valparaíso to Montréal\n\nSeptember 23\, 2026\, 10:30 a.m. - 12:30 p.m.
-DTEND:20260923T163000Z
-DTSTART:20260923T143000Z
-SUMMARY:Ways of Doing Scenography
-UID:d2521807-90a9-4692-a8db-53a020f10b26@d252.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/23/ways-of-doing-scenography.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html\n\nDecoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
 DTEND:20261210T180000Z
 DTSTART:20261210T160000Z
 SUMMARY:Safe or Secure?
-UID:f03ca24a-269b-4b0b-9910-d33157edab02@f03c.org
+UID:4de8c386-4698-47fc-88ac-198eda3470ce@4de8.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
 END:VEVENT
 BEGIN:VEVENT
@@ -38,95 +38,95 @@ DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices
 DTEND:20260910T160000Z
 DTSTART:20260910T150000Z
 SUMMARY:Grad School Myths\, Busted
-UID:30f9558f-19ec-48a0-ac30-737cafdc3938@30f9.org
+UID:939ee1c6-e310-409a-9bf1-e8169e331236@939e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/grad-school-myths-busted.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/08/meet-and-geek.html\n\nKick off the Fall with Esports Concordia\, Concordia Game Development Club and Spacecast Zine!\n\nSeptember 8\, 2026\, 11 a.m. - 5 p.m.
-DTEND:20260908T210000Z
-DTSTART:20260908T150000Z
-SUMMARY:Meet &amp\; Geek!
-UID:995977e8-684a-4bda-b5fd-9dd4781727b6@9959.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/08/meet-and-geek.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/25/a-closer-look-joylab.html\n\n\nSeptember 25\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20260925T173000Z
-DTSTART:20260925T170000Z
-SUMMARY:A Closer Look: The JOYLab
-UID:52237398-6c16-4661-aa09-a7b4153e081b@5223.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/25/a-closer-look-joylab.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html\n\nHow Concordia students are tackling food insecurity\n\nSeptember 9\, 2026\, 11 a.m. - 2 p.m.
-DTEND:20260909T180000Z
-DTSTART:20260909T150000Z
-SUMMARY:Student Food Security: A Street Fair
-UID:4581b0c6-1fc9-4efc-825c-a821af2ace0a@4581.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/inside-grad-life.html\n\nClasses\, Research\, Community and Support\n\nOctober 24\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20261024T160000Z
-DTSTART:20261024T150000Z
-SUMMARY:Inside Grad Life at Concordia
-UID:0b3dc2d0-e33f-44c7-9dfe-6f610303702f@0b3d.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/inside-grad-life.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/5mrt-postdoctoral-showcase.html\n\nDiscover Concordia postdoctoral research\, five minutes at a time\nSeptember 24\, 2026\, 10:30 a.m. - 1 p.m.
-DTEND:20260924T170000Z
-DTSTART:20260924T143000Z
-SUMMARY:5-Minute Research Talks (5MRT) Postdoctoral Showcase
-UID:f5b8e019-fb9a-4c7f-aff3-eaf767f07ece@f5b8.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/5mrt-postdoctoral-showcase.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/18/life-edited.html\n\n\nSeptember 18\, 2026\, 10:15 a.m. - 3 p.m.
-DTEND:20260918T190000Z
-DTSTART:20260918T141500Z
-SUMMARY:Life\, Edited: Genetic Engineering at Concordia
-UID:14b68464-5958-41df-a7ac-43db13e9d571@14b6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/18/life-edited.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/le-gym.html\n\nFind out more about Concordia Recreation and Athletics \n\nSeptember 10\, 2026\, 1 p.m. - 3 p.m.
-DTEND:20260910T190000Z
-DTSTART:20260910T170000Z
-SUMMARY:Move. Play. Belong.
-UID:b6ec8ac8-7221-400b-a3ad-cf2a894b0264@b6ec.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/le-gym.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/creative-writing-showcase.html\n\n\nOctober 24\, 2026\, 1 p.m. - 2:30 p.m.
-DTEND:20261024T183000Z
-DTSTART:20261024T170000Z
-SUMMARY:Creative Writing Showcase
-UID:742dd80c-2f39-4e4c-a061-3ee389ac3af1@742d.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/creative-writing-showcase.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/11/climate-leadership-story.html\n\nMontréal Climate Week Flagship Event\n\nSeptember 11\, 2026\, 3 p.m. - 5:30 p.m.
 DTEND:20260911T213000Z
 DTSTART:20260911T190000Z
 SUMMARY:Climate Leadership Story Hub
-UID:936c8fa0-bbbe-40a3-8e5c-68cd969fc952@936c.org
+UID:50cdb41c-262b-47d9-88c8-9902e62853bc@50cd.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/11/climate-leadership-story.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/16/franco-foire.html\n\nDiscover French-language activities\, clubs\, resources and more\, all in one place. \n\nSeptember 16\, 2026\, 1 p.m. - 4 p.m.
-DTEND:20260916T200000Z
-DTSTART:20260916T170000Z
-SUMMARY:Franco Fair: A fair for everything French at Concordia
-UID:c2c51315-acde-47b8-9c83-47b5214fb529@c2c5.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/16/franco-foire.html
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/23/ways-of-doing-scenography.html\n\nLight\, Memory\, and Research-Creation from Valparaíso to Montréal\n\nSeptember 23\, 2026\, 10:30 a.m. - 12:30 p.m.
+DTEND:20260923T163000Z
+DTSTART:20260923T143000Z
+SUMMARY:Ways of Doing Scenography
+UID:43c95148-d51e-4d5e-98ef-e869d482806c@43c9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/23/ways-of-doing-scenography.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/le-gym.html\n\nFind out more about Concordia Recreation and Athletics \n\nSeptember 10\, 2026\, 1 p.m. - 3 p.m.
+DTEND:20260910T190000Z
+DTSTART:20260910T170000Z
+SUMMARY:Move. Play. Belong.
+UID:ca775eb3-6190-43bf-9279-5e565db4d270@ca77.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/10/le-gym.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/25/a-closer-look-joylab.html\n\n\nSeptember 25\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20260925T173000Z
+DTSTART:20260925T170000Z
+SUMMARY:A Closer Look: The JOYLab
+UID:5efef52b-788c-487f-85e8-d5189ef618e7@5efe.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/25/a-closer-look-joylab.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/creative-writing-showcase.html\n\n\nOctober 24\, 2026\, 1 p.m. - 2:30 p.m.
+DTEND:20261024T183000Z
+DTSTART:20261024T170000Z
+SUMMARY:Creative Writing Showcase
+UID:55f963a7-05cd-409d-9690-ee32f9aaf35c@55f9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/creative-writing-showcase.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html\n\nHow Concordia students are tackling food insecurity\n\nSeptember 9\, 2026\, 11 a.m. - 2 p.m.
+DTEND:20260909T180000Z
+DTSTART:20260909T150000Z
+SUMMARY:Student Food Security: A Street Fair
+UID:801ef0f8-993e-47a3-b1d9-ede8be929905@801e.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/09/food-security-street-fair.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/15/ctrl-ai-playing-with-intelligence.html\n\nWhat games and persistent AI worlds reveal about being human\n\nSeptember 15\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20260915T210000Z
 DTSTART:20260915T190000Z
 SUMMARY:CTRL + AI: Playing with Intelligence
-UID:ca78cdbb-90a7-4fef-a23e-645eeba4aaa9@ca78.org
+UID:705970fc-8fc9-4bfa-befc-d6dcb88e01d1@7059.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/15/ctrl-ai-playing-with-intelligence.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/08/meet-and-geek.html\n\nKick off the Fall with Esports Concordia\, Concordia Game Development Club and Spacecast Zine!\n\nSeptember 8\, 2026\, 11 a.m. - 5 p.m.
+DTEND:20260908T210000Z
+DTSTART:20260908T150000Z
+SUMMARY:Meet &amp\; Geek!
+UID:f8081649-7947-42f1-96bc-95bcee89936e@f808.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/08/meet-and-geek.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/5mrt-postdoctoral-showcase.html\n\nDiscover Concordia postdoctoral research\, five minutes at a time\nSeptember 24\, 2026\, 10:30 a.m. - 1 p.m.
+DTEND:20260924T170000Z
+DTSTART:20260924T143000Z
+SUMMARY:5-Minute Research Talks (5MRT) Postdoctoral Showcase
+UID:769c7db6-06a6-44c6-82e8-bd5a32bb82b6@769c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/5mrt-postdoctoral-showcase.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/16/franco-foire.html\n\nDiscover French-language activities\, clubs\, resources and more\, all in one place. \n\nSeptember 16\, 2026\, 1 p.m. - 4 p.m.
+DTEND:20260916T200000Z
+DTSTART:20260916T170000Z
+SUMMARY:Franco Fair: A fair for everything French at Concordia
+UID:7763221c-eb26-4393-8789-112a92b3bfd8@7763.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/16/franco-foire.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/18/life-edited.html\n\n\nSeptember 18\, 2026\, 10:15 a.m. - 3 p.m.
+DTEND:20260918T190000Z
+DTSTART:20260918T141500Z
+SUMMARY:Life\, Edited: Genetic Engineering at Concordia
+UID:ce029938-2082-4801-919a-b7ef2e43a1ce@ce02.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/18/life-edited.html
 END:VEVENT
 END:VCALENDAR
