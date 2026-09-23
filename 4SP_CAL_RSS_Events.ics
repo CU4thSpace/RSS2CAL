@@ -2,27 +2,83 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/creative-writing-showcase.html\n\n\nOctober 24\, 2026\, 1 p.m. - 2:30 p.m.
-DTEND:20261024T183000Z
-DTSTART:20261024T170000Z
-SUMMARY:Creative Writing Showcase
-UID:8f401aba-f846-408e-b8b8-48b0bc36a92f@8f40.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/creative-writing-showcase.html
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/14/asian-canadian-artists.html\n\nPart of the UAAC - AAUC Conference\n\nOctober 14\, 2026\, 3:30 p.m. - 5 p.m.
+DTEND:20261014T210000Z
+DTSTART:20261014T193000Z
+SUMMARY:Asian Canadian Artists Participating in the Venice Biennale 2026
+UID:7c87042b-69a3-4a4a-adbe-73a6d4ab78f1@7c87.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/14/asian-canadian-artists.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/22/a-closer-look-engAGE.html\n\n\nSeptember 22\, 2026\, 2 p.m. - 3 p.m.
-DTEND:20260922T190000Z
-DTSTART:20260922T180000Z
-SUMMARY:A Closer Look: enGAGE Centre for Research on Aging
-UID:5fb39bb6-5b22-4a8b-8d36-336937d67793@5fb3.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/22/a-closer-look-engAGE.html
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/09/archive-of-the-future.html\n\n\nOctober 9\, 2026\, 11 a.m. - 12:30 p.m.
+DTEND:20261009T163000Z
+DTSTART:20261009T150000Z
+SUMMARY:The Archive of the Future
+UID:8d5df2a4-b3bb-441c-a1ec-f12e00055c99@8d5d.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/09/archive-of-the-future.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/09/teaching-with-COHDS.html\n\n\nOctober 9\, 2026\, 3:30 p.m. - 5 p.m.
+DTEND:20261009T210000Z
+DTSTART:20261009T193000Z
+SUMMARY:Teaching with the COHDS Oral History Archives
+UID:d1a647d9-e4e7-4083-a4e8-a4974fe0ecf0@d1a6.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/09/teaching-with-COHDS.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/cohds-exhibitions.html\n\n\nOctober 6\, 2026\, 11 a.m. - 5:30 p.m.
+DTEND:20261006T213000Z
+DTSTART:20261006T150000Z
+SUMMARY:COHDS Storytelling Festival Exhibition
+UID:f9a833d6-cd94-4c61-ab42-19d99fcfbcba@f9a8.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/cohds-exhibitions.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/23/the-iron-ring.html\n\n\nSeptember 23\, 2026\, 3 p.m. - 4 p.m.
+DTEND:20260923T200000Z
+DTSTART:20260923T190000Z
+SUMMARY:The Iron Ring Podcast: What we wish we knew
+UID:72bcf4b3-0762-4eb5-9d1f-fb2a8191dc87@72bc.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/23/the-iron-ring.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/14/toxic-museum.html\n\nPart of the UAAC - AAUC Conference\n\nOctober 14\, 2026\, 10 a.m. - 11:30 a.m.
+DTEND:20261014T153000Z
+DTSTART:20261014T140000Z
+SUMMARY:Toxic Museum
+UID:6b9e22f0-eac6-4c80-b228-ce150db4dcea@6b9e.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/14/toxic-museum.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html\n\nConcordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
+DTEND:20260930T193000Z
+DTSTART:20260930T173000Z
+SUMMARY:National Day for Truth and Reconciliation: Confronting Our Past
+UID:4c2a32bc-a2b0-480c-a8a3-58335aa181bb@4c2a.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/29/sap-launch.html\n\nA series of events to celebrate Concordia's new sustainability roadmap\n\nSeptember 29\, 2026\, 10 a.m. - 3 p.m.A series of events to celebrate Concordia's new sustainability roadmap.
+DTEND:20260929T190000Z
+DTSTART:20260929T140000Z
+SUMMARY:Sustainability Action Plan 2026-30 Launch
+UID:75e17ee8-a324-4d95-ae0d-8fbdd66ec63a@75e1.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/29/sap-launch.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/26/ctrl-ai-creative-agency.html\n\nWhen AI agents can create\, test\, and revise\, where does human agency reside?\n\nOctober 26\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20261026T220000Z
+DTSTART:20261026T200000Z
+SUMMARY:CTRL + AI: Creative Agency at Play
+UID:183cbbf2-b776-4f3b-ae9f-03ee604514b9@183c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/26/ctrl-ai-creative-agency.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/political-power-of-storytelling.html\n\n\nOctober 6\, 2026\, 2 p.m. - 3:30 p.m.
 DTEND:20261006T193000Z
 DTSTART:20261006T180000Z
 SUMMARY:The Political Power of Storytelling
-UID:0716570f-c693-4484-8177-4613ef303a6a@0716.org
+UID:3e8e99ac-94d2-48e7-9a68-2b2258e172f5@3e8e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/political-power-of-storytelling.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,215 +86,159 @@ DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices
 DTEND:20261014T190000Z
 DTSTART:20261014T173000Z
 SUMMARY:Dark Opacities Lab: Fugitive Planning in Practice
-UID:90c91c85-4d16-4181-844a-a66a014acbec@90c9.org
+UID:0361c07e-0353-4dc3-bfa9-cdf6f135e936@0361.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/14/fugitive-planning-in-practice.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html\n\nConcordia and the Legacy of Residential Schools\n\nSeptember 30\, 2026\, 1:30 p.m. - 3:30 p.m.
-DTEND:20260930T193000Z
-DTSTART:20260930T173000Z
-SUMMARY:National Day for Truth and Reconciliation: Confronting Our Past
-UID:a6aaddfc-bd2d-486d-a6bc-e971a362ab0e@a6aa.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/30/confronting-our-past.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/08/learning-how-to-listen.html\n\nA Conversation with Ian Cosh\, Caline Nasrallah\, Yun-Lin Wang\, and Muhammad Arslan Hanif \n\nOctober 8\, 2026\, 11:30 a.m. - 1 p.m.
-DTEND:20261008T170000Z
-DTSTART:20261008T153000Z
-SUMMARY:Learning How to Listen
-UID:3e6f673b-7073-4fba-b7fd-997553d996df@3e6f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/08/learning-how-to-listen.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/15/reinventing-photography.html\n\nPart of the UAAC - AAUC Conference\n\nOctober 15\, 2026\, 1:30 p.m. - 3 p.m.
-DTEND:20261015T190000Z
-DTSTART:20261015T173000Z
-SUMMARY:Reinventing Photography: Originary Moments and Primal Scenes (A)
-UID:a1df943e-fd58-4d9e-b97a-7c2f983d80fd@a1df.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/15/reinventing-photography.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/inside-grad-life.html\n\nClasses\, Research\, Community and Support\n\nOctober 24\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20261024T160000Z
-DTSTART:20261024T150000Z
-SUMMARY:Inside Grad Life at Concordia
-UID:60989214-034e-46d3-b295-4b967a1a5e56@6098.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/inside-grad-life.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/5mrt-postdoctoral-showcase.html\n\nDiscover Concordia postdoctoral research\, five minutes at a time\nSeptember 24\, 2026\, 10:30 a.m. - 1 p.m.
-DTEND:20260924T170000Z
-DTSTART:20260924T143000Z
-SUMMARY:5-Minute Research Talks (5MRT) Postdoctoral Showcase
-UID:e907e661-92e3-44e5-b963-8c8bf8d30b05@e907.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/5mrt-postdoctoral-showcase.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/08/cartographier-la-memoire.html\n\ntrajectoires des orphelin·e·s Duplessis dans les institutions psychiatriques au Québec\n\nOctober 8\, 2026\, 2 p.m. - 4 p.m.
-DTEND:20261008T200000Z
-DTSTART:20261008T180000Z
-SUMMARY:Cartographier la mémoire pour mettre en récit
-UID:60803a65-073c-45bf-af85-ae2660bf1a05@6080.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/08/cartographier-la-memoire.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/25/a-closer-look-joylab.html\n\n\nSeptember 25\, 2026\, 1 p.m. - 1:30 p.m.
 DTEND:20260925T173000Z
 DTSTART:20260925T170000Z
 SUMMARY:A Closer Look: The JOYLab
-UID:7080dc6c-dd6f-43b2-ba08-a2ea923de32c@7080.org
+UID:42df19a4-d9a8-4f81-aeed-72376b5f9d87@42df.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/25/a-closer-look-joylab.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/29/sap-launch.html\n\nA series of events to celebrate Concordia's new sustainability roadmap\n\nSeptember 29\, 2026\, 10 a.m. - 3 p.m.A series of events to celebrate Concordia's new sustainability roadmap.
-DTEND:20260929T190000Z
-DTSTART:20260929T140000Z
-SUMMARY:Sustainability Action Plan 2026-30 Launch
-UID:0e13f345-6ea2-4331-acdd-0f5fa2b98a68@0e13.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/29/sap-launch.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/engineering-comp-sci-q-and-a.html\n\n\nSeptember 24\, 2026\, 3:30 p.m. - 5:30 p.m.
-DTEND:20260924T213000Z
-DTSTART:20260924T193000Z
-SUMMARY:Engineering &amp\; Computer Science Academics Q&amp\;A
-UID:8bf50e07-ac93-4e56-8fee-9145939d0a0f@8bf5.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/engineering-comp-sci-q-and-a.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/memoires-of-the-border.html\n\nA Collection of Migrant Stories \nOctober 6\, 2026\, 11:30 a.m. - 1:30 p.m.
-DTEND:20261006T173000Z
-DTSTART:20261006T153000Z
-SUMMARY:Memoires of the Border
-UID:ac50ef33-fe7b-49f2-bf39-1d4a691e7f62@ac50.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/memoires-of-the-border.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/07/le-recit-du-corps-traumatise.html\n\n\nOctober 7\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20261007T160000Z
-DTSTART:20261007T150000Z
-SUMMARY:Le récit du corps traumatisé avec Marie-Josée Gicali
-UID:a3a1521e-1eb7-4f3a-bdd4-e24808743cc6@a3a1.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/07/le-recit-du-corps-traumatise.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/memories-of-migration.html\n\n\nOctober 6\, 2026\, 4 p.m. - 5:30 p.m.
-DTEND:20261006T213000Z
-DTSTART:20261006T200000Z
-SUMMARY:Memories of Migration with Andrew Jackson
-UID:c23e439f-73b2-42cd-af07-8e6e9db3dd5f@c23e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/memories-of-migration.html
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/08/learning-how-to-listen.html\n\nA Conversation with Ian Cosh\, Caline Nasrallah\, Yun-Lin Wang\, and Muhammad Arslan Hanif \n\nOctober 8\, 2026\, 11:30 a.m. - 1 p.m.
+DTEND:20261008T170000Z
+DTSTART:20261008T153000Z
+SUMMARY:Learning How to Listen
+UID:43e83a87-bf54-4d55-b802-36bf2a52a003@43e8.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/08/learning-how-to-listen.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/01/voices-of-quebec.html\n\nA public conversation on languages\, identities\, and realities within the province\n\nOctober 1\, 2026\, 3 p.m. - 5:30 p.m.
 DTEND:20261001T213000Z
 DTSTART:20261001T190000Z
 SUMMARY:Voices of Quebec | Les Voix du Québec
-UID:b93a928f-e51f-4d8c-93e6-47e3d5afb5c5@b93a.org
+UID:c4ba9c52-28ac-4cf5-8410-1008b228dcca@c4ba.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/01/voices-of-quebec.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/07/storying-water.html\n\n\nOctober 7\, 2026\, 1 p.m. - 3 p.m.
-DTEND:20261007T190000Z
-DTSTART:20261007T170000Z
-SUMMARY:Storying Water
-UID:ddd3e941-f84b-4ac4-b2af-d6bf3bc0ae95@ddd3.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/07/storying-water.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/14/toxic-museum.html\n\nPart of the UAAC - AAUC Conference\n\nOctober 14\, 2026\, 10 a.m. - 11:30 a.m.
-DTEND:20261014T153000Z
-DTSTART:20261014T140000Z
-SUMMARY:Toxic Museum
-UID:c27e75c6-3925-4788-930e-4d0361ddade5@c27e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/14/toxic-museum.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/cohds-exhibitions.html\n\n\nOctober 6\, 2026\, 11 a.m. - 5:30 p.m.
-DTEND:20261006T213000Z
-DTSTART:20261006T150000Z
-SUMMARY:COHDS Storytelling Festival Exhibition
-UID:28255384-4070-46c1-a99a-2ab3db1a3713@2825.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/cohds-exhibitions.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/09/troubling-the-archives.html\n\nWorking with Existing Oral History Interviews\n\nOctober 9\, 2026\, 1:30 p.m. - 3 p.m.
-DTEND:20261009T190000Z
-DTSTART:20261009T173000Z
-SUMMARY:Troubling the Archives
-UID:4fc05e45-a55c-47c3-b3b9-0d68872fc58a@4fc0.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/09/troubling-the-archives.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/23/the-iron-ring.html\n\n\nSeptember 23\, 2026\, 3 p.m. - 4 p.m.
-DTEND:20260923T200000Z
-DTSTART:20260923T190000Z
-SUMMARY:The Iron Ring Podcast: What we wish we knew
-UID:55045162-2eef-4f4a-8733-d3da1a7215df@5504.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/23/the-iron-ring.html
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/22/a-closer-look-engAGE.html\n\n\nSeptember 22\, 2026\, 2 p.m. - 3 p.m.
+DTEND:20260922T190000Z
+DTSTART:20260922T180000Z
+SUMMARY:A Closer Look: enGAGE Centre for Research on Aging
+UID:f0f61118-bab4-495a-9494-801ce99bdfae@f0f6.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/22/a-closer-look-engAGE.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/23/ways-of-doing-scenography.html\n\nLight\, Memory\, and Research-Creation from Valparaíso to Montréal\n\nSeptember 23\, 2026\, 10:30 a.m. - 12:30 p.m.
 DTEND:20260923T163000Z
 DTSTART:20260923T143000Z
 SUMMARY:Ways of Doing Scenography
-UID:b0bc6113-b85c-4053-8ec9-eaadd2849eb2@b0bc.org
+UID:8eb4fbc8-273f-4818-bf4a-17b8094bc780@8eb4.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/23/ways-of-doing-scenography.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/26/ctrl-ai-creative-agency.html\n\nWhen AI agents can create\, test\, and revise\, where does human agency reside?\n\nOctober 26\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20261026T220000Z
-DTSTART:20261026T200000Z
-SUMMARY:CTRL + AI: Creative Agency at Play
-UID:cda41657-0a86-40b9-8dbb-fcf4948d07d6@cda4.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/26/ctrl-ai-creative-agency.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/14/asian-canadian-artists.html\n\nPart of the UAAC - AAUC Conference\n\nOctober 14\, 2026\, 3:30 p.m. - 5 p.m.
-DTEND:20261014T210000Z
-DTSTART:20261014T193000Z
-SUMMARY:Asian Canadian Artists Participating in the Venice Biennale 2026
-UID:66651c3e-8cd2-491f-b14f-742092abeb68@6665.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/14/asian-canadian-artists.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/09/teaching-with-COHDS.html\n\n\nOctober 9\, 2026\, 3:30 p.m. - 5 p.m.
-DTEND:20261009T210000Z
-DTSTART:20261009T193000Z
-SUMMARY:Teaching with the COHDS Oral History Archives
-UID:e9abdc9c-8a18-467f-af3b-7f4c0cea46fb@e9ab.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/09/teaching-with-COHDS.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/07/escuminac-disaster.html\n\nwith Ronald Rudin\n\nOctober 7\, 2026\, 3:30 p.m. - 5 p.m.
-DTEND:20261007T210000Z
-DTSTART:20261007T193000Z
-SUMMARY:The Escuminac Disaster
-UID:754ff1d8-6c8a-47f0-b551-774c69080b04@754f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/07/escuminac-disaster.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/15/arguing-for-assemblage.html\n\nPart of the UAAC - AAUC Conference\n\nOctober 15\, 2026\, 10 a.m. - 11:30 a.m.
 DTEND:20261015T153000Z
 DTSTART:20261015T140000Z
 SUMMARY:Arguing for Assemblage
-UID:2a29d2ea-a364-49b5-a6eb-375b2bfd12dc@2a29.org
+UID:5fe84fcb-86c7-49ea-93b4-54c0b2895d2a@5fe8.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/15/arguing-for-assemblage.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/memoires-of-the-border.html\n\nA Collection of Migrant Stories \nOctober 6\, 2026\, 11:30 a.m. - 1:30 p.m.
+DTEND:20261006T173000Z
+DTSTART:20261006T153000Z
+SUMMARY:Memoires of the Border
+UID:a5426e1a-2ae2-4ea3-9c07-469930d4e982@a542.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/memoires-of-the-border.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/08/cartographier-la-memoire.html\n\ntrajectoires des orphelin·e·s Duplessis dans les institutions psychiatriques au Québec\n\nOctober 8\, 2026\, 2 p.m. - 4 p.m.
+DTEND:20261008T200000Z
+DTSTART:20261008T180000Z
+SUMMARY:Cartographier la mémoire pour mettre en récit
+UID:3cc6d264-6800-4ad8-8467-602fcfae72fa@3cc6.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/08/cartographier-la-memoire.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/15/reinventing-photography-2.html\n\nPart of the UAAC - AAUC Conference\n\nOctober 15\, 2026\, 3:30 p.m. - 5 p.m.
 DTEND:20261015T210000Z
 DTSTART:20261015T193000Z
 SUMMARY:Reinventing Photography: Originary Moments and Primal Scenes (B)
-UID:5240b91b-9c20-48f9-86ea-83c4d7485871@5240.org
+UID:108c325c-db2d-4221-9a06-d22bfa6b6dbd@108c.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/15/reinventing-photography-2.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/09/archive-of-the-future.html\n\n\nOctober 9\, 2026\, 11 a.m. - 12:30 p.m.
-DTEND:20261009T163000Z
-DTSTART:20261009T150000Z
-SUMMARY:The Archive of the Future
-UID:9234c675-a710-4a2c-a214-fac8efaaafbc@9234.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/09/archive-of-the-future.html
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/15/reinventing-photography.html\n\nPart of the UAAC - AAUC Conference\n\nOctober 15\, 2026\, 1:30 p.m. - 3 p.m.
+DTEND:20261015T190000Z
+DTSTART:20261015T173000Z
+SUMMARY:Reinventing Photography: Originary Moments and Primal Scenes (A)
+UID:70496b4f-afaa-4c9e-98f8-4705e11764e0@7049.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/15/reinventing-photography.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/07/storying-water.html\n\n\nOctober 7\, 2026\, 1 p.m. - 3 p.m.
+DTEND:20261007T190000Z
+DTSTART:20261007T170000Z
+SUMMARY:Storying Water
+UID:6fd45ae9-c56d-409e-8516-0fe9d4a86947@6fd4.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/07/storying-water.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/memories-of-migration.html\n\n\nOctober 6\, 2026\, 4 p.m. - 5:30 p.m.
+DTEND:20261006T213000Z
+DTSTART:20261006T200000Z
+SUMMARY:Memories of Migration with Andrew Jackson
+UID:b84ea046-876b-403c-87fa-55cd1d10d94d@b84e.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/06/memories-of-migration.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/inside-grad-life.html\n\nClasses\, Research\, Community and Support\n\nOctober 24\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20261024T160000Z
+DTSTART:20261024T150000Z
+SUMMARY:Inside Grad Life at Concordia
+UID:ec033a31-6cb8-45cb-8fd4-c13e09dc36af@ec03.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/inside-grad-life.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/07/le-recit-du-corps-traumatise.html\n\n\nOctober 7\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20261007T160000Z
+DTSTART:20261007T150000Z
+SUMMARY:Le récit du corps traumatisé avec Marie-Josée Gicali
+UID:23f36e16-a8dd-4c41-a294-b0ce25fcb4e8@23f3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/07/le-recit-du-corps-traumatise.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/5mrt-postdoctoral-showcase.html\n\nDiscover Concordia postdoctoral research\, five minutes at a time\nSeptember 24\, 2026\, 10:30 a.m. - 1 p.m.
+DTEND:20260924T170000Z
+DTSTART:20260924T143000Z
+SUMMARY:5-Minute Research Talks (5MRT) Postdoctoral Showcase
+UID:04d4e296-f325-4cc4-bf8e-295df305990e@04d4.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/5mrt-postdoctoral-showcase.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/engineering-comp-sci-q-and-a.html\n\n\nSeptember 24\, 2026\, 3:30 p.m. - 5:30 p.m.
+DTEND:20260924T213000Z
+DTSTART:20260924T193000Z
+SUMMARY:Engineering &amp\; Computer Science Academics Q&amp\;A
+UID:c0934903-27c0-48b3-b5f6-44b9d2b12d50@c093.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/09/24/engineering-comp-sci-q-and-a.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/09/troubling-the-archives.html\n\nWorking with Existing Oral History Interviews\n\nOctober 9\, 2026\, 1:30 p.m. - 3 p.m.
+DTEND:20261009T190000Z
+DTSTART:20261009T173000Z
+SUMMARY:Troubling the Archives
+UID:8de91d3b-a987-4fed-89be-7fd4919163e2@8de9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/09/troubling-the-archives.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/creative-writing-showcase.html\n\n\nOctober 24\, 2026\, 1 p.m. - 2:30 p.m.
+DTEND:20261024T183000Z
+DTSTART:20261024T170000Z
+SUMMARY:Creative Writing Showcase
+UID:02ca85fb-ba02-4efd-b8c1-4a34506b2722@02ca.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/creative-writing-showcase.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/07/escuminac-disaster.html\n\nwith Ronald Rudin\n\nOctober 7\, 2026\, 3:30 p.m. - 5 p.m.
+DTEND:20261007T210000Z
+DTSTART:20261007T193000Z
+SUMMARY:The Escuminac Disaster
+UID:fef3fda8-f756-4fa3-a7d5-f3eede27c73a@fef3.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/07/escuminac-disaster.html
 END:VEVENT
 END:VCALENDAR
