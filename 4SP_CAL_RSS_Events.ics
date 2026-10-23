@@ -2,139 +2,59 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/23/cup-10th-anniversary.html\n\n\nOctober 23\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20261023T220000Z
+DTSTART:20261023T200000Z
+SUMMARY:Concordia University Press: 10th Anniversary Celebration
+UID:8d57dcca-34f6-489c-8ebf-761073862359@8d57.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/23/cup-10th-anniversary.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/27/keep-the-world-playing.html\n\n\nOctober 27\, 2026\, 3:30 p.m. - 5:30 p.m.
 DTEND:20261027T213000Z
 DTSTART:20261027T193000Z
 SUMMARY:Keep the World Playing
-UID:016f4bab-44c9-46a4-afd4-035556646ddc@016f.org
+UID:6a81b245-fd2e-415e-9c83-723809973b3c@6a81.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/27/keep-the-world-playing.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/03/borders-identities-solidarities.html\n\n\nNovember 3\, 2026\, 10 a.m. - 5 p.m.
-DTEND:20261103T220000Z
-DTSTART:20261103T150000Z
-SUMMARY:Film Festivals: Borders\, Identities\, Solidarities
-UID:5fafe4fd-7400-44b3-bf7e-3549a2cba6de@5faf.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/03/borders-identities-solidarities.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/06/theory-evil-eye.html\n\nA Conversation with Mahmoud Al Shaer & Nasrin Himada\n\nNovember 6\, 2026\, 12 p.m. - 2 p.m.
-DTEND:20261106T190000Z
-DTSTART:20261106T170000Z
-SUMMARY:Nazar: A Theory of the Evil Eye
-UID:257eb3f4-102f-45fb-b43b-ee56eb00fac4@257e.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/06/theory-evil-eye.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/12/shared-ambition-coordinated-action.html\n\nGoverning collaboration for social and environmental impact\n\nNovember 12\, 2026\, 10:30 a.m. - 12 p.m.
 DTEND:20261112T170000Z
 DTSTART:20261112T153000Z
 SUMMARY:From Shared Ambition to Coordinated Collective Action
-UID:e8aa911f-d7eb-45fa-a8af-4b457a2d5640@e8aa.org
+UID:9dacbb22-2d4c-4392-a04d-44c48c71e532@9dac.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/12/shared-ambition-coordinated-action.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/advancement/2026/11/10/accounting-in-the-age-of-sustainability-and-artificial-intelligence.html\n\nHow to count what counts?\n\nNovember 10\, 2026\, 4:45 p.m. - 7 p.m.A panel discussion on emerging trends shaping the accounting industry and practice.
-DTEND:20261111T000000Z
-DTSTART:20261110T214500Z
-SUMMARY:Accounting in the age of sustainability and artificial intelligence
-UID:e3cf0e69-4a1b-47dc-b73b-7a88d93a91a5@e3cf.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/advancement/2026/11/10/accounting-in-the-age-of-sustainability-and-artificial-intelligence.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/11/seventh-shades-of-resistance.html\n\nUnveiling Equity Series\n\nNovember 11\, 2026\, 11 a.m. - 1 p.m.
-DTEND:20261111T180000Z
-DTSTART:20261111T160000Z
-SUMMARY:The Seven Shades of Resistance
-UID:f491ef7f-a0ae-4c2b-9604-6102e416b29b@f491.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/11/seventh-shades-of-resistance.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/04/arte-cats-research.html\n\n\nNovember 4\, 2026\, 10:30 a.m. - 5:45 p.m.
-DTEND:20261104T224500Z
-DTSTART:20261104T153000Z
-SUMMARY:ARTE x CATs Research Commons
-UID:5f75ca38-dd65-4aeb-b614-27100117637d@5f75.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/04/arte-cats-research.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/23/cup-10th-anniversary.html\n\n\nOctober 23\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20261023T220000Z
-DTSTART:20261023T200000Z
-SUMMARY:Concordia University Press: 10th Anniversary Celebration
-UID:b4f6a651-ff94-44e6-be39-146a312ad2bc@b4f6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/23/cup-10th-anniversary.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/28/art-and-science-of-biodiversity.html\n\nwith Dr. Madhur Anand\n\nOctober 28\, 2026\, 2:30 p.m. - 4 p.m.
-DTEND:20261028T200000Z
-DTSTART:20261028T183000Z
-SUMMARY:The Art and Science of Biodiversity
-UID:77e95c48-d5de-4e14-9cc3-e714e03ba30a@77e9.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/28/art-and-science-of-biodiversity.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/10/no-experience-required.html\n\n\nNovember 10\, 2026\, 11:30 a.m. - 12:45 p.m.
-DTEND:20261110T174500Z
-DTSTART:20261110T163000Z
-SUMMARY:Talking Shop: No Experience Necessary
-UID:8596d1d5-20aa-41b8-a2df-ec2b04475163@8596.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/10/no-experience-required.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html\n\nFrom Arrival to Belonging\n\nDecember 9\, 2026\, 1 p.m. - 3 p.m.
 DTEND:20261209T200000Z
 DTSTART:20261209T180000Z
 SUMMARY:Film Screening: Regional Realities
-UID:2dd0c19c-2cc5-488f-b597-aee85f936fcb@2dd0.org
+UID:47cd2d2d-f434-4479-9068-f61b9bf3d47c@47cd.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/26/ctrl-ai-creative-agency.html\n\nWhen AI agents can create\, test\, and revise\, where does human agency reside?\n\nOctober 26\, 2026\, 4 p.m. - 6 p.m.
-DTEND:20261026T220000Z
-DTSTART:20261026T200000Z
-SUMMARY:CTRL + AI: Creative Agency at Play
-UID:68dcacba-01a3-4276-82bd-e0a8c8d1aa76@68dc.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/26/ctrl-ai-creative-agency.html
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/05/fairy-creek-blockades.html\n\nNovember 5\, 2026\, 3 p.m. - 4:30 p.m.
+DTEND:20261105T213000Z
+DTSTART:20261105T200000Z
+SUMMARY:The Fairy Creek Blockades and the Life Story of Pacheedaht Elder Bill Jones
+UID:8481d470-77cd-4742-8416-d053f76144fc@8481.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/05/fairy-creek-blockades.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/29/fassler-janssen.html\n\n\nOctober 29\, 2026\, 3 p.m. - 4:30 p.m.
 DTEND:20261029T203000Z
 DTSTART:20261029T190000Z
 SUMMARY:Larissa Fassler in conversation with Shauna Janssen
-UID:bde9feb3-aa39-4a05-a52b-3b25da125e90@bde9.org
+UID:673c117e-fdbb-4a51-85cb-b7660ff11c07@673c.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/29/fassler-janssen.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/creative-writing-showcase.html\n\n\nOctober 24\, 2026\, 1 p.m. - 2:30 p.m.
-DTEND:20261024T183000Z
-DTSTART:20261024T170000Z
-SUMMARY:Creative Writing Showcase
-UID:fc3848cb-c079-4273-938f-270bad5a37c3@fc38.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/creative-writing-showcase.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/inside-grad-life.html\n\nClasses\, Research\, Community and Support\n\nOctober 24\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20261024T160000Z
-DTSTART:20261024T150000Z
-SUMMARY:Inside Grad Life at Concordia
-UID:0de6a8df-fef5-4c3e-bab3-ab0d262be957@0de6.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/inside-grad-life.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/17/on-suzanne-cesaire.html\n\n\nNovember 17\, 2026\, 2 p.m. - 5 p.m.
-DTEND:20261117T220000Z
-DTSTART:20261117T190000Z
-SUMMARY:Suzanne Césaire: Surrealism and Afro-Caribbean Resistance
-UID:b3240249-d2df-48a5-b45d-9fbdf01a6745@b324.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/17/on-suzanne-cesaire.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html\n\nDecoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
 DTEND:20261210T180000Z
 DTSTART:20261210T160000Z
 SUMMARY:Safe or Secure?
-UID:e755e13b-2254-40d8-9d80-db11077b45b0@e755.org
+UID:dc3e7243-4a74-4774-b268-9e63a5923bc1@dc3e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
 END:VEVENT
 BEGIN:VEVENT
@@ -142,39 +62,119 @@ DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices
 DTEND:20261030T210000Z
 DTSTART:20261030T190000Z
 SUMMARY:The Ian Ferrier Spoken Word Prize Finalists
-UID:0c0dbe72-c16d-4e2b-b325-1461c5c4cc71@0c0d.org
+UID:2d756af7-b93d-45ac-9d62-56b9a7c578b1@2d75.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/30/qwf-spoken-word.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/08/knowledge-politics.html\n\nAcademic Freedom and Institutional Neutrality in an Age of the Culture Wars\n\nDecember 8\, 2026\, 3 p.m. - 5 p.m.An in-depth discussion on the politics of knowledge production and the responsibilities of academic institutions amid shifting expectations and intensifying public scrutiny.
-DTEND:20261208T220000Z
-DTSTART:20261208T200000Z
-SUMMARY:Knowledge Politics
-UID:b2cb3a7d-1eeb-438f-833f-3dd86bb80027@b2cb.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/08/knowledge-politics.html
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/17/on-suzanne-cesaire.html\n\n\nNovember 17\, 2026\, 2 p.m. - 5 p.m.
+DTEND:20261117T220000Z
+DTSTART:20261117T190000Z
+SUMMARY:Suzanne Césaire: Surrealism and Afro-Caribbean Resistance
+UID:661a6568-a73a-4dcc-a48d-3fb8947334ab@661a.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/17/on-suzanne-cesaire.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/11/seventh-shades-of-resistance.html\n\nUnveiling Equity Series\n\nNovember 11\, 2026\, 11 a.m. - 1 p.m.
+DTEND:20261111T180000Z
+DTSTART:20261111T160000Z
+SUMMARY:The Seven Shades of Resistance
+UID:18344d82-1dbe-493b-93cc-5065373e1d53@1834.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/11/seventh-shades-of-resistance.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/26/ctrl-ai-creative-agency.html\n\nWhen AI agents can create\, test\, and revise\, where does human agency reside?\n\nOctober 26\, 2026\, 4 p.m. - 6 p.m.
+DTEND:20261026T220000Z
+DTSTART:20261026T200000Z
+SUMMARY:CTRL + AI: Creative Agency at Play
+UID:ac97639c-6009-4e31-a0b8-b9e7eaf23798@ac97.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/26/ctrl-ai-creative-agency.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/24/modelling-rest-cuing-recovery.html\n\nA Performance-Defense with Victoria Stanton\nNovember 24\, 2026\, 2 p.m. - 5 p.m.
 DTEND:20261124T220000Z
 DTSTART:20261124T190000Z
 SUMMARY:Modelling Rest\, Cuing Recovery: Reimagining Performance Art and Pedagogy for a Post-COVID Context
-UID:10c39b72-6b85-421a-8328-caae8e302a57@10c3.org
+UID:3dbead07-d599-4606-bc77-f55abaae94be@3dbe.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/24/modelling-rest-cuing-recovery.html
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/05/fairy-creek-blockades.html\n\nNovember 5\, 2026\, 3 p.m. - 4:30 p.m.
-DTEND:20261105T213000Z
-DTSTART:20261105T200000Z
-SUMMARY:The Fairy Creek Blockades and the Life Story of Pacheedaht Elder Bill Jones
-UID:069933f5-b856-4527-b775-9df378e7ee2b@0699.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/05/fairy-creek-blockades.html
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/08/knowledge-politics.html\n\nAcademic Freedom and Institutional Neutrality in an Age of the Culture Wars\n\nDecember 8\, 2026\, 3 p.m. - 5 p.m.An in-depth discussion on the politics of knowledge production and the responsibilities of academic institutions amid shifting expectations and intensifying public scrutiny.
+DTEND:20261208T220000Z
+DTSTART:20261208T200000Z
+SUMMARY:Knowledge Politics
+UID:4eeb511a-6c9d-4521-a633-319952062815@4eeb.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/08/knowledge-politics.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/advancement/2026/11/10/accounting-in-the-age-of-sustainability-and-artificial-intelligence.html\n\nHow to count what counts?\n\nNovember 10\, 2026\, 4:45 p.m. - 7 p.m.A panel discussion on emerging trends shaping the accounting industry and practice.
+DTEND:20261111T000000Z
+DTSTART:20261110T214500Z
+SUMMARY:Accounting in the age of sustainability and artificial intelligence
+UID:6cc2a4fb-d921-4f9e-b66d-1843bcf73869@6cc2.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/advancement/2026/11/10/accounting-in-the-age-of-sustainability-and-artificial-intelligence.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/04/arte-cats-research.html\n\n\nNovember 4\, 2026\, 10:30 a.m. - 5:45 p.m.
+DTEND:20261104T224500Z
+DTSTART:20261104T153000Z
+SUMMARY:ARTE x CATs Research Commons
+UID:527699fa-49b4-4199-85c1-6751630e5b06@5276.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/04/arte-cats-research.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/inside-grad-life.html\n\nClasses\, Research\, Community and Support\n\nOctober 24\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20261024T160000Z
+DTSTART:20261024T150000Z
+SUMMARY:Inside Grad Life at Concordia
+UID:0a9aa531-6417-4f46-8710-d6816eb26a9e@0a9a.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/inside-grad-life.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/creative-writing-showcase.html\n\n\nOctober 24\, 2026\, 1 p.m. - 2:30 p.m.
+DTEND:20261024T183000Z
+DTSTART:20261024T170000Z
+SUMMARY:Creative Writing Showcase
+UID:d5bf9426-5443-4b53-ad0d-2f0816f81ebe@d5bf.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/24/creative-writing-showcase.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/28/art-and-science-of-biodiversity.html\n\nwith Dr. Madhur Anand\n\nOctober 28\, 2026\, 2:30 p.m. - 4 p.m.
+DTEND:20261028T200000Z
+DTSTART:20261028T183000Z
+SUMMARY:The Art and Science of Biodiversity
+UID:3a6a163a-c5e4-45e1-8c1c-e0c3d025f6ec@3a6a.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/10/28/art-and-science-of-biodiversity.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/06/theory-evil-eye.html\n\nA Conversation with Mahmoud Al Shaer & Nasrin Himada\n\nNovember 6\, 2026\, 12 p.m. - 2 p.m.
+DTEND:20261106T190000Z
+DTSTART:20261106T170000Z
+SUMMARY:Nazar: A Theory of the Evil Eye
+UID:42f07f78-d924-49ff-bfd1-0035f4703b17@42f0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/06/theory-evil-eye.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/18/la-traduction-des-idees.html\n\nTranslating Ideas in the Algorithmic Age\n\nNovember 18\, 2026\, 10 a.m. - 6 p.m.
 DTEND:20261118T230000Z
 DTSTART:20261118T150000Z
 SUMMARY:La traduction des idées à l&apos\;ère algorithmique
-UID:1c9dfb7a-59ed-4a82-82ac-82ecf766bff5@1c9d.org
+UID:a10eb4bf-3efe-4dc1-9b76-6da632e7e5b9@a10e.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/18/la-traduction-des-idees.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/10/no-experience-required.html\n\n\nNovember 10\, 2026\, 11:30 a.m. - 12:45 p.m.
+DTEND:20261110T174500Z
+DTSTART:20261110T163000Z
+SUMMARY:Talking Shop: No Experience Necessary
+UID:368bf8be-de59-437b-aa78-a318b3c9e6f1@368b.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/10/no-experience-required.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/03/borders-identities-solidarities.html\n\n\nNovember 3\, 2026\, 10 a.m. - 5 p.m.
+DTEND:20261103T220000Z
+DTSTART:20261103T150000Z
+SUMMARY:Film Festivals: Borders\, Identities\, Solidarities
+UID:d0ca4d37-2e4f-4b93-b0ae-402078106b09@d0ca.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/03/borders-identities-solidarities.html
 END:VEVENT
 END:VCALENDAR
