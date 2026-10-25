@@ -1,11 +1,447 @@
-<!DOCTYPE html>
-<html lang=en>
-  <meta charset=utf-8>
-  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-  <title>Error 404 (Not Found)!!1</title>
-  <style>
-    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
-  </style>
-  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
-  <p><b>404.</b> <ins>That’s an error.</ins>
-  <p>The requested URL <code>/feeds/videos.xml?channel_id=UCEOJMoIqrd5vJDPIWZz7s_Q</code> was not found on this server.  <ins>That’s all we know.</ins>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCEOJMoIqrd5vJDPIWZz7s_Q"/>
+ <id>yt:channel:EOJMoIqrd5vJDPIWZz7s_Q</id>
+ <yt:channelId>EOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+ <title>4TH SPACE Concordia University</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q"/>
+ <author>
+  <name>4TH SPACE Concordia University</name>
+  <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+ </author>
+ <published>2019-02-22T16:28:35+00:00</published>
+ <entry>
+  <id>yt:video:46rdGuot8Ws</id>
+  <yt:videoId>46rdGuot8Ws</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Creative Writing Showcase</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=46rdGuot8Ws"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-25T06:05:32+00:00</published>
+  <updated>2026-10-25T09:49:38+00:00</updated>
+  <media:group>
+   <media:title>Creative Writing Showcase</media:title>
+   <media:content url="https://www.youtube.com/v/46rdGuot8Ws?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/46rdGuot8Ws/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please join us for a showcase of short readings by some of Concordia's award-winning Creative Writing students, followed by a panel discussion featuring students in the program, during which you'll have an opportunity to ask questions.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="36"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WSzkc9GaRBI</id>
+  <yt:videoId>WSzkc9GaRBI</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Inside Grad Life at Concordia</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WSzkc9GaRBI"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-25T04:05:54+00:00</published>
+  <updated>2026-10-25T07:29:05+00:00</updated>
+  <media:group>
+   <media:title>Inside Grad Life at Concordia</media:title>
+   <media:content url="https://www.youtube.com/v/WSzkc9GaRBI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WSzkc9GaRBI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>What is graduate student life really like at Concordia?
+
+In this student-led panel, Concordia Graduate Student Ambassadors will share an inside look at their academic, research, social and professional experiences. From coursework and research to building community, finding support and managing a busy schedule, this session will help you better understand what life as a graduate student can look like.
+
+Whether you are considering a course-based program, a research degree, or are still exploring your options, this session will give you practical advice and real student perspectives to help you picture your next step.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="73"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:jr1O9cKAYlQ</id>
+  <yt:videoId>jr1O9cKAYlQ</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Creative Writing Showcase</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=jr1O9cKAYlQ"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-24T18:02:22+00:00</published>
+  <updated>2026-10-24T18:02:24+00:00</updated>
+  <media:group>
+   <media:title>Creative Writing Showcase</media:title>
+   <media:content url="https://www.youtube.com/v/jr1O9cKAYlQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/jr1O9cKAYlQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Please join us for a showcase of short readings by some of Concordia's award-winning Creative Writing students, followed by a panel discussion featuring students in the program, during which you'll have an opportunity to ask questions.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:wGxzggypvFs</id>
+  <yt:videoId>wGxzggypvFs</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Concordia University Press: 10th Anniversary Celebration</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=wGxzggypvFs"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-24T09:02:53+00:00</published>
+  <updated>2026-10-24T11:27:17+00:00</updated>
+  <media:group>
+   <media:title>Concordia University Press: 10th Anniversary Celebration</media:title>
+   <media:content url="https://www.youtube.com/v/wGxzggypvFs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/wGxzggypvFs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>October 2026 marks the tenth anniversary of the launch of Concordia University Press, the peer-reviewed and open-access book publisher based in the Concordia University Library. As part of International Open Access Week, come celebrate ten years of barrier-free scholarship and award-winning book design.
+
+Please join us for a  reception and showcase of books, remarks of thanks and reminiscence, and a chance to mingle with authors, colleagues, readers, and supporters.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="30"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Fg50-pKOGQ0</id>
+  <yt:videoId>Fg50-pKOGQ0</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Barry Eidlin, Solidarity is the New Collegiality</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Fg50-pKOGQ0"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-23T10:11:13+00:00</published>
+  <updated>2026-10-23T13:57:09+00:00</updated>
+  <media:group>
+   <media:title>Barry Eidlin, Solidarity is the New Collegiality</media:title>
+   <media:content url="https://www.youtube.com/v/Fg50-pKOGQ0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Fg50-pKOGQ0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Across Canada, university faculty and teaching staff are facing similar challenges: budget cuts, hiring freezes, declining administrative and teaching support, increasing precarity and service obligations, eroding salaries and benefits, attacks on academic freedom, and more. Meanwhile, the ranks of administrators continue to grow, along with their salaries and the number of strategic initiatives promising to “modernize” or “realign” the university’s mission for the 21st century—often by remodeling the university along corporate lines. In response, faculty and teaching staff have been fighting back, often through collective action. But recent attacks on unions and collective bargaining at the provincial and federal levels are threatening to limit our ability to push for our vision of what the modern university can and should be.
+
+In this talk, professor and longtime labour activist Barry Eidlin will assess the challenges currently facing faculty and teaching staff in Quebec and across Canada, and discuss concrete steps being taken to confront those challenges.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="75"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SWyW7XWxAho</id>
+  <yt:videoId>SWyW7XWxAho</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Oral History Off the Record: Podcast Launch</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SWyW7XWxAho"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-23T05:22:48+00:00</published>
+  <updated>2026-10-23T13:49:26+00:00</updated>
+  <media:group>
+   <media:title>Oral History Off the Record: Podcast Launch</media:title>
+   <media:content url="https://www.youtube.com/v/SWyW7XWxAho?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SWyW7XWxAho/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us for the launch of Oral History Off the Record, a new podcast by the Kitchen Table Collective (KTC). Once a month, hosts Cassandra Marsillo and Hana Sherafati Zanganeh interview practitioners from around the world to understand what goes into asking the important questions: What can we learn from oral historians and their expertise in listening? And why do we believe that oral history can save the world? At this launch and special live episode recording, hear from members of the KTC  as they reflect on what it means to  be doing oral history in this  moment and the value of listening in an age of polycrisis.
+
+The panel will be followed by a catered lunch. Free to attend in person or virtually.
+
+The Kitchen Table Collective is an online network founded by Stacey Zembrzycki and Anna Sheftel in September 2023, which brings together an international and intergenerational group of oral historians to discuss developments in the field, and how we are collectively navigating the politics of our institutions, communities, and everyday lives.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="247"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:2qz-6jirGZQ</id>
+  <yt:videoId>2qz-6jirGZQ</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>The History and Legacy of the World Soundscape Project</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=2qz-6jirGZQ"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-22T07:22:14+00:00</published>
+  <updated>2026-10-22T17:24:53+00:00</updated>
+  <media:group>
+   <media:title>The History and Legacy of the World Soundscape Project</media:title>
+   <media:content url="https://www.youtube.com/v/2qz-6jirGZQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/2qz-6jirGZQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us for a talk and Q&amp;A with celebrated Canadian electroacoustic composer and SFU Professor Emeritus Dr. Barry Truax. He will discuss the legacy of the World Soundscape Project, soundscape composition, and his recent involvement with Concordia University’s Electroacoustic Studies program.
+
+Participants: Dr. Barry Truax and Kristian North
+
+This event was organized by: Kristian North, Department of Music</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="184"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:E6DeSSimP-Y</id>
+  <yt:videoId>E6DeSSimP-Y</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Women Leading Sustainability</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=E6DeSSimP-Y"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-21T09:24:17+00:00</published>
+  <updated>2026-10-23T06:22:17+00:00</updated>
+  <media:group>
+   <media:title>Women Leading Sustainability</media:title>
+   <media:content url="https://www.youtube.com/v/E6DeSSimP-Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/E6DeSSimP-Y/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us for a screening of a three-part video interview series featuring three BIPOC women-owned small businesses in Montreal that prioritize sustainability in their work and projects. Following the 30-minute screening, we’ll have a Q&amp;A with the featured women hosted by the director of photography. The series celebrates local entrepreneurs, highlights sustainable business practices, and encourages more environmentally conscious choices.
+
+Speakers
+
+• Ahana B. Murumbi
+Ahana B. Murumbi is a Congolese-Canadian writer, director, and producer based in Montreal. Through AYORHA Productions, she creates intimate, character-driven films exploring displacement, identity, resilience, and the human condition. Her work has earned international recognition, with her short documentary A Girl Named Abigaël (2024) named a Best Social Awareness finalist in South Africa and nominated for Best First-Time Filmmaker at Venice Shorts in Los Angeles. In 2025, she was selected as one of 17 filmmakers for Telefilm Canada’s Talent to Watch program to develop her debut feature documentary, The Shadows of the Metropolis, which has received support from Telefilm Canada and the Canada Council for the Arts.
+
+• Eva Kyne
+Eva Kyne is a Canadian filmmaker, editor, and Concordia University alumna in Communications. Since 2022, she has led communications and event management at CEED Concordia, supporting the organization’s programming, outreach, and community initiatives. Her work has included teaching video production workshops to students in Uganda and, since2024, managing the CEED Concordia office and monthly markets that support BIPOC entrepreneurs.
+
+• Kiana Picanco
+Kiana Picanco is a Montreal-based filmmaker and cinematographer whose work explores women and representation through visual storytelling. She holds a Bachelor’s degree with a Specialization in Communication Studies and a Minor in Film Studies from Concordia University, where she also recently completed her Master of Fine Arts in Cinematic Arts. Her work spans cinematography, editing, and scriptwriting, with a particular interest in creating complex and dynamic female characters. Her MFA research-creation project focused on plus-size representation in cinema and resulted primarily in a short horror film. She hopes to continue developing stories that challenge stereotypes surrounding women in film, particularly the representation of plus-size women.
+
+• Clara Olivia Levesque
+Clara Olivia Levesque (elle/she/her) is a multidisciplinary Indian-Québécois artist working from an ecofeminist lens. She mainly illustrates figurative nymphs and incorporates them with fauna and flora to draw parallels on how interconnected we are and encourage sustainable practices with the land and between human beings. She graduated in 2025 from Concordia in Psychology and is now pursuing her studies in Art Therapy at UQAT. She is an artist that creates her artworks on her own upcycled chai paper and has recently started making her own frames using sustainable practices. She is also a vocal advocate on gender-based violence and uses her artmaking to foster discussion and meaningful change on how creative practice, intersectional and trauma-informed feminism, sustainability, gender advocacy and social justice all intersect.</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="54"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QtKvNesyyik</id>
+  <yt:videoId>QtKvNesyyik</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Reinventing Photography: Originary Moments and Primal Scenes (B)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QtKvNesyyik"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-20T20:09:12+00:00</published>
+  <updated>2026-10-20T20:09:12+00:00</updated>
+  <media:group>
+   <media:title>Reinventing Photography: Originary Moments and Primal Scenes (B)</media:title>
+   <media:content url="https://www.youtube.com/v/QtKvNesyyik?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QtKvNesyyik/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The French Ministère de la culture, in association with a scientific committee of scholars, curators, and artists, has officially designated 2026/2027 as the Bicentennial of Photography, marking the moment that Nicéphore Niépce succeeded in preserving the fleeting image formed by a camera obscura on a tin plate. A year of celebration includes exhibitions, publications, conferences, and commissions that mark the invention, while continuing to probe the nature of the medium, the effect and affect of practice and preservation, and its relevance today. Let us play.
+
+This session has been conceived as a constellation of short papers, demonstrations, and performances reflecting on an image (mental or material) that flashed up before the presenter, and continues to do so, as an inspiration or counter-inspiration for their work. The image need not come from any artistic canon or scientific discovery, though it might. Perhaps the speaker took such an image; perhaps they recognized it in an album, an archive or a flea market; perhaps it never existed (ekphrasis welcome!). This exercise need not be confessional or sentimental, though passion, from crazy love to righteous anger, is to be expected.
+
+In the interdisciplinary spirit of photography studies and the intermediation of contemporary art, and with the current upsurge in interest in the archival practices, possibilities are limitless. No geographical or temporal boundaries could or should be imposed. For both speakers and attendees, this double session will be an opportunity to workshop ideas. We are testing the waters for the contents of a special issue or book that will reveal the wellsprings, interests and audacity of current photography research and creative practice.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="199"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4GDcdUMK30A</id>
+  <yt:videoId>4GDcdUMK30A</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>A Closer Look: The Leisure-Time Physical Activity (LTPA) Lab</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4GDcdUMK30A"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-20T05:29:32+00:00</published>
+  <updated>2026-10-23T02:59:47+00:00</updated>
+  <media:group>
+   <media:title>A Closer Look: The Leisure-Time Physical Activity (LTPA) Lab</media:title>
+   <media:content url="https://www.youtube.com/v/4GDcdUMK30A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4GDcdUMK30A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us for the next installment of tour Closer Look series - exploring the many labs and spaces across Concordia University, giving you a closer look at what happens here!
+
+This session takes us to the PERFORM Centre, to explore the Leisure-Time Physical Activity (LTPA) Lab and the Traumatic Brain Injury (TBI) Health Unit with Assistant Professor in Applied Human Sciences and Researcher at the Concordia School of Health, Enrico Quilico, and Associate Professor in Applied Human Sciences, Shawn Wilkinson to give us a closer look on what research is happening in the lab!</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="360"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:h5W913HtnAM</id>
+  <yt:videoId>h5W913HtnAM</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>A Closer Look: The JOYLab</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=h5W913HtnAM"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-17T05:21:55+00:00</published>
+  <updated>2026-10-23T22:45:20+00:00</updated>
+  <media:group>
+   <media:title>A Closer Look: The JOYLab</media:title>
+   <media:content url="https://www.youtube.com/v/h5W913HtnAM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/h5W913HtnAM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us for the next installment of tour Closer Look series - exploring the many labs and spaces across Concordia University, giving you a closer look at what happens here!
+
+This session takes us to the JOYLab where Dr. Casey Burkholder and the team at the lab will show us what they are working on!
+
+The JOYLab  is a worldmaking lab working with 2SLGBTQIA+ communities to advance accessible research methods and engage in research to work towards social change, co-creating art, and actioning resistance in the face of the rise of anti-trans and anti-queer rhetoric in Canada.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="40"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7N3rWgaKuZw</id>
+  <yt:videoId>7N3rWgaKuZw</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Arguing for Assemblage</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7N3rWgaKuZw"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-16T03:59:41+00:00</published>
+  <updated>2026-10-20T19:11:38+00:00</updated>
+  <media:group>
+   <media:title>Arguing for Assemblage</media:title>
+   <media:content url="https://www.youtube.com/v/7N3rWgaKuZw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7N3rWgaKuZw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This panel explores assemblage-based sculpture—the use of found, mundane objects, combined in new and surprising ways—as a crucial tool for interrogating our entangled experiences of life under late capitalism.  It also welcomes art historical analyses of assemblage-based practices by contemporary and historical artists, alongside practice-based responses from artists who engage in this technique themselves.
+
+Speakers
+
+• Camille Sung
+The Logic of Structure: Yi Kǒnyong's Spatial and Temporal Assemblages and &quot;Contemporary Asian Art&quot; 
+
+• Kelly Jazvac
+New Users: Assemblage as Response to Extractivism
+
+• Maggie Gunn
+Assemblage at the Intersection of Mass-Material Culture and Worship
+
+• Karen Kraven 
+Thinness: empty boxes, fabric scraps and flower petals
+
+• Dan Adler</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="204"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:72PL9qPRln8</id>
+  <yt:videoId>72PL9qPRln8</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Asian Canadian Artists Participating in the Venice Biennale 2026</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=72PL9qPRln8"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-15T09:09:30+00:00</published>
+  <updated>2026-10-19T21:45:16+00:00</updated>
+  <media:group>
+   <media:title>Asian Canadian Artists Participating in the Venice Biennale 2026</media:title>
+   <media:content url="https://www.youtube.com/v/72PL9qPRln8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/72PL9qPRln8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This roundtable considers the significance of the especially strong presence of Asian Canadian artists at the 2026 Venice Biennale across national, invited, and affiliated platforms. Bringing artist Marigold Santos into conversation with art historian Asia Benedetti, and co-chairs Alice Ming Wai Jim and Marissa Largo, the session reflects on the practices and trajectories that converged in Venice and on the conditions under which Asian diasporic artists are exhibited, interpreted, and circulated. Participants will discuss artistic and curatorial experience, diasporic representation, national frameworks, and the broader stakes of visibility at this particular moment.
+
+The roundtable asks what this convergence makes possible for Canadian, diasporic, and global art histories, while also attending to the interstices, institutional structures, and forms of relation that shape participation in the Biennale. The conversational format will include brief individual reflections followed by discussion among participants and with the audience.</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="185"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:YUa_lNeCJnI</id>
+  <yt:videoId>YUa_lNeCJnI</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Dark Opacities Lab: Fugitive Planning in Practice</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=YUa_lNeCJnI"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-15T07:15:34+00:00</published>
+  <updated>2026-10-19T21:34:14+00:00</updated>
+  <media:group>
+   <media:title>Dark Opacities Lab: Fugitive Planning in Practice</media:title>
+   <media:content url="https://www.youtube.com/v/YUa_lNeCJnI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/YUa_lNeCJnI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us for this roundtable introducing and exploring the work of Dark Opacities Lab, including the lab's three zines, its multi-year projects of &quot;Nazar: A Theory of the Evil Eye&quot; (2024-2027) and &quot;No Pigs in Paradise&quot; (2027-2030), as well as the work of toggling visibility as part of its fugitive practice in the university.
+
+The lab theorizes opacity through the triangulation of race, politics, and aesthetics: from theorizing around redaction to creative trans of color survival strategies; from historicizing visuality beginning with plantation slavery and interlocking colonialisms to envisioning abolitionist tools working against carceral technologies. 
+
+About the speakers:
+
+Balbir K Singh
+
+Mélinda Pierre-Paul Cardinal 
+
+Kevin Yuen Kit Lo
+
+Sue Shon</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="161"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:IH5Rzzj5d2A</id>
+  <yt:videoId>IH5Rzzj5d2A</yt:videoId>
+  <yt:channelId>UCEOJMoIqrd5vJDPIWZz7s_Q</yt:channelId>
+  <title>Toxic Museum</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=IH5Rzzj5d2A"/>
+  <author>
+   <name>4TH SPACE Concordia University</name>
+   <uri>https://www.youtube.com/channel/UCEOJMoIqrd5vJDPIWZz7s_Q</uri>
+  </author>
+  <published>2026-10-15T03:43:36+00:00</published>
+  <updated>2026-10-19T21:20:44+00:00</updated>
+  <media:group>
+   <media:title>Toxic Museum</media:title>
+   <media:content url="https://www.youtube.com/v/IH5Rzzj5d2A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IH5Rzzj5d2A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us for a panel concerned with the manner in which the extraction of natural resources upholds the museum/art world: supplying funding for museums; creating art materials and exhibition infrastructure; and delivering the energy required for climate control to preserve artworks and artefacts
+
+This panel encourages presentations that consider curatorial approaches, exhibition design, collections management, and art-making strategies that engage with extractivism or climate emergency; the breakdown of fossil-fuel-based materials in museum collections; toxic collections (however that is defined); and/or more sustainable or regenerative options for the sector.
+
+Speakers
+
+• Aaron Ambroso
+Three Gulf Coast Museums: Travel Reflections
+
+• Nima Esmailpour 
+Pocketing Heritage, Toxic Stewardship, and Unborrowed Reserves 
+
+• Allison Peacock
+Animating Asbestos: Musée Minero de Thetford and Exhibits of Toxic Histories 
+
+• Georgia Phillips-Amos
+Masters of Light 
+
+• Rojina Sabetiashraf 
+Crude Reflections: Oil Pool and the Material Foundations of the Tehran Museum of Contemporary Art</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="193"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
