@@ -2,35 +2,51 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/25/living-questions.html\n\nExploring the Stories\, Significance\, and Possibilities Behind Research\n\nNovember 25\, 2026\, 11 a.m. - 2 p.m.
-DTEND:20261125T190000Z
-DTSTART:20261125T160000Z
-SUMMARY:Living Questions
-UID:e5db480e-c403-4b95-9ae8-833ada12d9bd@e5db.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/25/living-questions.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/20/the-iron-ring.html\n\n\nNovember 20\, 2026\, 3 p.m. - 4 p.m.
-DTEND:20261120T210000Z
-DTSTART:20261120T200000Z
-SUMMARY:The Iron Ring Podcast: What a Decade in Engineering Teaches You
-UID:463c133c-63e0-4ef7-a0a0-69a90b058a67@463c.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/20/the-iron-ring.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/26/renaissance-cuisine.html\n\nCooking with Bartolomeo Scappi\n\nNovember 26\, 2026\, 9 a.m. - 10:15 a.m.
 DTEND:20261126T151500Z
 DTSTART:20261126T140000Z
 SUMMARY:Renaissance Cuisine Class
-UID:9d3bbae7-9237-49f9-ab9f-e5a5fe0659a3@9d3b.org
+UID:6882e0fb-fb9a-4613-a5c9-0777ce1d0f30@6882.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/26/renaissance-cuisine.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/18/la-traduction-des-idees.html\n\nTranslating Ideas in the Algorithmic Age\n\nNovember 18\, 2026\, 10 a.m. - 6 p.m.
+DTEND:20261118T230000Z
+DTSTART:20261118T150000Z
+SUMMARY:La traduction des idées à l&apos\;ère algorithmique
+UID:9c38ebaa-dbcb-486d-9afc-d2e3f6d77b81@9c38.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/18/la-traduction-des-idees.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/27/activating-black-mtl.html\n\nStudent Presentations from the Black Montreal Course \n\nNovember 27\, 2026\, 2:45 p.m. - 5:30 p.m.
+DTEND:20261127T223000Z
+DTSTART:20261127T194500Z
+SUMMARY:Activating Black Montreal
+UID:e2428d11-5962-4dd8-bde4-ec1dc51c3e2f@e242.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/27/activating-black-mtl.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/24/modelling-rest-cuing-recovery.html\n\nReimagining Performance Art and Pedagogy for a Post-COVID Context.  A Performance-Defense with Victoria Stanton\n\nNovember 24\, 2026\, 2 p.m. - 5 p.m.
+DTEND:20261124T220000Z
+DTSTART:20261124T190000Z
+SUMMARY:Modelling Rest\, Cuing Recovery
+UID:ade6e5d2-73fd-4fbc-a5c9-27ff7a752ae9@ade6.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/24/modelling-rest-cuing-recovery.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/16/a-closer-look-concrete-toboggan.html\n\nConcordia Concrete Toboggan\n\nNovember 16\, 2026\, 1 p.m. - 1:30 p.m.
+DTEND:20261116T183000Z
+DTSTART:20261116T180000Z
+SUMMARY:A Closer Look: Concrete Lab
+UID:5af5c573-63e8-4c0c-b66a-e4fb0cd0a974@5af5.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/16/a-closer-look-concrete-toboggan.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/17/on-suzanne-cesaire.html\n\n\nNovember 17\, 2026\, 2 p.m. - 5 p.m.
 DTEND:20261117T220000Z
 DTSTART:20261117T190000Z
 SUMMARY:Suzanne Césaire: Surrealism and Afro-Caribbean Resistance
-UID:a845bf1d-0581-4500-bab2-f9a2257e5cb0@a845.org
+UID:ad0bf9c3-88b6-49cf-9e9d-8e180c2e7cb4@ad0b.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/17/on-suzanne-cesaire.html
 END:VEVENT
 BEGIN:VEVENT
@@ -38,7 +54,7 @@ DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices
 DTEND:20261208T220000Z
 DTSTART:20261208T200000Z
 SUMMARY:Knowledge Politics
-UID:254429eb-409f-4715-9338-3b61574a0088@2544.org
+UID:d9fa75cd-1aab-4203-afa8-6ffda1f3f00e@d9fa.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/08/knowledge-politics.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,15 +62,39 @@ DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices
 DTEND:20261210T180000Z
 DTSTART:20261210T160000Z
 SUMMARY:Safe or Secure?
-UID:52ca0ea2-38b7-4ddb-ade9-00987b77d4f3@52ca.org
+UID:de2c9155-e4ef-4b7f-870a-99964408a638@de2c.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html\n\nFrom Arrival to Belonging\n\nDecember 9\, 2026\, 1 p.m. - 3 p.m.
+DTEND:20261209T200000Z
+DTSTART:20261209T180000Z
+SUMMARY:Film Screening: Regional Realities
+UID:c324dedc-5b40-4287-989e-2db79c279d54@c324.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/25/living-questions.html\n\nExploring the Stories\, Significance\, and Possibilities Behind Research\n\nNovember 25\, 2026\, 11 a.m. - 2 p.m.
+DTEND:20261125T190000Z
+DTSTART:20261125T160000Z
+SUMMARY:Living Questions
+UID:e512c029-419f-4a4c-aa68-5de881e32e6d@e512.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/25/living-questions.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/20/the-iron-ring.html\n\n\nNovember 20\, 2026\, 3 p.m. - 4 p.m.
+DTEND:20261120T210000Z
+DTSTART:20261120T200000Z
+SUMMARY:The Iron Ring Podcast: What a Decade in Engineering Teaches You
+UID:24af3ba5-a3c7-4680-95b0-d910add8bdc8@24af.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/20/the-iron-ring.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/20/why-concordia.html\n\nStudent Stories on Choosing Grad School\n\nNovember 20\, 2026\, 11 a.m. - 12 p.m.
 DTEND:20261120T170000Z
 DTSTART:20261120T160000Z
 SUMMARY:Why Concordia\, Why Now?
-UID:c10bed20-8d81-4b6d-811b-d8941136dddd@c10b.org
+UID:495796ee-a3da-4047-8c7d-69009f12a6b1@4957.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/20/why-concordia.html
 END:VEVENT
 BEGIN:VEVENT
@@ -62,47 +102,7 @@ DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices
 DTEND:20261210T220000Z
 DTSTART:20261210T200000Z
 SUMMARY:From Prompt to Sound: Where Does the Musician Go?
-UID:ccffd5d2-f865-44e4-a129-da7cc683a3f3@ccff.org
+UID:016fbd25-fdbe-43a3-86c9-18d6239bbc76@016f.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/from-prompt-to-sound.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/24/modelling-rest-cuing-recovery.html\n\nReimagining Performance Art and Pedagogy for a Post-COVID Context.  A Performance-Defense with Victoria Stanton\n\nNovember 24\, 2026\, 2 p.m. - 5 p.m.
-DTEND:20261124T220000Z
-DTSTART:20261124T190000Z
-SUMMARY:Modelling Rest\, Cuing Recovery
-UID:a358a30e-01f4-4b50-b347-eb9dd9890d83@a358.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/24/modelling-rest-cuing-recovery.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/27/activating-black-mtl.html\n\nStudent Presentations from the Black Montreal Course \n\nNovember 27\, 2026\, 2:45 p.m. - 5:30 p.m.
-DTEND:20261127T223000Z
-DTSTART:20261127T194500Z
-SUMMARY:Activating Black Montreal
-UID:589b8da4-ba3c-4ac6-866e-374de8e06d9b@589b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/27/activating-black-mtl.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/18/la-traduction-des-idees.html\n\nTranslating Ideas in the Algorithmic Age\n\nNovember 18\, 2026\, 10 a.m. - 6 p.m.
-DTEND:20261118T230000Z
-DTSTART:20261118T150000Z
-SUMMARY:La traduction des idées à l&apos\;ère algorithmique
-UID:bdc24aa9-01a8-4577-bdb7-434f69b2bd2d@bdc2.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/18/la-traduction-des-idees.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html\n\nFrom Arrival to Belonging\n\nDecember 9\, 2026\, 1 p.m. - 3 p.m.
-DTEND:20261209T200000Z
-DTSTART:20261209T180000Z
-SUMMARY:Film Screening: Regional Realities
-UID:9e88b7f7-fe37-4b50-9f69-ed1425578ca2@9e88.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/16/a-closer-look-concrete-toboggan.html\n\nConcordia Concrete Toboggan\n\nNovember 16\, 2026\, 1 p.m. - 1:30 p.m.
-DTEND:20261116T183000Z
-DTSTART:20261116T180000Z
-SUMMARY:A Closer Look: Concrete Lab
-UID:424fcdc2-ff0d-4798-901e-18f248b116b7@424f.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/16/a-closer-look-concrete-toboggan.html
 END:VEVENT
 END:VCALENDAR
