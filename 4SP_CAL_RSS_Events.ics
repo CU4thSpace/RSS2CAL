@@ -2,83 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/07/ai-in-marketing-pitch-tank.html\n\n\nDecember 7\, 2026\, 1 p.m. - 2:30 p.m.
-DTEND:20261207T193000Z
-DTSTART:20261207T180000Z
-SUMMARY:Talking Shop: AI in Marketing Pitch Tank
-UID:b7ec48a0-c995-4f16-9850-a8bb8f42e14a@b7ec.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/07/ai-in-marketing-pitch-tank.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/25/living-questions.html\n\nExploring the Stories\, Significance\, and Possibilities Behind Research\n\nNovember 25\, 2026\, 11 a.m. - 2 p.m.
-DTEND:20261125T190000Z
-DTSTART:20261125T160000Z
-SUMMARY:Living Questions
-UID:e675b821-e517-46fc-9fe7-a350c88daa0f@e675.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/25/living-questions.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/20/why-concordia.html\n\nStudent Stories on Choosing Grad School\n\nNovember 20\, 2026\, 11 a.m. - 12 p.m.
-DTEND:20261120T170000Z
-DTSTART:20261120T160000Z
-SUMMARY:Why Concordia\, Why Now?
-UID:edaa65f1-091c-4d90-8354-6b1b71942ef3@edaa.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/20/why-concordia.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html\n\nDecoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
-DTEND:20261210T180000Z
-DTSTART:20261210T160000Z
-SUMMARY:Safe or Secure?
-UID:ec4a5891-dd1c-446b-bbf4-ace59ae06205@ec4a.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/from-prompt-to-sound.html\n\nCTRL + AI - Vibe coding\, generative instruments and the author's perception\n\nDecember 10\, 2026\, 3 p.m. - 5 p.m.
-DTEND:20261210T220000Z
-DTSTART:20261210T200000Z
-SUMMARY:From Prompt to Sound: Where Does the Musician Go?
-UID:19b4469e-92a9-499c-a28d-52d6e75f5b74@19b4.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/from-prompt-to-sound.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/27/activating-black-mtl.html\n\nStudent Presentations from the Black Montreal Course \n\nNovember 27\, 2026\, 2:45 p.m. - 5:30 p.m.
-DTEND:20261127T223000Z
-DTSTART:20261127T194500Z
-SUMMARY:Activating Black Montreal
-UID:9d094022-0d57-4648-9dd5-216cc8f198cd@9d09.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/27/activating-black-mtl.html
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/11/meaningful-work-in-age-of-ai.html\n\nPromises and Pitfalls\n\nDecember 11\, 2026\, 2 p.m. - 4 p.m.
 DTEND:20261211T210000Z
 DTSTART:20261211T190000Z
 SUMMARY:Meaningful Work in the Age of AI
-UID:d5332679-7016-435b-afe3-26b72b8c71ca@d533.org
+UID:71ae7106-2218-4a96-b555-0a1fa43cde79@71ae.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/11/meaningful-work-in-age-of-ai.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html\n\nFrom Arrival to Belonging\n\nDecember 9\, 2026\, 1 p.m. - 3 p.m.
-DTEND:20261209T200000Z
-DTSTART:20261209T180000Z
-SUMMARY:Film Screening: Regional Realities
-UID:d6716a44-94a8-4dbd-9030-d6b022dc2479@d671.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/08/knowledge-politics.html\n\nAcademic freedom and institutional neutrality in an age of culture wars\n\nDecember 8\, 2026\, 3 p.m. - 5 p.m.An in-depth discussion on the politics of knowledge production and the responsibilities of academic institutions amid shifting expectations and intensifying public scrutiny.
-DTEND:20261208T220000Z
-DTSTART:20261208T200000Z
-SUMMARY:Knowledge Politics
-UID:8294f2df-20ad-4010-890d-bfc2bc835be5@8294.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/08/knowledge-politics.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/24/modelling-rest-cuing-recovery.html\n\nReimagining Performance Art and Pedagogy for a Post-COVID Context.  A Performance-Defense with Victoria Stanton\n\nNovember 24\, 2026\, 2 p.m. - 5 p.m.
 DTEND:20261124T220000Z
 DTSTART:20261124T190000Z
 SUMMARY:Modelling Rest\, Cuing Recovery
-UID:749d0cc7-e619-4f4e-926d-75999fe72262@749d.org
+UID:8d4673c2-1bec-4c35-aa5e-89356a445190@8d46.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/24/modelling-rest-cuing-recovery.html
 END:VEVENT
 BEGIN:VEVENT
@@ -86,15 +22,79 @@ DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices
 DTEND:20261120T220000Z
 DTSTART:20261120T200000Z
 SUMMARY:The Iron Ring Podcast: What a Decade in Engineering Teaches You
-UID:3d5858e2-5e3c-4c31-8ed2-b425744db578@3d58.org
+UID:70af257d-d9e0-4089-9c51-ce5873120103@70af.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/20/the-iron-ring.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html\n\nDecoding Age Verification in the Digital Era - Book Launch \n\nDecember 10\, 2026\, 11 a.m. - 1 p.m.
+DTEND:20261210T180000Z
+DTSTART:20261210T160000Z
+SUMMARY:Safe or Secure?
+UID:77b95228-e341-467a-8cdd-4c72a0a7a74d@77b9.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/20/why-concordia.html\n\nStudent Stories on Choosing Grad School\n\nNovember 20\, 2026\, 11 a.m. - 12 p.m.
+DTEND:20261120T170000Z
+DTSTART:20261120T160000Z
+SUMMARY:Why Concordia\, Why Now?
+UID:c7fd8432-0ce8-4262-a252-27fb2d0d4595@c7fd.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/20/why-concordia.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/from-prompt-to-sound.html\n\nCTRL + AI - Vibe coding\, generative instruments and the author's perception\n\nDecember 10\, 2026\, 3 p.m. - 5 p.m.
+DTEND:20261210T220000Z
+DTSTART:20261210T200000Z
+SUMMARY:From Prompt to Sound: Where Does the Musician Go?
+UID:aff01e0d-1f96-490d-abee-00b588976e00@aff0.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/from-prompt-to-sound.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html\n\nFrom Arrival to Belonging\n\nDecember 9\, 2026\, 1 p.m. - 3 p.m.
+DTEND:20261209T200000Z
+DTSTART:20261209T180000Z
+SUMMARY:Film Screening: Regional Realities
+UID:350c8ec5-bb51-4c9f-9320-6d8eca679e9e@350c.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/26/renaissance-cuisine.html\n\nCooking with Bartolomeo Scappi\n\nNovember 26\, 2026\, 9 a.m. - 10:15 a.m.
 DTEND:20261126T151500Z
 DTSTART:20261126T140000Z
 SUMMARY:Renaissance Cuisine Class
-UID:e9c21f4d-d9e7-42db-a8fc-d4a54f45b284@e9c2.org
+UID:4f58f477-42e4-4737-8e88-40e66d128efc@4f58.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/26/renaissance-cuisine.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/07/ai-in-marketing-pitch-tank.html\n\n\nDecember 7\, 2026\, 1 p.m. - 2:30 p.m.
+DTEND:20261207T193000Z
+DTSTART:20261207T180000Z
+SUMMARY:Talking Shop: AI in Marketing Pitch Tank
+UID:6075aed0-1f59-464d-9f29-294fe32e8911@6075.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/07/ai-in-marketing-pitch-tank.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/27/activating-black-mtl.html\n\nStudent Presentations from the Black Montreal Course \n\nNovember 27\, 2026\, 2:45 p.m. - 5:30 p.m.
+DTEND:20261127T223000Z
+DTSTART:20261127T194500Z
+SUMMARY:Activating Black Montreal
+UID:8ecb92ed-ecf6-470e-a66b-4a7eb58b3a10@8ecb.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/27/activating-black-mtl.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/25/living-questions.html\n\nExploring the Stories\, Significance\, and Possibilities Behind Research\n\nNovember 25\, 2026\, 11 a.m. - 2 p.m.
+DTEND:20261125T190000Z
+DTSTART:20261125T160000Z
+SUMMARY:Living Questions
+UID:24a564e9-2398-489c-a70c-7cffca1c3343@24a5.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/11/25/living-questions.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/08/knowledge-politics.html\n\nAcademic freedom and institutional neutrality in an age of culture wars\n\nDecember 8\, 2026\, 3 p.m. - 5 p.m.An in-depth discussion on the politics of knowledge production and the responsibilities of academic institutions amid shifting expectations and intensifying public scrutiny.
+DTEND:20261208T220000Z
+DTSTART:20261208T200000Z
+SUMMARY:Knowledge Politics
+UID:2ae44eb7-73a3-4db0-a320-810159bcce04@2ae4.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/08/knowledge-politics.html
 END:VEVENT
 END:VCALENDAR
