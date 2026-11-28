@@ -2,19 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/02/circa-in-tangible.html\n\nCritical Materiality Mediation Series\n\nDecember 2\, 2026\, 10 a.m. - 1 p.m.
+DTEND:20261202T180000Z
+DTSTART:20261202T150000Z
+SUMMARY:Circa (In)tangible
+UID:409a568b-d6c8-4809-839b-ff9f8122d50a@409a.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/02/circa-in-tangible.html
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/from-prompt-to-sound.html\n\nCTRL + AI - Vibe coding\, generative instruments and the author's perception\n\nDecember 10\, 2026\, 3 p.m. - 5 p.m.
 DTEND:20261210T220000Z
 DTSTART:20261210T200000Z
 SUMMARY:From Prompt to Sound: Where Does the Musician Go?
-UID:11ed9419-7856-4a3c-b43c-8a03ce460e59@11ed.org
+UID:92fb2204-429b-4c64-a6f8-21fab130dd5b@92fb.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/from-prompt-to-sound.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html\n\nRegional Realities: a Film Screening with QUESCREN\n\nDecember 9\, 2026\, 1 p.m. - 3 p.m.
+DTEND:20261209T200000Z
+DTSTART:20261209T180000Z
+SUMMARY:From Arrival to Belonging
+UID:a50f663c-bcd8-4d72-af64-c9448bc0d02d@a50f.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/08/knowledge-politics.html\n\nAcademic freedom and institutional neutrality in an age of culture wars\n\nDecember 8\, 2026\, 3 p.m. - 5 p.m.An in-depth discussion on the politics of knowledge production and the responsibilities of academic institutions amid shifting expectations and intensifying public scrutiny.
+DTEND:20261208T220000Z
+DTSTART:20261208T200000Z
+SUMMARY:Knowledge Politics
+UID:a6fb6ed0-7280-4786-8816-8414d095f2a6@a6fb.org
+URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/08/knowledge-politics.html
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/07/ai-in-marketing-pitch-tank.html\n\n\nDecember 7\, 2026\, 1 p.m. - 2:30 p.m.
 DTEND:20261207T193000Z
 DTSTART:20261207T180000Z
 SUMMARY:Talking Shop: AI in Marketing Pitch Tank
-UID:49a884be-48ce-4b63-960c-4ebc7ef8559a@49a8.org
+UID:3ec2e20e-cddd-4a01-b19f-cc3ef05bf40f@3ec2.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/07/ai-in-marketing-pitch-tank.html
 END:VEVENT
 BEGIN:VEVENT
@@ -22,7 +46,7 @@ DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices
 DTEND:20261211T210000Z
 DTSTART:20261211T190000Z
 SUMMARY:Meaningful Work in the Age of AI
-UID:d87dcf99-a6b4-4455-8c6a-354747d9518c@d87d.org
+UID:e6e659ed-1a64-4d9f-92a4-880de742f0bf@e6e6.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/11/meaningful-work-in-age-of-ai.html
 END:VEVENT
 BEGIN:VEVENT
@@ -30,7 +54,7 @@ DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices
 DTEND:20261203T213000Z
 DTSTART:20261203T180000Z
 SUMMARY:Traces of Being
-UID:eeffdf32-a3b6-49f9-90fe-4ccce5e469b7@eeff.org
+UID:e4c40df2-f075-4e7f-be66-e5dfecbc687d@e4c4.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/03/traces-of-being.html
 END:VEVENT
 BEGIN:VEVENT
@@ -38,31 +62,7 @@ DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices
 DTEND:20261210T180000Z
 DTSTART:20261210T160000Z
 SUMMARY:Safe or Secure?
-UID:5e418d93-31b1-4e05-b2eb-f7057a4bbeec@5e41.org
+UID:a0d435c5-d365-4070-bb8c-c0d112f3d6d8@a0d4.org
 URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/10/safe-or-secure.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/08/knowledge-politics.html\n\nAcademic freedom and institutional neutrality in an age of culture wars\n\nDecember 8\, 2026\, 3 p.m. - 5 p.m.An in-depth discussion on the politics of knowledge production and the responsibilities of academic institutions amid shifting expectations and intensifying public scrutiny.
-DTEND:20261208T220000Z
-DTSTART:20261208T200000Z
-SUMMARY:Knowledge Politics
-UID:309b5138-ad72-4b8a-b414-8d61bd5ef4f7@309b.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/08/knowledge-politics.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html\n\nRegional Realities: a Film Screening with QUESCREN\n\nDecember 9\, 2026\, 1 p.m. - 3 p.m.
-DTEND:20261209T200000Z
-DTSTART:20261209T180000Z
-SUMMARY:From Arrival to Belonging
-UID:f3e048e0-fc01-4af8-aa48-50d2fc28815a@f3e0.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/09/regional-realities.html
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Event link: http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/02/circa-in-tangible.html\n\nCritical Materiality Mediation Series\n\nDecember 2\, 2026\, 10 a.m. - 1 p.m.
-DTEND:20261202T180000Z
-DTSTART:20261202T150000Z
-SUMMARY:Circa (In)tangible
-UID:095d9dd8-1848-4ca1-9f0d-fa46f8d2b7a4@095d.org
-URL:http://www.concordia.ca/content/shared/en/events/offices/provost/fourth-space/2026/12/02/circa-in-tangible.html
 END:VEVENT
 END:VCALENDAR
